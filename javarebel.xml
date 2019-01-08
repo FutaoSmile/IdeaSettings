@@ -1,0 +1,12 @@
+<application>
+  <component name="JavaRebelPlugin">
+    <option name="ideInstallationStorage">
+      <map>
+        <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
+        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2018.2.4" />
+      </map>
+    </option>
+  </component>
+</application>

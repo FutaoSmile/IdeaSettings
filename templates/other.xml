@@ -1,0 +1,14 @@
+<templateSet group="other">
+  <template name="test" value="@Test&#10;public void test$VAR$(){&#10;    &#10;}" description="生成测试方法" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logger" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS_NAME$.class);" description="生成LOGGER" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

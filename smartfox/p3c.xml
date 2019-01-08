@@ -1,0 +1,6 @@
+<application>
+  <component name="P3cConfig">
+    <option name="analysisBeforeCheckin" value="true" />
+    <option name="locale" value="zh" />
+  </component>
+</application>

@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="斜杠" />
+      <item value="后缀" />
+      <item value="manually" />
+      <item value="traffic" />
+      <item value="Inbound" />
+      <item value="get Candidate Configurations" />
+      <item value="Determine" />
+      <item value="渴望" />
+      <item value="分隔符" />
+      <item value="SPLITOR" />
+      <item value="未知" />
+      <item value="UNKOWN" />
+      <item value="write Internal" />
+      <item value="extending" />
+      <item value="hook" />
+      <item value="Endpoint" />
+      <item value="Ant" />
+      <item value="narrowing" />
+      <item value="equivalent" />
+      <item value="The primary mapping expressed by this annotation." />
+      <item value="primary" />
+      <item value="The primary mapping expressed by this annotation. * &lt;p&gt;This is an alias for {@link #path}. For example * {@code @RequestMapping(&quot;/foo&quot;)} is equivalent to * {@code @RequestMapping(path=&quot;/foo&quot;)}. * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method-level mappings inherit * this primary mapping, narrowing it for a specific handler method." />
+      <item value="The path mapping URIs (e.g. &quot;/myPath.do&quot;). * Ant-style path patterns are also supported (e.g. &quot;/myPath/*.do&quot;). * At the method level, relative paths (e.g. &quot;edit.do&quot;) are supported * within the primary mapping expressed at the type level. * Path mapping URIs may contain placeholders (e.g. &quot;/${connect}&quot;). * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method-level mappings inherit * this primary mapping, narrowing it for a specific handler method." />
+      <item value="edit" />
+      <item value="* The path mapping URIs (e.g. &quot;/myPath.do&quot;). * Ant-style path patterns are also supported (e.g. &quot;/myPath/*.do&quot;). * At the method level, relative paths (e.g. &quot;edit.do&quot;) are supported * within the primary mapping expressed at the type level. * Path mapping URIs may contain placeholders (e.g. &quot;/${connect}&quot;). * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method-level mappings inherit * this primary mapping, narrowing it for a specific handler method." />
+      <item value="inherit" />
+      <item value="expressed" />
+      <item value="is Annotation Present" />
+      <item value="Incorrect Credentials Exception" />
+      <item value="canonical" />
+      <item value="underlying" />
+      <item value="primitive" />
+      <item value="honor Inherited" />
+      <item value="indicates" />
+      <item value="Declared" />
+      <item value="过期" />
+      <item value="失败" />
+      <item value="正常" />
+      <item value="Unrecognized" />
+      <item value="Unrecognized option" />
+      <item value="Bounds" />
+      <item value="count" />
+      <item value="两位小数" />
+      <item value="小数" />
+      <item value="analys" />
+      <item value="analyis" />
+      <item value="解析" />
+      <item value="prohibited" />
+      <item value="inspection" />
+      <item value="功能" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="47" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="LITHUANIAN" value="1" />
+        <entry key="SWEDISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="render" />
       <item value="斜杠" />
       <item value="后缀" />
       <item value="manually" />
@@ -50,7 +51,6 @@
       <item value="解析" />
       <item value="prohibited" />
       <item value="inspection" />
-      <item value="功能" />
     </histories>
     <option name="languageScores">
       <map>

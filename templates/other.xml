@@ -11,4 +11,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="method" value="public void $VAR$(){&#10;    &#10;}" description="生成方法" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

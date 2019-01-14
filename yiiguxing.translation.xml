@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="访问太频繁" />
       <item value="render" />
       <item value="斜杠" />
       <item value="后缀" />
@@ -50,12 +51,11 @@
       <item value="analyis" />
       <item value="解析" />
       <item value="prohibited" />
-      <item value="inspection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="50" />
         <entry key="CROATIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -63,21 +63,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="AUTO" />
-      </youdao-translate>
-    </option>
   </component>
 </application>

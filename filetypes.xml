@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="developers" type="Groovy" />
       <mapping pattern="profiles" type="Groovy" />
+      <mapping pattern="L" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

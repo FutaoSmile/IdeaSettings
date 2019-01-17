@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="anonymous" />
+      <item value="anonymous users" />
       <item value="Closeable Http Async Client" />
       <item value="片段" />
       <item value="代码块" />
@@ -49,8 +51,6 @@
       <item value="Unrecognized" />
       <item value="Unrecognized option" />
       <item value="Bounds" />
-      <item value="count" />
-      <item value="两位小数" />
     </histories>
     <option name="languageScores">
       <map>

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* By default when the DispatcherServlet can't find a handler for a request it * sends a 404 response. However if its property &quot;throwExceptionIfNoHandlerFound&quot; * is set to {@code true} this exception is raised and may be handled with * a configured HandlerExceptionResolver." />
+      <item value="Flushes" />
       <item value="anonymous" />
       <item value="anonymous users" />
       <item value="Closeable Http Async Client" />
@@ -49,13 +51,11 @@
       <item value="失败" />
       <item value="正常" />
       <item value="Unrecognized" />
-      <item value="Unrecognized option" />
-      <item value="Bounds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="CROATIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SWEDISH" value="1" />

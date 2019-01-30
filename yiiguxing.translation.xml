@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="列" />
+      <item value="行" />
+      <item value="clonum" />
       <item value="Confusing argument 'cookies', unclear if a varargs or non-varargs call is desired less... (⌘F1)" />
       <item value="indicate" />
       <item value="* By default when the DispatcherServlet can't find a handler for a request it * sends a 404 response. However if its property &quot;throwExceptionIfNoHandlerFound&quot; * is set to {@code true} this exception is raised and may be handled with * a configured HandlerExceptionResolver." />
@@ -48,15 +51,13 @@
       <item value="primitive" />
       <item value="honor Inherited" />
       <item value="indicates" />
-      <item value="Declared" />
-      <item value="过期" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="60" />
         <entry key="CROATIAN" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>

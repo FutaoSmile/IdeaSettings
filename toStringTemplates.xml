@@ -1,5 +1,5 @@
 <application>
   <component name="ToStringTemplates">
-    <option name="defaultTempalteName" value="MoreObjects.toStringHelper (Guava 18+)" />
+    <option name="defaultTempalteName" value="Groovy: String concat (+) and super.toString()" />
   </component>
 </application>

@@ -15,5 +15,6 @@
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
   </component>
 </application>

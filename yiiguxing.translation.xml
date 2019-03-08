@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="列" />
       <item value="focus on" />
       <item value="Invocation" />
       <item value="The maker annotation that invoke a flush statements via Mapper interface." />
       <item value="不合法" />
       <item value="Mainsite" />
-      <item value="列" />
       <item value="行" />
       <item value="clonum" />
       <item value="Confusing argument 'cookies', unclear if a varargs or non-varargs call is desired less... (⌘F1)" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
+        <entry key="CHINESE" value="64" />
         <entry key="ENGLISH" value="64" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

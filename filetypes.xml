@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ServiceImplTemplate" type="FTL" />
       <mapping pattern="ControllerTemplate" type="FTL" />
       <mapping ext="modeltemplate" type="FTL" />
       <mapping pattern="developers" type="Groovy" />

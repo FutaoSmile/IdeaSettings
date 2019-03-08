@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="modeltemplate" type="FTL" />
       <mapping pattern="developers" type="Groovy" />
       <mapping pattern="profiles" type="Groovy" />
       <mapping pattern="L" type="PLAIN_TEXT" />

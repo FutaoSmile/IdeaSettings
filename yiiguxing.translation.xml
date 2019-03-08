@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Model Definer" />
+      <item value="Model Define" />
+      <item value="Defind" />
+      <item value="Definder" />
+      <item value="Model Definder" />
       <item value="列" />
       <item value="focus on" />
       <item value="Invocation" />
@@ -46,19 +51,15 @@
       <item value="The primary mapping expressed by this annotation. * &lt;p&gt;This is an alias for {@link #path}. For example * {@code @RequestMapping(&quot;/foo&quot;)} is equivalent to * {@code @RequestMapping(path=&quot;/foo&quot;)}. * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method-level mappings inherit * this primary mapping, narrowing it for a specific handler method." />
       <item value="The path mapping URIs (e.g. &quot;/myPath.do&quot;). * Ant-style path patterns are also supported (e.g. &quot;/myPath/*.do&quot;). * At the method level, relative paths (e.g. &quot;edit.do&quot;) are supported * within the primary mapping expressed at the type level. * Path mapping URIs may contain placeholders (e.g. &quot;/${connect}&quot;). * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method-level mappings inherit * this primary mapping, narrowing it for a specific handler method." />
       <item value="edit" />
-      <item value="* The path mapping URIs (e.g. &quot;/myPath.do&quot;). * Ant-style path patterns are also supported (e.g. &quot;/myPath/*.do&quot;). * At the method level, relative paths (e.g. &quot;edit.do&quot;) are supported * within the primary mapping expressed at the type level. * Path mapping URIs may contain placeholders (e.g. &quot;/${connect}&quot;). * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method-level mappings inherit * this primary mapping, narrowing it for a specific handler method." />
-      <item value="inherit" />
-      <item value="expressed" />
-      <item value="is Annotation Present" />
-      <item value="Incorrect Credentials Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="68" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>

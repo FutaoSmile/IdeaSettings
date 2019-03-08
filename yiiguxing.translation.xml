@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interpreted" />
+      <item value="The package that contains the templates, in path ({@code /}-separated) format. If it doesn't start * with a {@code /} then it's relative to the path (package) of the {@code resourceLoaderClass} class. If * it starts with {@code /} then it's relative to the root of the package hierarchy. Note that path * components should be separated by forward slashes independently of the separator character used by the * underlying operating system. This parameter can't be {@code null}. *" />
+      <item value="The package that contains the templates, in path ({@code /}-separated) format. If it doesn't start * with a {@code /} then it's relative to the path (package) of the {@code resourceLoaderClass} class. If * it starts with {@code /} then it's relative to the root of the package hierarchy. Note that path * components should be separated by forward slashes independently of the separator character used by the * underlying operating system. This parameter can't be {@code null}." />
       <item value="Model Definer" />
       <item value="Model Define" />
       <item value="Defind" />
@@ -48,14 +51,11 @@
       <item value="equivalent" />
       <item value="The primary mapping expressed by this annotation." />
       <item value="primary" />
-      <item value="The primary mapping expressed by this annotation. * &lt;p&gt;This is an alias for {@link #path}. For example * {@code @RequestMapping(&quot;/foo&quot;)} is equivalent to * {@code @RequestMapping(path=&quot;/foo&quot;)}. * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method-level mappings inherit * this primary mapping, narrowing it for a specific handler method." />
-      <item value="The path mapping URIs (e.g. &quot;/myPath.do&quot;). * Ant-style path patterns are also supported (e.g. &quot;/myPath/*.do&quot;). * At the method level, relative paths (e.g. &quot;edit.do&quot;) are supported * within the primary mapping expressed at the type level. * Path mapping URIs may contain placeholders (e.g. &quot;/${connect}&quot;). * &lt;p&gt;&lt;b&gt;Supported at the type level as well as at the method level!&lt;/b&gt; * When used at the type level, all method-level mappings inherit * this primary mapping, narrowing it for a specific handler method." />
-      <item value="edit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />

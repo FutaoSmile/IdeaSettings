@@ -1,5 +1,5 @@
 <application>
   <component name="ToStringTemplates">
-    <option name="defaultTempalteName" value="StringJoiner (JDK 1.8)" />
+    <option name="defaultTempalteName" value="String concat (+) and super.toString()" />
   </component>
 </application>

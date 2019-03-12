@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Daemon" />
+      <item value="is Interrupted" />
       <item value="service Transaction Timeout Time" />
       <item value="Positive" />
       <item value="interpreted" />
@@ -49,13 +51,11 @@
       <item value="hook" />
       <item value="Endpoint" />
       <item value="Ant" />
-      <item value="narrowing" />
-      <item value="equivalent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />

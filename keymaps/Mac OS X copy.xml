@@ -6,4 +6,7 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
 </keymap>

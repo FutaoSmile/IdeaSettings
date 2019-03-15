@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/22160c18_ibatis-3-mapper.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/334543e7_spring-beans.xsd" />
   </component>
 </application>

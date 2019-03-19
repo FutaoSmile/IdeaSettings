@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duration" />
+      <item value="expiration" />
+      <item value="renewal" />
+      <item value="interval" />
       <item value="Undeclared Throwable Exception" />
       <item value="Callback used to run the bean." />
       <item value="affiliates" />
@@ -47,15 +51,11 @@
       <item value="get Candidate Configurations" />
       <item value="Determine" />
       <item value="渴望" />
-      <item value="分隔符" />
-      <item value="SPLITOR" />
-      <item value="未知" />
-      <item value="UNKOWN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="webflux" />
+      <item value="内置webflux" />
       <item value="Common Tools" />
       <item value="duration" />
       <item value="expiration" />
@@ -49,13 +51,11 @@
       <item value="manually" />
       <item value="traffic" />
       <item value="Inbound" />
-      <item value="get Candidate Configurations" />
-      <item value="Determine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />

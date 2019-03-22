@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decrement" />
       <item value="Security Util.is Package Protection Enabled()" />
       <item value="webflux" />
       <item value="内置webflux" />
@@ -50,12 +51,11 @@
       <item value="斜杠" />
       <item value="后缀" />
       <item value="manually" />
-      <item value="traffic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />

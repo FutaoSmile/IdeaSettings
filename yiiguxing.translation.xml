@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)" />
+      <item value="eligible" />
       <item value="asynchronous" />
       <item value="Ratio" />
       <item value="strictly positive numbe" />
@@ -49,13 +51,11 @@
       <item value="片段" />
       <item value="代码块" />
       <item value="代码片段" />
-      <item value="fragment" />
-      <item value="访问太频繁" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />

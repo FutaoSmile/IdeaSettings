@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="strictly positive numbe" />
       <item value="PASSWORD WRONG" />
       <item value="decrement" />
       <item value="Security Util.is Package Protection Enabled()" />
@@ -50,12 +51,11 @@
       <item value="访问太频繁" />
       <item value="render" />
       <item value="斜杠" />
-      <item value="后缀" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />

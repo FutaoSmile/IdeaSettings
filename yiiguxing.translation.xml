@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a positive number or 0" />
       <item value="This instance method writes to a static field. This is tricky to get correct if multiple instances are being manipulated, and generally bad practice." />
       <item value="Found reliance on default encoding: new java.io.FileWriter(File)" />
       <item value="is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)" />
@@ -50,12 +51,11 @@
       <item value="anonymous" />
       <item value="anonymous users" />
       <item value="Closeable Http Async Client" />
-      <item value="片段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
@@ -65,21 +65,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="AUTO" />
-      </youdao-translate>
-    </option>
   </component>
 </application>

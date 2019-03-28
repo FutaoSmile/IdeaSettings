@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Annotation that can be used to associate the part of a &quot;multipart/form-data&quot; request * with a method argument." />
       <item value="a positive number or 0" />
       <item value="This instance method writes to a static field. This is tricky to get correct if multiple instances are being manipulated, and generally bad practice." />
       <item value="Found reliance on default encoding: new java.io.FileWriter(File)" />
@@ -50,12 +51,11 @@
       <item value="Flushes" />
       <item value="anonymous" />
       <item value="anonymous users" />
-      <item value="Closeable Http Async Client" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />

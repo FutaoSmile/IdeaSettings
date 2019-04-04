@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
       <item value="support was removed in 8.0" />
       <item value="intern" />
       <item value="* A pool of strings, initially empty, is maintained privately by the * class {@code String}." />
@@ -50,11 +51,10 @@
       <item value="行" />
       <item value="clonum" />
       <item value="Confusing argument 'cookies', unclear if a varargs or non-varargs call is desired less... (⌘F1)" />
-      <item value="indicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
+        <entry key="CHINESE" value="101" />
         <entry key="ENGLISH" value="101" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

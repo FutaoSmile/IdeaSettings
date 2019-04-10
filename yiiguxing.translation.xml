@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="increment" />
+      <item value="amount" />
       <item value="massage" />
       <item value="masage" />
       <item value="Junior" />
@@ -49,13 +51,11 @@
       <item value="Model Definer" />
       <item value="Model Define" />
       <item value="Defind" />
-      <item value="Definder" />
-      <item value="Model Definder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />

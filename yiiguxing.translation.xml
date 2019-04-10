@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原则" />
       <item value="Skip Rewrite" />
       <item value="summer" />
       <item value="Basic Summer" />
@@ -50,11 +51,10 @@
       <item value="Invocation" />
       <item value="The maker annotation that invoke a flush statements via Mapper interface." />
       <item value="不合法" />
-      <item value="Mainsite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
+        <entry key="CHINESE" value="104" />
         <entry key="ENGLISH" value="104" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

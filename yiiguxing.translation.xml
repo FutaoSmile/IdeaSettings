@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="massage" />
+      <item value="masage" />
+      <item value="Junior" />
+      <item value="低级的" />
+      <item value="Senior" />
       <item value="原则" />
       <item value="Skip Rewrite" />
       <item value="summer" />
@@ -46,22 +51,18 @@
       <item value="Defind" />
       <item value="Definder" />
       <item value="Model Definder" />
-      <item value="列" />
-      <item value="focus on" />
-      <item value="Invocation" />
-      <item value="The maker annotation that invoke a flush statements via Mapper interface." />
-      <item value="不合法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>

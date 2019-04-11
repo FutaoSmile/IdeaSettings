@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="saic" />
+      <item value="travel" />
+      <item value="ignite" />
       <item value="aggressive Lazy Loading" />
       <item value="synchronization" />
       <item value="deregistering" />
@@ -48,14 +51,11 @@
       <item value="is Daemon" />
       <item value="is Interrupted" />
       <item value="service Transaction Timeout Time" />
-      <item value="Positive" />
-      <item value="interpreted" />
-      <item value="The package that contains the templates, in path ({@code /}-separated) format. If it doesn't start * with a {@code /} then it's relative to the path (package) of the {@code resourceLoaderClass} class. If * it starts with {@code /} then it's relative to the root of the package hierarchy. Note that path * components should be separated by forward slashes independently of the separator character used by the * underlying operating system. This parameter can't be {@code null}. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />

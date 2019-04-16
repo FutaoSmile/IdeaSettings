@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sneaky Throws" />
       <item value="TORRENT" />
       <item value="TOTTENT" />
       <item value="种子" />
@@ -50,12 +51,11 @@
       <item value="duration" />
       <item value="expiration" />
       <item value="renewal" />
-      <item value="interval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

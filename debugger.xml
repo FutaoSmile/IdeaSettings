@@ -78,6 +78,11 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ToStringRenderer">
+      <option name="ENABLED" value="false" />
+    </Renderer>
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />

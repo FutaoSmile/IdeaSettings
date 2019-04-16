@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="缩略图" />
       <item value="set Foundation Info" />
       <item value="slide" />
       <item value="slid" />
-      <item value="缩略图" />
       <item value="decorate Data" />
       <item value="floder" />
       <item value="width" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
+        <entry key="CHINESE" value="129" />
         <entry key="ENGLISH" value="129" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />

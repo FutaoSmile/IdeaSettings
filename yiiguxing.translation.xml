@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="缩略图" />
+      <item value="decorate Data" />
+      <item value="floder" />
+      <item value="width" />
+      <item value="Length" />
       <item value="Sneaky Throws" />
       <item value="TORRENT" />
       <item value="TOTTENT" />
@@ -46,23 +51,18 @@
       <item value="decrement" />
       <item value="Security Util.is Package Protection Enabled()" />
       <item value="webflux" />
-      <item value="内置webflux" />
-      <item value="Common Tools" />
-      <item value="duration" />
-      <item value="expiration" />
-      <item value="renewal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="126" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="SWEDISH" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>

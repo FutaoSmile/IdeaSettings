@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invoked" />
+      <item value="invocation" />
+      <item value="business" />
       <item value="Data truncation: Truncated incorrect DOUBLE value:" />
       <item value="Truncated" />
       <item value="height" />
@@ -48,14 +51,11 @@
       <item value="* A pool of strings, initially empty, is maintained privately by the * class {@code String}." />
       <item value="* Returns a canonical representation for the string object." />
       <item value="* Annotation that can be used to associate the part of a &quot;multipart/form-data&quot; request * with a method argument." />
-      <item value="a positive number or 0" />
-      <item value="This instance method writes to a static field. This is tricky to get correct if multiple instances are being manipulated, and generally bad practice." />
-      <item value="Found reliance on default encoding: new java.io.FileWriter(File)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

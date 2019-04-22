@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="direct" />
       <item value="Subscriber" />
       <item value="Sneaky Throws" />
       <item value="invoked" />
@@ -50,12 +51,11 @@
       <item value="support was removed in 8.0" />
       <item value="intern" />
       <item value="* A pool of strings, initially empty, is maintained privately by the * class {@code String}." />
-      <item value="* Returns a canonical representation for the string object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

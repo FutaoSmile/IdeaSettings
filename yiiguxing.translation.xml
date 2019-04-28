@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Folder File Check" />
+      <item value="Contain File" />
       <item value="Common Test" />
       <item value="anchor" />
       <item value="direct" />
@@ -49,13 +51,11 @@
       <item value="Skip Rewrite" />
       <item value="summer" />
       <item value="Basic Summer" />
-      <item value="前缀" />
-      <item value="support was removed in 8.0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

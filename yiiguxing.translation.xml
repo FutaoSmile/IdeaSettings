@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Common Test" />
       <item value="anchor" />
       <item value="direct" />
       <item value="Subscriber" />
@@ -50,12 +51,11 @@
       <item value="Basic Summer" />
       <item value="前缀" />
       <item value="support was removed in 8.0" />
-      <item value="intern" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

@@ -6,6 +6,10 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="FutaoSmile" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dt-git.byton.cn" />
+          <option name="userName" value="jerryx" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>

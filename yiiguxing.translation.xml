@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="labelling" />
       <item value="Immutable" />
       <item value="Folder File Check" />
       <item value="Contain File" />
@@ -50,12 +51,11 @@
       <item value="Senior" />
       <item value="原则" />
       <item value="Skip Rewrite" />
-      <item value="summer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '.../biz-questionnaire [byton-backend.biz-questionnaire]'" />
+    <option name="defaultScopeName" value="Directory '.../biz-questionnaire [byton-backend.biz-questionnaire]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../biz-questionnaire [byton-backend.biz-questionnaire]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclude Packages" />
       <item value="strip Prefix" />
       <item value="phase" />
       <item value="labelling" />
@@ -50,12 +51,11 @@
       <item value="masage" />
       <item value="Junior" />
       <item value="低级的" />
-      <item value="Senior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

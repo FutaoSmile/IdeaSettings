@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Annotation that marks a method to be the target of a Rabbit message * listener within a class that is annotated with {@link RabbitListener}. * * &lt;p&gt;See the {@link RabbitListener} for information about permitted method signatures * and available parameters. * &lt;p&gt;&lt;b&gt;It is important to understand that when a message arrives, the method selection * depends on the payload type. The type is matched with a single non-annotated parameter, * or one that is annotated with {@code @Payload}. * There must be no ambiguity - the system * must be able to select exactly one method based on the payload type.&lt;/b&gt; *" />
       <item value="Bearer" />
       <item value="exclude Packages" />
       <item value="strip Prefix" />
@@ -50,12 +51,11 @@
       <item value="amount" />
       <item value="massage" />
       <item value="masage" />
-      <item value="Junior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

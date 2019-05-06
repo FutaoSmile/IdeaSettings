@@ -10,6 +10,10 @@
           <option name="url" value="http://dt-git.byton.cn" />
           <option name="userName" value="jerryx" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="FutaoSmile" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>

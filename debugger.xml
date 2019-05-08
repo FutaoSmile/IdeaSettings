@@ -83,6 +83,9 @@
       <option name="ON_DEMAND" value="true" />
     </Renderer>
   </component>
+  <component name="ThreadsViewSettings">
+    <option name="SHOW_SOURCE_NAME" value="true" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general>

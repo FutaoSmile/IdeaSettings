@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tail" />
       <item value="FORMULA" />
       <item value="numeric" />
       <item value="fields" />
@@ -50,12 +51,11 @@
       <item value="ignite" />
       <item value="aggressive Lazy Loading" />
       <item value="synchronization" />
-      <item value="deregistering" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

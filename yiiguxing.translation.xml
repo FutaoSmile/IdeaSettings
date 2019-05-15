@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="portal" />
+      <item value="All rights reserved" />
       <item value="Attempting" />
       <item value="multiplier" />
       <item value="* The PostConstruct annotation is used on a method that needs to be executed * after dependency injection is done to perform any initialization. This * method MUST be invoked before the class is put into service. This * annotation MUST be supported on all classes that support dependency * injection. The method annotated with PostConstruct MUST be invoked even * if the class does not request any resources to be injected. Only one * method can be annotated with this annotation. The method on which the * PostConstruct annotation is applied MUST fulfill all of the following" />
@@ -49,13 +51,11 @@
       <item value="raw" />
       <item value="Role Junior" />
       <item value="复杂" />
-      <item value="saic" />
-      <item value="travel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Positive" />
       <item value="Const" />
       <item value="externalized" />
       <item value="feature" />
@@ -50,12 +51,11 @@
       <item value="Length" />
       <item value="TORRENT" />
       <item value="TOTTENT" />
-      <item value="种子" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

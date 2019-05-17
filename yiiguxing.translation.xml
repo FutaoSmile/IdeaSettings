@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Const" />
+      <item value="externalized" />
       <item value="feature" />
       <item value="集成" />
       <item value="integration" />
@@ -49,13 +51,11 @@
       <item value="TORRENT" />
       <item value="TOTTENT" />
       <item value="种子" />
-      <item value="TOTTENTS" />
-      <item value="/** * Container providing asynchronous behaviour for Redis message listeners. Handles the low level details of listening, * converting and message dispatching." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

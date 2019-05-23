@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Create Foundation Info" />
       <item value="Disable Circular Reference Detect" />
       <item value="Positive" />
       <item value="Const" />
@@ -50,12 +51,11 @@
       <item value="floder" />
       <item value="width" />
       <item value="Length" />
-      <item value="TORRENT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="DANISH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

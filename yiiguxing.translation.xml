@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The Java Virtual Machine exits when the only * threads running are all daemon threads" />
       <item value="Privority Thread" />
       <item value="video Duration" />
       <item value="head" />
@@ -50,12 +51,11 @@
       <item value="height" />
       <item value="hight" />
       <item value="resource List" />
-      <item value="source List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

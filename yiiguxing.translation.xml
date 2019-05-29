@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Privority Thread" />
       <item value="video Duration" />
       <item value="head" />
       <item value="rera" />
@@ -50,13 +51,13 @@
       <item value="hight" />
       <item value="resource List" />
       <item value="source List" />
-      <item value="缩略图" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
+        <entry key="CHINESE" value="177" />
         <entry key="ENGLISH" value="177" />
         <entry key="DANISH" value="2" />
+        <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />

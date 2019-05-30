@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Causes the current thread to wait until the latch has counted down to * zero, unless the thread is {@linkplain Thread#interrupt interrupted}. * * &lt;p&gt;If the current count is zero then this method returns immediately. * * &lt;p&gt;If the current count is greater than zero then the current * thread becomes disabled for thread scheduling purposes and lies * dormant until one of two things happen: * &lt;ul&gt; * &lt;li&gt;The count reaches zero due to invocations of the * {@link #countDown} method; or * &lt;li&gt;Some other thread {@linkplain Thread#interrupt interrupts} * the current thread. * &lt;/ul&gt;" />
       <item value="The Java Virtual Machine exits when the only * threads running are all daemon threads" />
       <item value="Privority Thread" />
       <item value="video Duration" />
@@ -50,12 +51,11 @@
       <item value="Truncated" />
       <item value="height" />
       <item value="hight" />
-      <item value="resource List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

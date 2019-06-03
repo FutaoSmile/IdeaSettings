@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uni Credit" />
       <item value="Allin" />
       <item value="close Quietly" />
       <item value="Causes the current thread to wait until the latch has counted down to * zero, unless the thread is {@linkplain Thread#interrupt interrupted}. * * &lt;p&gt;If the current count is zero then this method returns immediately. * * &lt;p&gt;If the current count is greater than zero then the current * thread becomes disabled for thread scheduling purposes and lies * dormant until one of two things happen: * &lt;ul&gt; * &lt;li&gt;The count reaches zero due to invocations of the * {@link #countDown} method; or * &lt;li&gt;Some other thread {@linkplain Thread#interrupt interrupts} * the current thread. * &lt;/ul&gt;" />
@@ -50,11 +51,10 @@
       <item value="invocation" />
       <item value="business" />
       <item value="Data truncation: Truncated incorrect DOUBLE value:" />
-      <item value="Truncated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
+        <entry key="CHINESE" value="181" />
         <entry key="ENGLISH" value="181" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -62,7 +62,7 @@
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="VIETNAMESE" value="1" />

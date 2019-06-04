@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whether to stop message delivery before re-delivering messages from a rolled back * transaction. This implies that message order is not preserved when this is enabled. */" />
+      <item value="Time to wait before considering a close complete." />
       <item value="uni Credit" />
       <item value="Allin" />
       <item value="close Quietly" />
@@ -49,13 +51,11 @@
       <item value="Sneaky Throws" />
       <item value="invoked" />
       <item value="invocation" />
-      <item value="business" />
-      <item value="Data truncation: Truncated incorrect DOUBLE value:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

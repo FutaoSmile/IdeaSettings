@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Blocking period before throwing an exception if the pool is still full." />
+      <item value="* Whether a PooledConnectionFactory should be created, instead of a regular * ConnectionFactory." />
       <item value="preinit" />
       <item value="* Whether the default destination type is topic." />
       <item value="Topic Definition" />
@@ -49,13 +51,11 @@
       <item value="phase" />
       <item value="labelling" />
       <item value="Immutable" />
-      <item value="Folder File Check" />
-      <item value="Contain File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

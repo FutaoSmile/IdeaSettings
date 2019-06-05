@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="覆盖" />
       <item value="With this acknowledgment mode, the client acknowledges a consumed * message by calling the message's {@code acknowledge} method. * Acknowledging a consumed message acknowledges all messages that the * session has consumed. * * &lt;P&gt;When client acknowledgment mode is used, a client may build up a * large number of unacknowledged messages while attempting to process * them. A JMS provider should provide administrators with a way to * limit client overrun so that clients are not driven to resource * exhaustion and ensuing failure when some resource they are using * is temporarily blocked." />
       <item value="Set the priority of a message when sending. * &lt;p&gt;Since a default value may be defined administratively, * this is only used when &quot;isExplicitQosEnabled&quot; equals &quot;true&quot;." />
       <item value="Whether to stop message delivery before re-delivering messages from a rolled back * transaction. This implies that message order is not preserved when this is enabled. */" />
@@ -50,11 +51,10 @@
       <item value="anchor" />
       <item value="direct" />
       <item value="Subscriber" />
-      <item value="Sneaky Throws" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
+        <entry key="CHINESE" value="185" />
         <entry key="ENGLISH" value="185" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />

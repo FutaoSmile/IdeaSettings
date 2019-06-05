@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A {@code Destination} object encapsulates a provider-specific * address. * The JMS API does not define a standard address syntax. Although a standard * address syntax was considered, it was decided that the differences in * address semantics between existing message-oriented middleware (MOM) * products were too wide to bridge with a single syntax. * * &lt;P&gt;Since {@code Destination} is an administered object, it may * contain * provider-specific configuration information in addition to its address. * * &lt;P&gt;The JMS API also supports a client's use of provider-specific address * names. * * &lt;P&gt;{@code Destination} objects support concurrent use. * * &lt;P&gt;A {@code Destination} object is a JMS administered object. * * &lt;P&gt;JMS administered objects are objects containing configuration * information that are created by an administrator and later used by * JMS clients. They make it practical to administer the JMS API in the * enterprise. * * &lt;P&gt;Although the interfaces for administered objects do not explicitly * depend on the Java Naming and Directory Interface (JNDI) API, the JMS API * establishes the convention that JMS clients find administered objects by * looking them up in a JNDI namespace. * * &lt;P&gt;An administrator can place an administered object anywhere in a * namespace. The JMS API does not define a naming policy. * * &lt;P&gt;It is expected that JMS providers will provide the tools an * administrator needs to create and configure administered objects in a * JNDI namespace. JMS provider implementations of administered objects * should implement the {@code javax.naming.Referenceable} and * {@code java.io.Serializable} interfaces so that they can be stored in * all JNDI naming contexts. In addition, it is recommended that these * implementations follow the JavaBeans&lt;SUP&gt;&lt;FONT SIZE=&quot;-2&quot;&gt;TM&lt;/FONT&gt;&lt;/SUP&gt; * design patterns. * * &lt;P&gt;This strategy provides several benefits: * * &lt;UL&gt; * &lt;LI&gt;It hides provider-specific details from JMS clients. * &lt;LI&gt;It abstracts JMS administrative information into objects in the Java * programming language (&quot;Java objects&quot;) * that are easily organized and administered from a common * management console. * &lt;LI&gt;Since there will be JNDI providers for all popular naming * services, JMS providers can deliver one implementation * of administered objects that will run everywhere. * &lt;/UL&gt; * * &lt;P&gt;An administered object should not hold on to any remote resources. * Its lookup should not use remote resources other than those used by the * JNDI API itself. * * &lt;P&gt;Clients should think of administered objects as local Java objects. * Looking them up should not have any hidden side effects or use surprising * amounts of local resources. *" />
       <item value="覆盖" />
       <item value="With this acknowledgment mode, the client acknowledges a consumed * message by calling the message's {@code acknowledge} method. * Acknowledging a consumed message acknowledges all messages that the * session has consumed. * * &lt;P&gt;When client acknowledgment mode is used, a client may build up a * large number of unacknowledged messages while attempting to process * them. A JMS provider should provide administrators with a way to * limit client overrun so that clients are not driven to resource * exhaustion and ensuing failure when some resource they are using * is temporarily blocked." />
       <item value="Set the priority of a message when sending. * &lt;p&gt;Since a default value may be defined administratively, * this is only used when &quot;isExplicitQosEnabled&quot; equals &quot;true&quot;." />
@@ -50,12 +51,11 @@
       <item value="Common Test" />
       <item value="anchor" />
       <item value="direct" />
-      <item value="Subscriber" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

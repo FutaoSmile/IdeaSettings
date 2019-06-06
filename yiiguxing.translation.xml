@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* @return the reply, possibly {@code null} if the message could not be received, * for example due to a timeout" />
       <item value="Expiring" />
       <item value="* Add Service and Referenceable and TransportListener to @link{org.apache.activemq.jms.pool.PooledConnectionFactory}" />
       <item value="* A ConnectionFactory is an an Administered object, and is used for creating * Connections. &lt;p/&gt; This class also implements QueueConnectionFactory and * TopicConnectionFactory. You can use this connection to create both * QueueConnections and TopicConnections." />
@@ -50,12 +51,11 @@
       <item value="* Annotation that marks a method to be the target of a Rabbit message * listener within a class that is annotated with {@link RabbitListener}. * * &lt;p&gt;See the {@link RabbitListener} for information about permitted method signatures * and available parameters. * &lt;p&gt;&lt;b&gt;It is important to understand that when a message arrives, the method selection * depends on the payload type. The type is matched with a single non-annotated parameter, * or one that is annotated with {@code @Payload}. * There must be no ambiguity - the system * must be able to select exactly one method based on the payload type.&lt;/b&gt; *" />
       <item value="Bearer" />
       <item value="exclude Packages" />
-      <item value="strip Prefix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

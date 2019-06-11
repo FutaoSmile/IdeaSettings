@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Reads a class file from the source and returns a reference * to the &lt;code&gt;CtClass&lt;/code&gt; * object representing that class file. If that class file has been * already read, this method returns a reference to the * &lt;code&gt;CtClass&lt;/code&gt; created when that class file was read at the * first time." />
+      <item value="Compilation" />
       <item value="* Set the timeout to use for receive calls, in &lt;b&gt;milliseconds&lt;/b&gt;. * The default is 1000 ms, that is, 1 second. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; This value needs to be smaller than the transaction * timeout used by the transaction manager (in the appropriate unit, * of course). 0 indicates no timeout at all; however, this is only * feasible if not running within a transaction manager and generally * discouraged since such a listener container cannot cleanly shut down. * A negative value such as -1 indicates a no-wait receive operation." />
       <item value="* Only acknowledge an individual message - using message.acknowledge() * as opposed to CLIENT_ACKNOWLEDGE which * acknowledges all messages consumed by a session at when acknowledge() * is called" />
       <item value="receive message" />
@@ -49,13 +51,11 @@
       <item value="FORMULA" />
       <item value="numeric" />
       <item value="fields" />
-      <item value="equivalent" />
-      <item value="Zuul Constant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

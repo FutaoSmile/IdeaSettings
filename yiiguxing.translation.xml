@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUFFIX" />
+      <item value="EXCEL SUFFIX" />
       <item value="* Requests that the file or directory denoted by this abstract * pathname be deleted when the virtual machine terminates. * Files (or directories) are deleted in the reverse order that * they are registered. Invoking this method to delete a file or * directory that is already registered for deletion has no effect. * Deletion will be attempted only for normal termination of the * virtual machine, as defined by the Java Language Specification. *" />
       <item value="附件" />
       <item value="attach" />
@@ -49,13 +51,11 @@
       <item value="All rights reserved" />
       <item value="Attempting" />
       <item value="multiplier" />
-      <item value="* The PostConstruct annotation is used on a method that needs to be executed * after dependency injection is done to perform any initialization. This * method MUST be invoked before the class is put into service. This * annotation MUST be supported on all classes that support dependency * injection. The method annotated with PostConstruct MUST be invoked even * if the class does not request any resources to be injected. Only one * method can be annotated with this annotation. The method on which the * PostConstruct annotation is applied MUST fulfill all of the following" />
-      <item value="tail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="签名" />
       <item value="sign Contract" />
       <item value="signed Up" />
       <item value="SUFFIX" />
@@ -50,11 +51,10 @@
       <item value="集成" />
       <item value="integration" />
       <item value="portal" />
-      <item value="All rights reserved" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
+        <entry key="CHINESE" value="204" />
         <entry key="ENGLISH" value="204" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />

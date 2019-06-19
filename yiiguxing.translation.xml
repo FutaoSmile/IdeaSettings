@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="集成" />
+      <item value="intergration" />
       <item value="* The {@code Void} class is an uninstantiable placeholder class to hold a * reference to the {@code Class} object representing the Java keyword * void." />
       <item value="duplicate" />
       <item value="attempted" />
@@ -49,13 +51,11 @@
       <item value="capacity" />
       <item value="capcity" />
       <item value="slow Sql Mills" />
-      <item value="prefer" />
-      <item value="set Create Foundation Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="212" />
+        <entry key="ENGLISH" value="212" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scale of the {@code BigDecimal}. * @return a {@code BigDecimal} whose value is * &lt;tt&gt;(unscaledVal &amp;times; 10&lt;sup&gt;-scale&lt;/sup&gt;)&lt;/tt&gt;." />
       <item value="EMBEDDED" />
       <item value="集成" />
       <item value="intergration" />
@@ -50,12 +51,11 @@
       <item value="head" />
       <item value="rera" />
       <item value="capacity" />
-      <item value="capcity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

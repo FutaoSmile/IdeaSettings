@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &lt;p&gt;Checks if none of the CharSequences are blank (&quot;&quot;) or null and whitespace only..&lt;/p&gt;" />
       <item value="answer" />
       <item value="Indicates" />
       <item value="scale of the {@code BigDecimal}. * @return a {@code BigDecimal} whose value is * &lt;tt&gt;(unscaledVal &amp;times; 10&lt;sup&gt;-scale&lt;/sup&gt;)&lt;/tt&gt;." />
@@ -50,12 +51,11 @@
       <item value="The Java Virtual Machine exits when the only * threads running are all daemon threads" />
       <item value="Privority Thread" />
       <item value="video Duration" />
-      <item value="head" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Effective POM" />
+      <item value="Effective" />
       <item value="async" />
       <item value="sync" />
       <item value="Explicitly" />
@@ -49,13 +51,11 @@
       <item value="* Add Service and Referenceable and TransportListener to @link{org.apache.activemq.jms.pool.PooledConnectionFactory}" />
       <item value="* A ConnectionFactory is an an Administered object, and is used for creating * Connections. &lt;p/&gt; This class also implements QueueConnectionFactory and * TopicConnectionFactory. You can use this connection to create both * QueueConnections and TopicConnections." />
       <item value="Blocking period before throwing an exception if the pool is still full." />
-      <item value="* Whether a PooledConnectionFactory should be created, instead of a regular * ConnectionFactory." />
-      <item value="preinit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />

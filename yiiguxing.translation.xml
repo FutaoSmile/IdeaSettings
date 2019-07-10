@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="约束" />
+      <item value="require" />
       <item value="* The identity of the principal being authenticated. In the case of an authentication * request with username and password, this would be the username. Callers are * expected to populate the principal for an authentication request. * &lt;p&gt; * The &lt;tt&gt;AuthenticationManager&lt;/tt&gt; implementation will often return an * &lt;tt&gt;Authentication&lt;/tt&gt; containing richer information as the principal for use by * the application. Many of the authentication providers will create a * {@code UserDetails} object as the principal. * * @return the &lt;code&gt;Principal&lt;/code&gt; being authenticated or the authenticated * principal after authentication." />
       <item value="CSRF" />
       <item value="eternal" />
@@ -49,13 +51,11 @@
       <item value="附件" />
       <item value="attach" />
       <item value="* Reads a class file from the source and returns a reference * to the &lt;code&gt;CtClass&lt;/code&gt; * object representing that class file. If that class file has been * already read, this method returns a reference to the * &lt;code&gt;CtClass&lt;/code&gt; created when that class file was read at the * first time." />
-      <item value="Compilation" />
-      <item value="* Set the timeout to use for receive calls, in &lt;b&gt;milliseconds&lt;/b&gt;. * The default is 1000 ms, that is, 1 second. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; This value needs to be smaller than the transaction * timeout used by the transaction manager (in the appropriate unit, * of course). 0 indicates no timeout at all; however, this is only * feasible if not running within a transaction manager and generally * discouraged since such a listener container cannot cleanly shut down. * A negative value such as -1 indicates a no-wait receive operation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="244" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />

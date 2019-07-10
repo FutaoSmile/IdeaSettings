@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="START ARRAY" />
       <item value="约束" />
       <item value="require" />
       <item value="* The identity of the principal being authenticated. In the case of an authentication * request with username and password, this would be the username. Callers are * expected to populate the principal for an authentication request. * &lt;p&gt; * The &lt;tt&gt;AuthenticationManager&lt;/tt&gt; implementation will often return an * &lt;tt&gt;Authentication&lt;/tt&gt; containing richer information as the principal for use by * the application. Many of the authentication providers will create a * {@code UserDetails} object as the principal. * * @return the &lt;code&gt;Principal&lt;/code&gt; being authenticated or the authenticated * principal after authentication." />
@@ -50,12 +51,11 @@
       <item value="* Requests that the file or directory denoted by this abstract * pathname be deleted when the virtual machine terminates. * Files (or directories) are deleted in the reverse order that * they are registered. Invoking this method to delete a file or * directory that is already registered for deletion has no effect. * Deletion will be attempted only for normal termination of the * virtual machine, as defined by the Java Language Specification. *" />
       <item value="附件" />
       <item value="attach" />
-      <item value="* Reads a class file from the source and returns a reference * to the &lt;code&gt;CtClass&lt;/code&gt; * object representing that class file. If that class file has been * already read, this method returns a reference to the * &lt;code&gt;CtClass&lt;/code&gt; created when that class file was read at the * first time." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />

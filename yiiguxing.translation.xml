@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ancestor" />
       <item value="struct Analysis" />
       <item value="源数据" />
       <item value="set Use Exponential Back Off" />
@@ -50,12 +51,11 @@
       <item value="is Exceed" />
       <item value="/** * Splits {@code sequence} into string components and returns them as an immutable list. If you * want an {@link Iterable} which may be lazily evaluated, use {@link #split(CharSequence)}. * * @param sequence the sequence of characters to split * @return an immutable list of the segments split from the parameter * @since 15.0 */" />
       <item value="Beta" />
-      <item value="分裂器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />

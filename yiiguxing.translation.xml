@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Handler" />
       <item value="repetition" />
       <item value="Ancestor" />
       <item value="struct Analysis" />
@@ -50,14 +51,13 @@
       <item value="duplicate" />
       <item value="attempted" />
       <item value="is Exceed" />
-      <item value="/** * Splits {@code sequence} into string components and returns them as an immutable list. If you * want an {@link Iterable} which may be lazily evaluated, use {@link #split(CharSequence)}. * * @param sequence the sequence of characters to split * @return an immutable list of the segments split from the parameter * @since 15.0 */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
+        <entry key="CHINESE" value="254" />
         <entry key="ENGLISH" value="254" />
         <entry key="BOSNIAN" value="1" />
-        <entry key="DANISH" value="2" />
+        <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />

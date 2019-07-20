@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="检查器" />
       <item value="supporter" />
       <item value="Handler" />
       <item value="repetition" />
@@ -50,11 +51,10 @@
       <item value="intergration" />
       <item value="* The {@code Void} class is an uninstantiable placeholder class to hold a * reference to the {@code Class} object representing the Java keyword * void." />
       <item value="duplicate" />
-      <item value="attempted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
+        <entry key="CHINESE" value="255" />
         <entry key="ENGLISH" value="255" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />

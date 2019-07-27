@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="括号" />
       <item value="cartesian Product" />
       <item value="pre" />
       <item value="suff" />
@@ -50,7 +51,6 @@
       <item value="counter" />
       <item value="durable" />
       <item value="* &lt;p&gt;Checks if none of the CharSequences are blank (&quot;&quot;) or null and whitespace only..&lt;/p&gt;" />
-      <item value="answer" />
     </histories>
     <option name="languageScores">
       <map>

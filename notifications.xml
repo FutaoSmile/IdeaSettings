@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Mybatis Plugin" shouldLog="false" />
-  </component>
-</application>

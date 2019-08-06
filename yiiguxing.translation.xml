@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AND括号" />
       <item value="括号" />
       <item value="Gwt Incompatible" />
       <item value="中间" />
@@ -50,7 +51,6 @@
       <item value="increase" />
       <item value="Whether to resolve the multipart request lazily at the time of file or parameter * access" />
       <item value="dir Sprator" />
-      <item value="compatibility" />
     </histories>
     <option name="languageScores">
       <map>

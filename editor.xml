@@ -1,7 +1,6 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Meslo LG M for Powerline" />
+    <option name="FONT_SIZE" value="14" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />

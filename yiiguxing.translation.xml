@@ -1,8 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Transfer" />
-      <item value="Update Configuration Transfer" />
       <item value="AND括号" />
       <item value="括号" />
       <item value="Gwt Incompatible" />
@@ -51,6 +49,8 @@
       <item value="idle" />
       <item value="enhance" />
       <item value="increase" />
+      <item value="Whether to resolve the multipart request lazily at the time of file or parameter * access" />
+      <item value="dir Sprator" />
     </histories>
     <option name="languageScores">
       <map>

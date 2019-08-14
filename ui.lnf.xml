@@ -2,7 +2,4 @@
   <component name="DependencyUISettings">
     <option name="SCOPE_TYPE" value="file" />
   </component>
-  <component name="UISettings">
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-  </component>
 </application>

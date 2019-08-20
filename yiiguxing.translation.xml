@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="符号" />
       <item value="必输字段" />
       <item value="compute If Absent" />
       <item value="AND括号" />
@@ -50,7 +51,6 @@
       <item value="stubbed" />
       <item value="idle" />
       <item value="enhance" />
-      <item value="increase" />
     </histories>
     <option name="languageScores">
       <map>

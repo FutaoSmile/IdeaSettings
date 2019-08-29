@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alternatively" />
+      <item value="resolves" />
       <item value="indefinitely" />
       <item value="Determine" />
       <item value="Position" />
@@ -49,8 +51,6 @@
       <item value="The SQL fragment that is used when * generating the DDL for the column. * &lt;p&gt; Defaults to the generated SQL to create a * column of the inferred type." />
       <item value="Explicitly" />
       <item value="Multi" />
-      <item value="Effective POM" />
-      <item value="Effective" />
     </histories>
     <option name="languageScores">
       <map>

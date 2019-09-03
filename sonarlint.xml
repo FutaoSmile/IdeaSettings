@@ -4,6 +4,7 @@
       <set>
         <option value="squid:S1155" />
         <option value="squid:S1845" />
+        <option value="squid:S1854" />
       </set>
     </option>
   </component>

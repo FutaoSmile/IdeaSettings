@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="porgao Code" />
       <item value="impacting" />
       <item value="meterplatform" />
       <item value="rolling Policy" />
@@ -50,7 +51,6 @@
       <item value="* The identity of the principal being authenticated. In the case of an authentication * request with username and password, this would be the username. Callers are * expected to populate the principal for an authentication request. * &lt;p&gt; * The &lt;tt&gt;AuthenticationManager&lt;/tt&gt; implementation will often return an * &lt;tt&gt;Authentication&lt;/tt&gt; containing richer information as the principal for use by * the application. Many of the authentication providers will create a * {@code UserDetails} object as the principal. * * @return the &lt;code&gt;Principal&lt;/code&gt; being authenticated or the authenticated * principal after authentication." />
       <item value="CSRF" />
       <item value="eternal" />
-      <item value="exported" />
     </histories>
     <option name="languageScores">
       <map>

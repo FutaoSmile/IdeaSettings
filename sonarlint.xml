@@ -2,7 +2,9 @@
   <component name="SonarLintGlobalSettings">
     <option name="excludedRules">
       <set>
+        <option value="squid:CommentedOutCodeLine" />
         <option value="squid:S1155" />
+        <option value="squid:S135" />
         <option value="squid:S1481" />
         <option value="squid:S1845" />
         <option value="squid:S1854" />

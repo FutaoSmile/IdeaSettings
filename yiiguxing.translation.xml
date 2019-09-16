@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sensitive" />
       <item value="推荐" />
       <item value="reservation State" />
       <item value="meter" />
@@ -50,7 +51,6 @@
       <item value="Past Or Present" />
       <item value="START ARRAY" />
       <item value="约束" />
-      <item value="require" />
     </histories>
     <option name="languageScores">
       <map>

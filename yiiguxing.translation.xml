@@ -78,8 +78,6 @@
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
-    <option name="showExplanation" value="true" />
-    <option name="showWordsOnStartup" value="true" />
     <option name="translator" value="fanyi.baidu" />
   </component>
 </application>

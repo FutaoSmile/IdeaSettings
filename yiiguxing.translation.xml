@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="列" />
       <item value="manage" />
       <item value="业务" />
       <item value="流水号" />
@@ -50,11 +51,10 @@
       <item value="源数据" />
       <item value="set Use Exponential Back Off" />
       <item value="instantiate" />
-      <item value="优先级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
+        <entry key="CHINESE" value="263" />
         <entry key="ENGLISH" value="263" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />

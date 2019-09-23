@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initializes the validator in preparation for * {@link #isValid(Object, ConstraintValidatorContext)} calls. * The constraint annotation for a given constraint declaration * is passed. * &lt;p/&gt; * This method is guaranteed to be called before any use of this instance for * validation. * * @param constraintAnnotation annotation instance for a given constraint declaration" />
+      <item value="* Returns an instance of the specified type allowing access to * provider-specific APIs. If the Bean Validation provider * implementation does not support the specified class, * {@link ValidationException} is thrown." />
+      <item value="* Provides contextual data and operation when applying a given constraint validator. * * At least one {@link ConstraintViolation} must be defined (either the default one, * of if the default {@code ConstraintViolation} is disabled, a custom one)." />
       <item value="This method is guaranteed to be called before any use of this instance for * validation." />
       <item value="列" />
       <item value="manage" />
@@ -48,14 +51,11 @@
       <item value="Handler" />
       <item value="repetition" />
       <item value="Ancestor" />
-      <item value="struct Analysis" />
-      <item value="源数据" />
-      <item value="set Use Exponential Back Off" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

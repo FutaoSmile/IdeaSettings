@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* @deprecated See individual attributes for intended replacements. To be removed in 4.1" />
+      <item value="individual" />
+      <item value="Extends" />
       <item value="证明材料" />
       <item value="列" />
       <item value="Initializes the validator in preparation for * {@link #isValid(Object, ConstraintValidatorContext)} calls. * The constraint annotation for a given constraint declaration * is passed. * &lt;p/&gt; * This method is guaranteed to be called before any use of this instance for * validation. * * @param constraintAnnotation annotation instance for a given constraint declaration" />
@@ -48,14 +51,11 @@
       <item value="is Each Contains" />
       <item value="Each" />
       <item value="检查器" />
-      <item value="supporter" />
-      <item value="Handler" />
-      <item value="repetition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

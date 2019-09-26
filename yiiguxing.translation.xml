@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fragment" />
       <item value="* @deprecated See individual attributes for intended replacements. To be removed in 4.1" />
       <item value="individual" />
       <item value="Extends" />
@@ -50,12 +51,11 @@
       <item value="是否互相包含" />
       <item value="is Each Contains" />
       <item value="Each" />
-      <item value="检查器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

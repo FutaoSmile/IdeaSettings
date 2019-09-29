@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="integrate" />
       <item value="temporary Storage" />
       <item value="handler" />
       <item value="handle" />
@@ -50,12 +51,11 @@
       <item value="格式检查" />
       <item value="frozen" />
       <item value="cartesian Product" />
-      <item value="pre" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

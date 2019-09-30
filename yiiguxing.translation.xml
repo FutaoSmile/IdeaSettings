@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="外送" />
       <item value="integrate" />
       <item value="temporary Storage" />
       <item value="handler" />
@@ -20,7 +21,6 @@
       <item value="manage" />
       <item value="业务" />
       <item value="流水号" />
-      <item value="外送" />
       <item value="street" />
       <item value="street Name" />
       <item value="sensitive" />

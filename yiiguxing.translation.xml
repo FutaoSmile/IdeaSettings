@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds" />
       <item value="to Be Confirmed" />
       <item value="待受理" />
       <item value="待确认" />
@@ -50,12 +51,11 @@
       <item value="compute If Absent" />
       <item value="AND括号" />
       <item value="括号" />
-      <item value="Gwt Incompatible" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="ENGLISH" value="281" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

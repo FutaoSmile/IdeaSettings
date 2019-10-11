@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constant" />
       <item value="快照" />
       <item value="lazyer" />
       <item value="milliseconds" />
@@ -50,7 +51,6 @@
       <item value="get Correlation Id" />
       <item value="符号" />
       <item value="必输字段" />
-      <item value="compute If Absent" />
     </histories>
     <option name="languageScores">
       <map>

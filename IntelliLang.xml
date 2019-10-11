@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="MySQL" injector-id="xml">
+      <display-name>update</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("update")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
+  </component>
+</application>

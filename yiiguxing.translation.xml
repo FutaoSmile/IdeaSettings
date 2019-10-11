@@ -1,7 +1,35 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constant" />
+      <item value="快照" />
+      <item value="lazyer" />
+      <item value="milliseconds" />
+      <item value="to Be Confirmed" />
+      <item value="待受理" />
+      <item value="待确认" />
+      <item value="建议外送" />
+      <item value="已受理" />
       <item value="外送" />
+      <item value="integrate" />
+      <item value="temporary Storage" />
+      <item value="handler" />
+      <item value="handle" />
+      <item value="dispose" />
+      <item value="integral" />
+      <item value="fragment" />
+      <item value="* @deprecated See individual attributes for intended replacements. To be removed in 4.1" />
+      <item value="individual" />
+      <item value="Extends" />
+      <item value="证明材料" />
+      <item value="列" />
+      <item value="Initializes the validator in preparation for * {@link #isValid(Object, ConstraintValidatorContext)} calls. * The constraint annotation for a given constraint declaration * is passed. * &lt;p/&gt; * This method is guaranteed to be called before any use of this instance for * validation. * * @param constraintAnnotation annotation instance for a given constraint declaration" />
+      <item value="* Returns an instance of the specified type allowing access to * provider-specific APIs. If the Bean Validation provider * implementation does not support the specified class, * {@link ValidationException} is thrown." />
+      <item value="* Provides contextual data and operation when applying a given constraint validator. * * At least one {@link ConstraintViolation} must be defined (either the default one, * of if the default {@code ConstraintViolation} is disabled, a custom one)." />
+      <item value="This method is guaranteed to be called before any use of this instance for * validation." />
+      <item value="manage" />
+      <item value="业务" />
+      <item value="流水号" />
       <item value="street" />
       <item value="street Name" />
       <item value="sensitive" />
@@ -23,39 +51,11 @@
       <item value="get Correlation Id" />
       <item value="符号" />
       <item value="必输字段" />
-      <item value="compute If Absent" />
-      <item value="AND括号" />
-      <item value="括号" />
-      <item value="Gwt Incompatible" />
-      <item value="中间" />
-      <item value="中间的" />
-      <item value="格式检查" />
-      <item value="frozen" />
-      <item value="cartesian Product" />
-      <item value="pre" />
-      <item value="suff" />
-      <item value="反转" />
-      <item value="是否互相包含" />
-      <item value="is Each Contains" />
-      <item value="Each" />
-      <item value="检查器" />
-      <item value="supporter" />
-      <item value="Handler" />
-      <item value="repetition" />
-      <item value="Ancestor" />
-      <item value="struct Analysis" />
-      <item value="源数据" />
-      <item value="set Use Exponential Back Off" />
-      <item value="instantiate" />
-      <item value="优先级" />
-      <item value="车库" />
-      <item value="Receiver" />
-      <item value="Positive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="282" />
+        <entry key="ENGLISH" value="282" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

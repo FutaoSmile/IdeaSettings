@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="designated" />
       <item value="appointment" />
       <item value="attempt" />
       <item value="constant" />
@@ -50,12 +51,11 @@
       <item value="Position" />
       <item value="Inform" />
       <item value="Absent" />
-      <item value="get Correlation Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

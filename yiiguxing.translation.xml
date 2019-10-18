@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thread Local Map" />
+      <item value="maintaining" />
       <item value="Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level." />
       <item value="The class {@code String} includes methods for examining * individual characters of the sequence, for comparing strings, for * searching strings, for extracting substrings, and for creating a * copy of a string with all characters translated to uppercase or to * lowercase. Case mapping is based on the Unicode Standard version * specified by the {@link java.lang.Character Character} class. * &lt;p&gt; * The Java language provides special support for the string * concatenation operator (&amp;nbsp;+&amp;nbsp;), and for conversion of * other objects to strings. String concatenation is implemented * through the {@code StringBuilder}(or {@code StringBuffer}) * class and its {@code append} method. * String conversions are implemented through the method * {@code toString}, defined by {@code Object} and * inherited by all classes in Java. For additional information on * string concatenation and conversion, see Gosling, Joy, and Steele, * &lt;i&gt;The Java Language Specification&lt;/i&gt;. * * &lt;p&gt; Unless otherwise noted, passing a &lt;tt&gt;null&lt;/tt&gt; argument to a constructor * or method in this class will cause a {@link NullPointerException} to be * thrown. * * &lt;p&gt;A {@code String} represents a string in the UTF-16 format * in which &lt;em&gt;supplementary characters&lt;/em&gt; are represented by &lt;em&gt;surrogate * pairs&lt;/em&gt; (see the section &lt;a href=&quot;Character.html#unicode&quot;&gt;Unicode * Character Representations&lt;/a&gt; in the {@code Character} class for * more information). * Index values refer to {@code char} code units, so a supplementary * character uses two positions in a {@code String}. * &lt;p&gt;The {@code String} class provides methods for dealing with * Unicode code points (i.e., characters), in addition to those for * dealing with Unicode code units (i.e., {@code char} values). *" />
       <item value="机构" />
@@ -49,13 +51,11 @@
       <item value="meter" />
       <item value="porgao Code" />
       <item value="impacting" />
-      <item value="meterplatform" />
-      <item value="rolling Policy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

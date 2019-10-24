@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cognitive Complexity of methods should not be too high Code smell Critical squid:S3776 Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain. See Cognitive Complexity" />
+      <item value="Cognitive Complexity of methods should not be too high Code smell Critical&#10;squid:S3776 Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.&#10;See&#10;Cognitive Complexity" />
+      <item value="Declarations should use Java collection interfaces such as &quot;List&quot; rather than specific implementation classes such as &quot;LinkedList&quot; Code smell Minor squid:S1319 The purpose of the Java Collections API is to provide a well defined hierarchy of interfaces in order to hide implementation details. Implementing classes must be used to instantiate new collections, but the result of an instantiation should ideally be stored in a variable whose type is a Java Collection interface. This rule raises an issue when an implementation class: is returned from a public method. is accepted as an argument to a public method. is exposed as a public member. Noncompliant Code Example  public class Employees {    private HashSet&lt;Employee&gt; employees = new HashSet&lt;Employee&gt;(); // Noncompliant - &quot;employees&quot; should have type &quot;Set&quot; rather than &quot;HashSet&quot;      public HashSet&lt;Employee&gt; getEmployees() { // Noncompliant      return employees;    }  }   Compliant Solution  public class Employees {    private Set&lt;Employee&gt; employees = new HashSet&lt;Employee&gt;(); // Compliant      public Set&lt;Employee&gt; getEmployees() { // Compliant      return employees;    }  }" />
+      <item value="Declarations should use Java collection interfaces such as &quot;List&quot; rather than specific implementation classes such as &quot;LinkedList&quot; Code smell Minor&#10;squid:S1319 The purpose of the Java Collections API is to provide a well defined hierarchy of interfaces in order to hide implementation details.&#10;Implementing classes must be used to instantiate new collections, but the result of an instantiation should ideally be stored in a variable whose type is a Java Collection interface.&#10;This rule raises an issue when an implementation class:&#10;is returned from a public method.&#10;is accepted as an argument to a public method.&#10;is exposed as a public member.&#10;Noncompliant Code Example  public class Employees {    private HashSet&lt;Employee&gt; employees = new HashSet&lt;Employee&gt;(); // Noncompliant - &quot;employees&quot; should have type &quot;Set&quot; rather than &quot;HashSet&quot;      public HashSet&lt;Employee&gt; getEmployees() { // Noncompliant      return employees;    }  }  &#10;Compliant Solution  public class Employees {    private Set&lt;Employee&gt; employees = new HashSet&lt;Employee&gt;(); // Compliant      public Set&lt;Employee&gt; getEmployees() { // Compliant      return employees;    }  }" />
       <item value="无效" />
       <item value="有效" />
       <item value="检定" />
@@ -47,15 +51,11 @@
       <item value="外送" />
       <item value="integrate" />
       <item value="temporary Storage" />
-      <item value="handler" />
-      <item value="handle" />
-      <item value="dispose" />
-      <item value="integral" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="315" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

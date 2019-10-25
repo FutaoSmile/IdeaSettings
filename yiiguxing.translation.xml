@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Hint for that an {@link EnableAutoConfiguration auto-configuration} should be applied * after other specified auto-configuration classes." />
+      <item value="Unsatisfied" />
       <item value="{@link CacheManager} implementation that lazily builds {@link ConcurrentMapCache} * instances for each {@link #getCache} request. Also supports a 'static' mode where * the set of cache names is pre-defined through {@link #setCacheNames}, with no * dynamic creation of further cache regions at runtime." />
       <item value="Implementation" />
       <item value="Cognitive Complexity of methods should not be too high Code smell Critical squid:S3776 Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain. See Cognitive Complexity" />
@@ -49,13 +51,11 @@
       <item value="待受理" />
       <item value="待确认" />
       <item value="建议外送" />
-      <item value="已受理" />
-      <item value="外送" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="318" />
+        <entry key="ENGLISH" value="319" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

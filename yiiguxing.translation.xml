@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="攀登者" />
       <item value="Cache Manager" />
       <item value="* Hint for that an {@link EnableAutoConfiguration auto-configuration} should be applied * after other specified auto-configuration classes." />
       <item value="Unsatisfied" />
@@ -50,11 +51,10 @@
       <item value="milliseconds" />
       <item value="to Be Confirmed" />
       <item value="待受理" />
-      <item value="待确认" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
+        <entry key="CHINESE" value="320" />
         <entry key="ENGLISH" value="320" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />

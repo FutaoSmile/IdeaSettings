@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Postfix the error code at the end of the generated message code. e.g.:" />
+      <item value="* Formatting strategy for message codes. For instance, `PREFIX_ERROR_CODE`." />
       <item value="* With the introduction of async processing and the possibility of * non-container threads calling sendError() tracking the current error * state and ensuring that the correct error page is called becomes more * complicated. This state attribute helps by tracking the current error * state and informing callers that attempt to change state if the change * was successful or if another thread got there first." />
       <item value="is Error Report Required" />
       <item value="* Select the appropriate child Context to process this request, * based on the specified request URI. If no matching Context can * be found, return an appropriate HTTP error." />
@@ -49,13 +51,11 @@
       <item value="* * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; {@code @RestController} is processed if an appropriate * {@code HandlerMapping}-{@code HandlerAdapter} pair is configured such as the * {@code RequestMappingHandlerMapping}-{@code RequestMappingHandlerAdapter} * pair which are the default in the MVC Java config and the MVC namespace." />
       <item value="* Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;This is the default setting of a transaction annotation." />
       <item value="Proceed with the next advice or target method invocation * &lt;p/&gt; * &lt;p&gt;Unlike code style, proceed(..) in annotation style places different requirements on the * parameters passed to it. The proceed(..) call takes, in this order: * &lt;ul&gt; * &lt;li&gt; If 'this()' was used in the pointcut for binding, it must be passed first in proceed(..). * &lt;li&gt; If 'target()' was used in the pointcut for binding, it must be passed next in proceed(..) - * it will be the first argument to proceed(..) if this() was not used for binding. * &lt;li&gt; Finally come all the arguments expected at the join point, in the order they are supplied * at the join point. Effectively the advice signature is ignored - it doesn't matter * if a subset of arguments were bound or the ordering was changed in the advice signature, * the proceed(..) calls takes all of them in the right order for the join point. * &lt;/ul&gt; * &lt;p&gt;Since proceed(..) in this case takes an Object array, AspectJ cannot do as much * compile time checking as it can for code style. If the rules above aren't obeyed * then it will unfortunately manifest as a runtime error. * &lt;/p&gt;" />
-      <item value="* Proceed with the next advice or target method invocation" />
-      <item value="站内信" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="331" />
+        <entry key="ENGLISH" value="332" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

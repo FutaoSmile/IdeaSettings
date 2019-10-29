@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Primarily" />
+      <item value="indicate" />
       <item value="Once Per Request Filter" />
       <item value="* Specify if the condition should match if the property is not set. Defaults to * {@code false}. * @return if should match if the property is missing" />
       <item value="Conditional" />
@@ -35,7 +37,6 @@
       <item value="sign" />
       <item value="* This method gives the filter an opportunity to clean up any resources * that are being held (for example, memory, file handles, threads) and make * sure that any persistent state is synchronized with the filter's current * state in memory." />
       <item value="Called by the web container to indicate to a filter that it is being * taken out of service. This method is only called once all threads within * the filter's doFilter method have exited or after a timeout period has * passed. After the web container calls this method, it will not call the * doFilter method again on this instance of the filter. &lt;br&gt; * &lt;br&gt; *" />
-      <item value="indicate" />
       <item value="maintaining" />
       <item value="Thread Local Map" />
       <item value="Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level." />
@@ -50,12 +51,11 @@
       <item value="appointment" />
       <item value="attempt" />
       <item value="constant" />
-      <item value="快照" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

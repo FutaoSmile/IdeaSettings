@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fail Cause" />
+      <item value="不合格原因" />
+      <item value="依据" />
+      <item value="结论" />
       <item value="Async" />
       <item value="* {@link javax.servlet.Filter} that converts posted method parameters into HTTP methods, * retrievable via {@link HttpServletRequest#getMethod()}. Since browsers currently only * support GET and POST, a common technique - used by the Prototype library, for instance - * is to use a normal POST with an additional hidden form field ({@code _method}) * to pass the &quot;real&quot; HTTP method along. This filter reads that parameter and changes * the {@link HttpServletRequestWrapper#getMethod()} return value accordingly. * Only {@code &quot;PUT&quot;}, {@code &quot;DELETE&quot;} and {@code &quot;PATCH&quot;} HTTP methods are allowed. * * &lt;p&gt;The name of the request parameter defaults to {@code _method}, but can be * adapted via the {@link #setMethodParam(String) methodParam} property. * * &lt;p&gt;&lt;b&gt;NOTE: This filter needs to run after multipart processing in case of a multipart * POST request, due to its inherent need for checking a POST body parameter.&lt;/b&gt; * So typically, put a Spring {@link org.springframework.web.multipart.support.MultipartFilter} * &lt;i&gt;before&lt;/i&gt; this HiddenHttpMethodFilter in your {@code web.xml} filter chain." />
       <item value="* Indicates that a class provides Spring Boot application * {@link Configuration @Configuration}. Can be used as an alternative to the Spring's * standard {@code @Configuration} annotation so that configuration can be found * automatically (for example in tests). * &lt;p&gt; * Application should only ever include &lt;em&gt;one&lt;/em&gt; {@code @SpringBootConfiguration} and * most idiomatic Spring Boot applications will inherit it from * {@code @SpringBootApplication}." />
@@ -47,15 +51,11 @@
       <item value="摘要" />
       <item value="sign" />
       <item value="* This method gives the filter an opportunity to clean up any resources * that are being held (for example, memory, file handles, threads) and make * sure that any persistent state is synchronized with the filter's current * state in memory." />
-      <item value="Called by the web container to indicate to a filter that it is being * taken out of service. This method is only called once all threads within * the filter's doFilter method have exited or after a timeout period has * passed. After the web container calls this method, it will not call the * doFilter method again on this instance of the filter. &lt;br&gt; * &lt;br&gt; *" />
-      <item value="maintaining" />
-      <item value="Thread Local Map" />
-      <item value="Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

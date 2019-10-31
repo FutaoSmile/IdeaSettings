@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &lt;p&gt;Can be used e.g. with Spring MVC handler methods arguments. * Supported through {@link org.springframework.validation.SmartValidator}'s * validation hint concept, with validation group classes acting as hint objects." />
+      <item value="* &lt;p&gt;Can also be used with method level validation, indicating that a specific * class is supposed to be validated at the method level (acting as a pointcut * for the corresponding validation interceptor), but also optionally specifying * the validation groups for method-level validation in the annotated class. * Applying this annotation at the method level allows for overriding the * validation groups for a specific method but does not serve as a pointcut; * a class-level annotation is nevertheless necessary to trigger method validation * for a specific bean to begin with. Can also be used as a meta-annotation on a * custom stereotype annotation or a custom group-specific validated annotation. *" />
+      <item value="* Get the method argument values for the current request, checking the provided * argument values and falling back to the configured argument resolvers. * &lt;p&gt;The resulting array will be passed into {@link #doInvoke}." />
       <item value="fail Cause" />
       <item value="不合格原因" />
       <item value="依据" />
@@ -48,14 +51,11 @@
       <item value="resolved" />
       <item value="typically" />
       <item value="消息摘要" />
-      <item value="摘要" />
-      <item value="sign" />
-      <item value="* This method gives the filter an opportunity to clean up any resources * that are being held (for example, memory, file handles, threads) and make * sure that any persistent state is synchronized with the filter's current * state in memory." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

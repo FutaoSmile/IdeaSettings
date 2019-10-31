@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Support a current transaction, execute non-transactionally if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATION_SUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager. * @see org.springframework.transaction.support.AbstractPlatformTransactionManager#setTransactionSynchronization */" />
+      <item value="* Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATION_SUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager. * @see org.springframework.transaction.support.AbstractPlatformTransactionManager#setTransactionSynchronization */" />
+      <item value="* Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name. */" />
+      <item value="* Create a new transaction, and suspend the current transaction if one exists. * Analogous to the EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE). * @see org.springframework.transaction.jta.JtaTransactionManager#setTransactionManager */" />
+      <item value="* Execute non-transactionally, suspend the current transaction if one exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE). * @se" />
+      <item value="* Execute within a nested transaction if a current transaction exists, * behave like PROPAGATION_REQUIRED else. There is no analogous feature in EJB. * &lt;p&gt;Note: Actual creation of a nested transaction will only work on specific * transaction managers. Out of the box, this only applies to the JDBC * DataSourceTransactionManager when working on a JDBC 3.0 driver. * Some JTA providers might support nested transactions as well." />
+      <item value="* Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name." />
+      <item value="* Support a current transaction, execute non-transactionally if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATION_SUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager." />
       <item value="* &lt;p&gt;Can be used e.g. with Spring MVC handler methods arguments. * Supported through {@link org.springframework.validation.SmartValidator}'s * validation hint concept, with validation group classes acting as hint objects." />
       <item value="* &lt;p&gt;Can also be used with method level validation, indicating that a specific * class is supposed to be validated at the method level (acting as a pointcut * for the corresponding validation interceptor), but also optionally specifying * the validation groups for method-level validation in the annotated class. * Applying this annotation at the method level allows for overriding the * validation groups for a specific method but does not serve as a pointcut; * a class-level annotation is nevertheless necessary to trigger method validation * for a specific bean to begin with. Can also be used as a meta-annotation on a * custom stereotype annotation or a custom group-specific validated annotation. *" />
       <item value="* Get the method argument values for the current request, checking the provided * argument values and falling back to the configured argument resolvers. * &lt;p&gt;The resulting array will be passed into {@link #doInvoke}." />
@@ -43,19 +51,11 @@
       <item value="expiry Date" />
       <item value="录入" />
       <item value="Org Check Result Controller" />
-      <item value="less invasive" />
-      <item value="A lookup method causes the IoC container to override the given method and return the bean with the name given in the bean attribute. This is a form of Method Injection. It is particularly useful as an alternative to implementing the BeanFactoryAware interface, in order to be able to make getBean() calls for non-singleton instances at runtime. In this case, Method Injection is a less invasive alternative." />
-      <item value="Can be used to create one or more aliases illegal in an (XML) id. Multiple aliases can be separated by any number of spaces, commas, or semi-colons (or indeed any mixture of the three)." />
-      <item value="recurse" />
-      <item value="* @return the number of bean definitions found" />
-      <item value="resolved" />
-      <item value="typically" />
-      <item value="消息摘要" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

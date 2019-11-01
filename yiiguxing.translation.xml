@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="one or more hint objects to be passed to the validation engine" />
+      <item value="* Validate the supplied {@code target} object, which must be of a type of {@link Class} * for which the {@link #supports(Class)} method typically returns {@code true}. * &lt;p&gt;The supplied {@link Errors errors} instance can be used to report any * resulting validation errors. * &lt;p&gt;&lt;b&gt;This variant of {@code validate()} supports validation hints, such as * validation groups against a JSR-303 provider&lt;/b&gt; (in which case, the provided hint * objects need to be annotation arguments of type {@code Class}). * &lt;p&gt;Note: Validation hints may get ignored by the actual target {@code Validator}, * in which case this method should behave just like its regular" />
+      <item value="* Validate the supplied value for the specified field on the target type, * reporting the same validation errors as if the value would be bound to * the field on an instance of the target class." />
       <item value="* Support a current transaction, execute non-transactionally if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATION_SUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager. * @see org.springframework.transaction.support.AbstractPlatformTransactionManager#setTransactionSynchronization */" />
       <item value="* Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATION_SUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager. * @see org.springframework.transaction.support.AbstractPlatformTransactionManager#setTransactionSynchronization */" />
       <item value="* Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name. */" />
@@ -48,14 +51,11 @@
       <item value="检定" />
       <item value="不合格" />
       <item value="合格" />
-      <item value="expiry Date" />
-      <item value="录入" />
-      <item value="Org Check Result Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="355" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

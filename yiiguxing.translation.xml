@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the ApplicationContext that this object runs in. * Normally this call will be used to initialize the object. * &lt;p&gt;Invoked after population of normal bean properties but before an init callback such * as {@link org.springframework.beans.factory.InitializingBean#afterPropertiesSet()} * or a custom init-method. Invoked after {@link ResourceLoaderAware#setResourceLoader}, * {@link ApplicationEventPublisherAware#setApplicationEventPublisher} and * {@link MessageSourceAware}, if applicable." />
+      <item value="Set the ApplicationContext that this object runs in. * Normally this call will be used to initialize the object. * &lt;p&gt;Invoked after population of normal bean properties but before an init callback such * as {@link org.springframework.beans.factory.InitializingBean#afterPropertiesSet()} * or a custom init-method. Invoked after {@link ResourceLoaderAware#setResourceLoader}," />
+      <item value="Interface to be implemented by any object that wishes to be notified * of the {@link ApplicationContext} that it runs in." />
       <item value="one or more hint objects to be passed to the validation engine" />
       <item value="* Validate the supplied {@code target} object, which must be of a type of {@link Class} * for which the {@link #supports(Class)} method typically returns {@code true}. * &lt;p&gt;The supplied {@link Errors errors} instance can be used to report any * resulting validation errors. * &lt;p&gt;&lt;b&gt;This variant of {@code validate()} supports validation hints, such as * validation groups against a JSR-303 provider&lt;/b&gt; (in which case, the provided hint * objects need to be annotation arguments of type {@code Class}). * &lt;p&gt;Note: Validation hints may get ignored by the actual target {@code Validator}, * in which case this method should behave just like its regular" />
       <item value="* Validate the supplied value for the specified field on the target type, * reporting the same validation errors as if the value would be bound to * the field on an instance of the target class." />
@@ -48,14 +51,11 @@
       <item value="Declarations should use Java collection interfaces such as &quot;List&quot; rather than specific implementation classes such as &quot;LinkedList&quot; Code smell Minor&#10;squid:S1319 The purpose of the Java Collections API is to provide a well defined hierarchy of interfaces in order to hide implementation details.&#10;Implementing classes must be used to instantiate new collections, but the result of an instantiation should ideally be stored in a variable whose type is a Java Collection interface.&#10;This rule raises an issue when an implementation class:&#10;is returned from a public method.&#10;is accepted as an argument to a public method.&#10;is exposed as a public member.&#10;Noncompliant Code Example  public class Employees {    private HashSet&lt;Employee&gt; employees = new HashSet&lt;Employee&gt;(); // Noncompliant - &quot;employees&quot; should have type &quot;Set&quot; rather than &quot;HashSet&quot;      public HashSet&lt;Employee&gt; getEmployees() { // Noncompliant      return employees;    }  }  &#10;Compliant Solution  public class Employees {    private Set&lt;Employee&gt; employees = new HashSet&lt;Employee&gt;(); // Compliant      public Set&lt;Employee&gt; getEmployees() { // Compliant      return employees;    }  }" />
       <item value="无效" />
       <item value="有效" />
-      <item value="检定" />
-      <item value="不合格" />
-      <item value="合格" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="CHINESE" value="357" />
+        <entry key="ENGLISH" value="358" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="RUSSIAN" value="1" />

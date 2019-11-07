@@ -9,7 +9,6 @@
       <mapping pattern="developers" type="Groovy" />
       <mapping pattern="profiles" type="Groovy" />
       <mapping pattern="" type="JAVA" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="L" type="PLAIN_TEXT" />
       <mapping pattern=".gitignored" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />

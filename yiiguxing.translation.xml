@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method is never used as a member of this interface, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the interface." />
+      <item value="inspect" />
+      <item value="Suspicious reference comparison" />
+      <item value="FindBugs: May expose internal representation by incorporating reference to mutable object This code stores a reference to an externally mutable object into the internal representation of the object.  If instances are accessed by untrusted code, and u nchecked" />
+      <item value="This code stores a reference to an externally mutable object into the internal representation of the object.  If instances are accessed by untrusted code, and unchecked changes to the mutable object would compromise security or other important properties, you will need to do something different. Storing a copy of the object is better approach in many situations." />
+      <item value="May expose internal representation by incorporating reference to mutable object" />
+      <item value="This instance method writes to a static field. This is tricky to get correct if multiple instances are being manipulated, and generally bad practice." />
+      <item value="Write to static field CommonUtil.utils from instance method init()" />
+      <item value="Boxed value is unboxed and then immediately reboxed" />
+      <item value="reliance" />
       <item value="能力" />
       <item value="dispose Org Ver Task" />
       <item value="停止使用" />
@@ -41,21 +51,11 @@
       <item value="* Select the appropriate child Context to process this request, * based on the specified request URI. If no matching Context can * be found, return an appropriate HTTP error." />
       <item value="* Handle the HTTP status code (and corresponding message) generated * while processing the specified Request to produce the specified * Response. Any exceptions that occur during generation of the error * report are logged and swallowed. *" />
       <item value="Primarily" />
-      <item value="indicate" />
-      <item value="Once Per Request Filter" />
-      <item value="* Specify if the condition should match if the property is not set. Defaults to * {@code false}. * @return if should match if the property is missing" />
-      <item value="Conditional" />
-      <item value="anonymous users" />
-      <item value="攀登者" />
-      <item value="Cache Manager" />
-      <item value="* Hint for that an {@link EnableAutoConfiguration auto-configuration} should be applied * after other specified auto-configuration classes." />
-      <item value="Unsatisfied" />
-      <item value="{@link CacheManager} implementation that lazily builds {@link ConcurrentMapCache} * instances for each {@link #getCache} request. Also supports a 'static' mode where * the set of cache names is pre-defined through {@link #setCacheNames}, with no * dynamic creation of further cache regions at runtime." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="362" />
+        <entry key="CHINESE" value="364" />
+        <entry key="ENGLISH" value="364" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />

@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src/main/java/com/wicrenet/meterplatform/web'" />
-    <option name="defaultScopeName" value="Directory '.../src/main/java/com/wicrenet/meterplatform/web'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src/main/java/com/wicrenet/meterplatform/web'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>

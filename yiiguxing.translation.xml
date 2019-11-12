@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="申请" />
+      <item value="apply" />
       <item value="Method is never used as a member of this interface, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the interface." />
       <item value="inspect" />
       <item value="Suspicious reference comparison" />
@@ -49,13 +51,11 @@
       <item value="* With the introduction of async processing and the possibility of * non-container threads calling sendError() tracking the current error * state and ensuring that the correct error page is called becomes more * complicated. This state attribute helps by tracking the current error * state and informing callers that attempt to change state if the change * was successful or if another thread got there first." />
       <item value="is Error Report Required" />
       <item value="* Select the appropriate child Context to process this request, * based on the specified request URI. If no matching Context can * be found, return an appropriate HTTP error." />
-      <item value="* Handle the HTTP status code (and corresponding message) generated * while processing the specified Request to produce the specified * Response. Any exceptions that occur during generation of the error * report are logged and swallowed. *" />
-      <item value="Primarily" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="365" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
@@ -76,15 +76,9 @@
       <app-key>
         <option name="appId" value="20190917000334998" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="fanyi.baidu" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-      </youdao-translate>
-    </option>
   </component>
 </application>

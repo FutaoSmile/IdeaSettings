@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="info@userDefined" key=".info" provider="builtin.java" language-level="8" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="log.info(&quot;{}&quot;,$EXPR$);" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>

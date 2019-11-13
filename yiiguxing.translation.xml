@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nlike the otherwise equivalent * {@code newScheduledThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads. * @return the newly created scheduled executor" />
+      <item value="Unlike the otherwise equivalent" />
+      <item value="and no more than one task will be active at any * given time" />
+      <item value="Tasks are guaranteed to execute * sequentially" />
+      <item value="* Creates a single-threaded executor that can schedule commands * to run after a given delay, or to execute periodically. * (Note however that if this single * thread terminates due to a failure during execution prior to * shutdown, a new one will take its place if needed to execute * subsequent tasks.) Tasks are guaranteed to execute * sequentially, and no more than one task will be active at any * given time. Unlike the otherwise equivalent * {@code newScheduledThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads. * @return the newly created scheduled executor" />
       <item value="申请" />
       <item value="apply" />
       <item value="Method is never used as a member of this interface, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the interface." />
@@ -46,16 +51,11 @@
       <item value="* Indicates that a class provides Spring Boot application * {@link Configuration @Configuration}. Can be used as an alternative to the Spring's * standard {@code @Configuration} annotation so that configuration can be found * automatically (for example in tests). * &lt;p&gt; * Application should only ever include &lt;em&gt;one&lt;/em&gt; {@code @SpringBootConfiguration} and * most idiomatic Spring Boot applications will inherit it from * {@code @SpringBootApplication}." />
       <item value="/** * Indicates that a class provides Spring Boot application * {@link Configuration @Configuration}. Can be used as an alternative to the Spring's * standard {@code @Configuration} annotation so that configuration can be found * automatically (for example in tests). * &lt;p&gt; * Application should only ever include &lt;em&gt;one&lt;/em&gt; {@code @SpringBootConfiguration} and * most idiomatic Spring Boot applications will inherit it from * {@code @SpringBootApplication}." />
       <item value="Path pattern used for static resources." />
-      <item value="* Postfix the error code at the end of the generated message code. e.g.:" />
-      <item value="* Formatting strategy for message codes. For instance, `PREFIX_ERROR_CODE`." />
-      <item value="* With the introduction of async processing and the possibility of * non-container threads calling sendError() tracking the current error * state and ensuring that the correct error page is called becomes more * complicated. This state attribute helps by tracking the current error * state and informing callers that attempt to change state if the change * was successful or if another thread got there first." />
-      <item value="is Error Report Required" />
-      <item value="* Select the appropriate child Context to process this request, * based on the specified request URI. If no matching Context can * be found, return an appropriate HTTP error." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="369" />
+        <entry key="ENGLISH" value="370" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />

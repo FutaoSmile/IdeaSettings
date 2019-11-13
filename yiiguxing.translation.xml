@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="反射" />
+      <item value="reflect" />
       <item value="* If there is a security manager, its &lt;code&gt;checkAccess&lt;/code&gt; method * is called with this thread as its argument. This may result in * throwing a &lt;code&gt;SecurityException&lt;/code&gt;." />
       <item value="* Determines if the currently running thread has permission to * modify this thread." />
       <item value="Otherwise, the priority of this thread is set to the smaller of * the specified &lt;code&gt;newPriority&lt;/code&gt; and the maximum permitted * priority of the thread's thread group." />
@@ -49,13 +51,11 @@
       <item value="* Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATION_SUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager. * @see org.springframework.transaction.support.AbstractPlatformTransactionManager#setTransactionSynchronization */" />
       <item value="* Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name. */" />
       <item value="* Create a new transaction, and suspend the current transaction if one exists. * Analogous to the EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE). * @see org.springframework.transaction.jta.JtaTransactionManager#setTransactionManager */" />
-      <item value="* Execute non-transactionally, suspend the current transaction if one exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE). * @se" />
-      <item value="* Execute within a nested transaction if a current transaction exists, * behave like PROPAGATION_REQUIRED else. There is no analogous feature in EJB. * &lt;p&gt;Note: Actual creation of a nested transaction will only work on specific * transaction managers. Out of the box, this only applies to the JDBC * DataSourceTransactionManager when working on a JDBC 3.0 driver. * Some JTA providers might support nested transactions as well." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="387" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />

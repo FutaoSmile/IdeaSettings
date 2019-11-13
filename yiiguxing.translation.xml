@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inherited" />
       <item value="get Org Task Detail List Bytask Id" />
       <item value="反射" />
       <item value="reflect" />
@@ -50,12 +51,11 @@
       <item value="* Validate the supplied value for the specified field on the target type, * reporting the same validation errors as if the value would be bound to * the field on an instance of the target class." />
       <item value="* Support a current transaction, execute non-transactionally if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATION_SUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager. * @see org.springframework.transaction.support.AbstractPlatformTransactionManager#setTransactionSynchronization */" />
       <item value="* Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATION_SUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager. * @see org.springframework.transaction.support.AbstractPlatformTransactionManager#setTransactionSynchronization */" />
-      <item value="* Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="388" />
+        <entry key="ENGLISH" value="389" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />

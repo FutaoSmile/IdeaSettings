@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="typically" />
+      <item value="improve" />
+      <item value="idle" />
+      <item value="Threads that have * not been used for sixty seconds are terminated and removed from * the cach" />
+      <item value="constructed" />
+      <item value="previously" />
+      <item value="reuse" />
       <item value="nlike the otherwise equivalent * {@code newScheduledThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads. * @return the newly created scheduled executor" />
       <item value="Unlike the otherwise equivalent" />
       <item value="and no more than one task will be active at any * given time" />
@@ -44,18 +51,11 @@
       <item value="* Get the method argument values for the current request, checking the provided * argument values and falling back to the configured argument resolvers. * &lt;p&gt;The resulting array will be passed into {@link #doInvoke}." />
       <item value="fail Cause" />
       <item value="不合格原因" />
-      <item value="依据" />
-      <item value="结论" />
-      <item value="Async" />
-      <item value="* {@link javax.servlet.Filter} that converts posted method parameters into HTTP methods, * retrievable via {@link HttpServletRequest#getMethod()}. Since browsers currently only * support GET and POST, a common technique - used by the Prototype library, for instance - * is to use a normal POST with an additional hidden form field ({@code _method}) * to pass the &quot;real&quot; HTTP method along. This filter reads that parameter and changes * the {@link HttpServletRequestWrapper#getMethod()} return value accordingly. * Only {@code &quot;PUT&quot;}, {@code &quot;DELETE&quot;} and {@code &quot;PATCH&quot;} HTTP methods are allowed. * * &lt;p&gt;The name of the request parameter defaults to {@code _method}, but can be * adapted via the {@link #setMethodParam(String) methodParam} property. * * &lt;p&gt;&lt;b&gt;NOTE: This filter needs to run after multipart processing in case of a multipart * POST request, due to its inherent need for checking a POST body parameter.&lt;/b&gt; * So typically, put a Spring {@link org.springframework.web.multipart.support.MultipartFilter} * &lt;i&gt;before&lt;/i&gt; this HiddenHttpMethodFilter in your {@code web.xml} filter chain." />
-      <item value="* Indicates that a class provides Spring Boot application * {@link Configuration @Configuration}. Can be used as an alternative to the Spring's * standard {@code @Configuration} annotation so that configuration can be found * automatically (for example in tests). * &lt;p&gt; * Application should only ever include &lt;em&gt;one&lt;/em&gt; {@code @SpringBootConfiguration} and * most idiomatic Spring Boot applications will inherit it from * {@code @SpringBootApplication}." />
-      <item value="/** * Indicates that a class provides Spring Boot application * {@link Configuration @Configuration}. Can be used as an alternative to the Spring's * standard {@code @Configuration} annotation so that configuration can be found * automatically (for example in tests). * &lt;p&gt; * Application should only ever include &lt;em&gt;one&lt;/em&gt; {@code @SpringBootConfiguration} and * most idiomatic Spring Boot applications will inherit it from * {@code @SpringBootApplication}." />
-      <item value="Path pattern used for static resources." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="378" />
+        <entry key="ENGLISH" value="379" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />

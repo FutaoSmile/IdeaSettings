@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="练习" />
+      <item value="li" />
       <item value="given fairness policy" />
       <item value="reentrant Lock" />
       <item value="Reentrant Lock" />
@@ -49,13 +51,11 @@
       <item value="能力" />
       <item value="dispose Org Ver Task" />
       <item value="停止使用" />
-      <item value="prohibit" />
-      <item value="禁止" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="397" />
+        <entry key="CHINESE" value="397" />
+        <entry key="ENGLISH" value="398" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &amp;#64;SneakyThrow does not silently swallow, wrap into RuntimeException, or otherwise modify any exceptions of the listed * checked exception types. The JVM does not check for the consistency of the checked exception system; javac does, * and this annotation lets you opt out of its mechanism." />
+      <item value="* &lt;p&gt; * &amp;#64;SneakyThrow does not silently swallow, wrap into RuntimeException, or otherwise modify any exceptions of the listed * checked exception types. The JVM does not check for the consistency of the checked exception system; javac does," />
+      <item value="silently" />
+      <item value="insistence" />
+      <item value="avoid" />
+      <item value="卖" />
       <item value="lo Tail" />
       <item value="inherited" />
       <item value="get Org Task Detail List Bytask Id" />
@@ -45,17 +51,11 @@
       <item value="停用" />
       <item value="javax.validation.ConstraintDeclarationException: HV000151: A method overriding another method must not redefine the parameter constraint configuration, but method TestServiceImpl#param(String, String) redefines the configuration of TestService#param(String, String). at org.hibernate.validator.internal.metadata.aggregated.rule.OverridingMethodMustNotAlterParameterConstraints.apply(OverridingMethodMustNotAlterParameterConstraints.java:24) at org.hibernate.validator.internal.metadata.aggregated.ExecutableMetaData$Builder.assertCorrectnessOfConfiguration(ExecutableMetaData.java:461) at org.hibernate.validator.internal.metadata.aggregated.ExecutableMetaData$Builder.build(ExecutableMetaData.java:377) at org.hibernate.validator.internal.metadata.aggregated.BeanMetaDataImpl$BuilderDelegate.build(BeanMetaDataImpl.java:788) at org.hibernate.validator.internal.metadata.aggregated.BeanMetaDataImpl$BeanMetaDataBuilder.build(BeanMetaDataImpl.java:648) at org.hibernate.validator.internal.metadata.BeanMetaDataManager.createBeanMetaData(BeanMetaDataManager.java:192) at org.hibernate.validator.internal.metadata.BeanMetaDataManager.lambda$getBeanMetaData$0(BeanMetaDataManager.java:160) at java.util.concurrent.ConcurrentMap.computeIfAbsent(ConcurrentMap.java:324) at org.hibernate.validator.internal.metadata.BeanMetaDataManager.getBeanMetaData(BeanMetaDataManager.java:159) at org.hibernate.validator.internal.engine.ValidationContext$ValidationContextBuilder.forValidateParameters(ValidationContext.java:619) at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:254) at org.hibernate.validator.internal.engine.ValidatorImpl.validateParameters(ValidatorImpl.java:224)" />
       <item value="Set the ApplicationContext that this object runs in. * Normally this call will be used to initialize the object. * &lt;p&gt;Invoked after population of normal bean properties but before an init callback such * as {@link org.springframework.beans.factory.InitializingBean#afterPropertiesSet()} * or a custom init-method. Invoked after {@link ResourceLoaderAware#setResourceLoader}, * {@link ApplicationEventPublisherAware#setApplicationEventPublisher} and * {@link MessageSourceAware}, if applicable." />
-      <item value="Set the ApplicationContext that this object runs in. * Normally this call will be used to initialize the object. * &lt;p&gt;Invoked after population of normal bean properties but before an init callback such * as {@link org.springframework.beans.factory.InitializingBean#afterPropertiesSet()} * or a custom init-method. Invoked after {@link ResourceLoaderAware#setResourceLoader}," />
-      <item value="Interface to be implemented by any object that wishes to be notified * of the {@link ApplicationContext} that it runs in." />
-      <item value="one or more hint objects to be passed to the validation engine" />
-      <item value="* Validate the supplied {@code target} object, which must be of a type of {@link Class} * for which the {@link #supports(Class)} method typically returns {@code true}. * &lt;p&gt;The supplied {@link Errors errors} instance can be used to report any * resulting validation errors. * &lt;p&gt;&lt;b&gt;This variant of {@code validate()} supports validation hints, such as * validation groups against a JSR-303 provider&lt;/b&gt; (in which case, the provided hint * objects need to be annotation arguments of type {@code Class}). * &lt;p&gt;Note: Validation hints may get ignored by the actual target {@code Validator}, * in which case this method should behave just like its regular" />
-      <item value="* Validate the supplied value for the specified field on the target type, * reporting the same validation errors as if the value would be bound to * the field on an instance of the target class." />
-      <item value="* Support a current transaction, execute non-transactionally if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;Note: For transaction managers with transaction synchronization, * PROPAGATION_SUPPORTS is slightly different from no transaction at all, * as it defines a transaction scope that synchronization will apply for. * As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) * will be shared for the entire specified scope. Note that this depends on * the actual synchronization configuration of the transaction manager. * @see org.springframework.transaction.support.AbstractPlatformTransactionManager#setTransactionSynchronization */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="396" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />

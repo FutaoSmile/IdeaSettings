@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Todo" />
+      <item value="manager Task Impl Mapper" />
+      <item value="count Todo" />
       <item value="un Read Count" />
       <item value="un Read" />
       <item value="练习" />
@@ -48,14 +51,11 @@
       <item value="May expose internal representation by incorporating reference to mutable object" />
       <item value="This instance method writes to a static field. This is tricky to get correct if multiple instances are being manipulated, and generally bad practice." />
       <item value="Write to static field CommonUtil.utils from instance method init()" />
-      <item value="Boxed value is unboxed and then immediately reboxed" />
-      <item value="reliance" />
-      <item value="能力" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="403" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
@@ -66,6 +66,7 @@
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="3" />
         <entry key="VIETNAMESE" value="1" />

@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* The current thread must own this object's monitor. The thread * releases ownership of this monitor and waits until another thread * notifies threads waiting on this object's monitor to wake up * either through a call to the {@code notify} method or the * {@code notifyAll} method. The thread then waits until it can * re-obtain ownership of the monitor and resumes execution." />
+      <item value="The current thread must own this object's monitor. The thread * releases ownership of this monitor and waits until another thread * notifies threads waiting on this object's monitor to wake up * either through a call to the {@code notify} method or the * {@code notifyAll} method. The thread then waits until it can * re-obtain ownership of the monitor and resumes execution." />
+      <item value="behaves" />
+      <item value="invokes" />
       <item value="A method overriding another method must not redefine the parameter constraint configuration" />
       <item value="Todo" />
       <item value="manager Task Impl Mapper" />
@@ -47,15 +51,11 @@
       <item value="Method is never used as a member of this interface, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the interface." />
       <item value="inspect" />
       <item value="Suspicious reference comparison" />
-      <item value="FindBugs: May expose internal representation by incorporating reference to mutable object This code stores a reference to an externally mutable object into the internal representation of the object.  If instances are accessed by untrusted code, and u nchecked" />
-      <item value="This code stores a reference to an externally mutable object into the internal representation of the object.  If instances are accessed by untrusted code, and unchecked changes to the mutable object would compromise security or other important properties, you will need to do something different. Storing a copy of the object is better approach in many situations." />
-      <item value="May expose internal representation by incorporating reference to mutable object" />
-      <item value="This instance method writes to a static field. This is tricky to get correct if multiple instances are being manipulated, and generally bad practice." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="408" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

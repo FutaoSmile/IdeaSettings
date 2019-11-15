@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <histories>
       <item value="Productor" />
+      <item value="stop Produce" />
+      <item value="暂停等待" />
+      <item value="暂停" />
       <item value="* The current thread must own this object's monitor. The thread * releases ownership of this monitor and waits until another thread * notifies threads waiting on this object's monitor to wake up * either through a call to the {@code notify} method or the * {@code notifyAll} method. The thread then waits until it can * re-obtain ownership of the monitor and resumes execution." />
       <item value="The current thread must own this object's monitor. The thread * releases ownership of this monitor and waits until another thread * notifies threads waiting on this object's monitor to wake up * either through a call to the {@code notify} method or the * {@code notifyAll} method. The thread then waits until it can * re-obtain ownership of the monitor and resumes execution." />
       <item value="behaves" />
@@ -48,14 +51,11 @@
       <item value="Tasks are guaranteed to execute * sequentially" />
       <item value="* Creates a single-threaded executor that can schedule commands * to run after a given delay, or to execute periodically. * (Note however that if this single * thread terminates due to a failure during execution prior to * shutdown, a new one will take its place if needed to execute * subsequent tasks.) Tasks are guaranteed to execute * sequentially, and no more than one task will be active at any * given time. Unlike the otherwise equivalent * {@code newScheduledThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads. * @return the newly created scheduled executor" />
       <item value="申请" />
-      <item value="apply" />
-      <item value="Method is never used as a member of this interface, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the interface." />
-      <item value="inspect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

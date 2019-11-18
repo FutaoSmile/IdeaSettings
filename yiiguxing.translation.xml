@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="街道" />
       <item value="Productor" />
       <item value="stop Produce" />
       <item value="暂停等待" />
@@ -50,11 +51,10 @@
       <item value="and no more than one task will be active at any * given time" />
       <item value="Tasks are guaranteed to execute * sequentially" />
       <item value="* Creates a single-threaded executor that can schedule commands * to run after a given delay, or to execute periodically. * (Note however that if this single * thread terminates due to a failure during execution prior to * shutdown, a new one will take its place if needed to execute * subsequent tasks.) Tasks are guaranteed to execute * sequentially, and no more than one task will be active at any * given time. Unlike the otherwise equivalent * {@code newScheduledThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads. * @return the newly created scheduled executor" />
-      <item value="申请" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
+        <entry key="CHINESE" value="412" />
         <entry key="ENGLISH" value="412" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />

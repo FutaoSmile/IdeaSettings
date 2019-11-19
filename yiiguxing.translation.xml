@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Adds a response header with the given name and value. This method allows * response headers to have multiple values." />
+      <item value="* Sets a response header with the given name and value. If the header had * already been set, the new value overwrites the previous one. The * &lt;code&gt;containsHeader&lt;/code&gt; method can be used to test for the presence * of a header before setting its value." />
       <item value="Laws Regulations" />
       <item value="街道" />
       <item value="Productor" />
@@ -49,13 +51,11 @@
       <item value="reuse" />
       <item value="nlike the otherwise equivalent * {@code newScheduledThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads. * @return the newly created scheduled executor" />
       <item value="Unlike the otherwise equivalent" />
-      <item value="and no more than one task will be active at any * given time" />
-      <item value="Tasks are guaranteed to execute * sequentially" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="416" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

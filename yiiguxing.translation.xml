@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is often the result of over-eager type matching - consider using 'getBeanNamesOf" />
+      <item value="This means that said other beans do not use the final version of the bean." />
+      <item value="its raw version as part of a circular reference, but has eventually been wrapped" />
       <item value="asynchronous" />
       <item value="* Adds a response header with the given name and value. This method allows * response headers to have multiple values." />
       <item value="* Sets a response header with the given name and value. If the header had * already been set, the new value overwrites the previous one. The * &lt;code&gt;containsHeader&lt;/code&gt; method can be used to test for the presence * of a header before setting its value." />
@@ -48,14 +51,11 @@
       <item value="idle" />
       <item value="Threads that have * not been used for sixty seconds are terminated and removed from * the cach" />
       <item value="constructed" />
-      <item value="previously" />
-      <item value="reuse" />
-      <item value="nlike the otherwise equivalent * {@code newScheduledThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads. * @return the newly created scheduled executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="417" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

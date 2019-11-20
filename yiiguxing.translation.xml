@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wrong" />
       <item value="This is often the result of over-eager type matching - consider using 'getBeanNamesOf" />
       <item value="This means that said other beans do not use the final version of the bean." />
       <item value="its raw version as part of a circular reference, but has eventually been wrapped" />
@@ -50,12 +51,11 @@
       <item value="improve" />
       <item value="idle" />
       <item value="Threads that have * not been used for sixty seconds are terminated and removed from * the cach" />
-      <item value="constructed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="420" />
-        <entry key="ENGLISH" value="421" />
+        <entry key="CHINESE" value="421" />
+        <entry key="ENGLISH" value="422" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

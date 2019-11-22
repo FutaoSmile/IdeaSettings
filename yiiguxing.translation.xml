@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enhance" />
+      <item value="non-private to simplify nested class access" />
+      <item value="The array buffer into which the elements of the ArrayList are stored. * The capacity of the ArrayList is the length of this array buffer. Any * empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA * will be expanded to DEFAULT_CAPACITY when the first element is added." />
       <item value="delta-seconds" />
       <item value="delta" />
       <item value="null unless explicitly set" />
@@ -48,14 +51,11 @@
       <item value="reflect" />
       <item value="* If there is a security manager, its &lt;code&gt;checkAccess&lt;/code&gt; method * is called with this thread as its argument. This may result in * throwing a &lt;code&gt;SecurityException&lt;/code&gt;." />
       <item value="* Determines if the currently running thread has permission to * modify this thread." />
-      <item value="Otherwise, the priority of this thread is set to the smaller of * the specified &lt;code&gt;newPriority&lt;/code&gt; and the maximum permitted * priority of the thread's thread group." />
-      <item value="Changes the priority of this thread. * &lt;p&gt; * First the &lt;code&gt;checkAccess&lt;/code&gt; method of this thread is called * with no arguments. This may result in throwing a * &lt;code&gt;SecurityException&lt;/code&gt;. * &lt;p&gt; * Otherwise, the priority of this thread is set to the smaller of * the specified &lt;code&gt;newPriority&lt;/code&gt; and the maximum permitted * priority of the thread's thread group. *" />
-      <item value="* A hint to the scheduler that the current thread is willing to yield * its current use of a processor. The scheduler is free to ignore this * hint." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="430" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

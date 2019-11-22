@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="null unless explicitly set" />
       <item value="一次" />
       <item value="Onece" />
       <item value="This method is inherently unsafe. Stopping a thread with * Thread.stop causes it to unlock all of the monitors that it * has locked (as a natural consequence of the unchecked * &lt;code&gt;ThreadDeath&lt;/code&gt; exception propagating up the stack). If * any of the objects previously protected by these monitors were in * an inconsistent state, the damaged objects become visible to * other threads, potentially resulting in arbitrary behavior. Many * uses of &lt;code&gt;stop&lt;/code&gt; should be replaced by code that simply * modifies some variable to indicate that the target thread should * stop running. The target thread should check this variable * regularly, and return from its run method in an orderly fashion * if the variable indicates that it is to stop running. If the * target thread waits for long periods (on a condition variable, * for example), the &lt;code&gt;interrupt&lt;/code&gt; method should be used to * interrupt the wait. * For more information, see * &lt;a href=&quot;{@docRoot}/../technotes/guides/concurrency/threadPrimitiveDeprecation.html&quot;&gt;Why * are Thread.stop, Thread.suspend and Thread.resume Deprecated?&lt;/a&gt;. */" />
@@ -50,12 +51,11 @@
       <item value="* A hint to the scheduler that the current thread is willing to yield * its current use of a processor. The scheduler is free to ignore this * hint." />
       <item value="A hint to the scheduler that the current thread is willing to yield * its current use of a processor. The scheduler is free to ignore this * hint. *" />
       <item value="yield" />
-      <item value="typically" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="424" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

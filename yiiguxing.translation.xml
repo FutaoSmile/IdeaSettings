@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="三表导出模板" />
       <item value="* Represents a predicate (boolean-valued function) of one argument." />
       <item value="enhance" />
       <item value="non-private to simplify nested class access" />
@@ -50,11 +51,10 @@
       <item value="get Org Task Detail List Bytask Id" />
       <item value="反射" />
       <item value="reflect" />
-      <item value="* If there is a security manager, its &lt;code&gt;checkAccess&lt;/code&gt; method * is called with this thread as its argument. This may result in * throwing a &lt;code&gt;SecurityException&lt;/code&gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="430" />
+        <entry key="CHINESE" value="431" />
         <entry key="ENGLISH" value="431" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />

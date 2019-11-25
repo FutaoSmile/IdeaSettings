@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Comparison of compare method result with specific constant" />
       <item value="三表导出模板" />
       <item value="* Represents a predicate (boolean-valued function) of one argument." />
       <item value="enhance" />
@@ -50,12 +51,11 @@
       <item value="inherited" />
       <item value="get Org Task Detail List Bytask Id" />
       <item value="反射" />
-      <item value="reflect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="431" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="432" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

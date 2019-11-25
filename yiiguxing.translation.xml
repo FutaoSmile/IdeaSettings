@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the transaction rollback-only. This instructs the transaction manager * that the only possible outcome of the transaction may be a rollback, as * alternative to throwing an exception which would in turn trigger a rollback. * &lt;p&gt;This is mainly intended for transactions managed by * {@link org.springframework.transaction.support.TransactionTemplate} or * {@link org.springframework.transaction.interceptor.TransactionInterceptor}, * where the actual commit/rollback decision is made by the container. * @see org.springframework.transaction.support.TransactionCallback#doInTransaction * @see org.springframework.transaction.interceptor.TransactionAttribute#rollbackOn" />
+      <item value="Hash Set" />
       <item value="Comparison of compare method result with specific constant" />
       <item value="三表导出模板" />
       <item value="* Represents a predicate (boolean-valued function) of one argument." />
@@ -49,13 +51,11 @@
       <item value="卖" />
       <item value="lo Tail" />
       <item value="inherited" />
-      <item value="get Org Task Detail List Bytask Id" />
-      <item value="反射" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="432" />
+        <entry key="CHINESE" value="433" />
+        <entry key="ENGLISH" value="434" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

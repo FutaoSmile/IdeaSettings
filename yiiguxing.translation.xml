@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多线程" />
       <item value="Exists" />
       <item value="Exist" />
       <item value="A boolean flag that can be set to {@code true} if the transaction is * effectively read-only, allowing for corresponding optimizations at runtime. * &lt;p&gt;Defaults to {@code false}. * &lt;p&gt;This just serves as a hint for the actual transaction subsystem; * it will &lt;i&gt;not necessarily&lt;/i&gt; cause failure of write access attempts. * A transaction manager which cannot interpret the read-only hint will * &lt;i&gt;not&lt;/i&gt; throw an exception when asked for a read-only transaction * but rather silently ignore the hint." />
@@ -50,11 +51,10 @@
       <item value="Reentrant Lock" />
       <item value="* &amp;#64;SneakyThrow does not silently swallow, wrap into RuntimeException, or otherwise modify any exceptions of the listed * checked exception types. The JVM does not check for the consistency of the checked exception system; javac does, * and this annotation lets you opt out of its mechanism." />
       <item value="* &lt;p&gt; * &amp;#64;SneakyThrow does not silently swallow, wrap into RuntimeException, or otherwise modify any exceptions of the listed * checked exception types. The JVM does not check for the consistency of the checked exception system; javac does," />
-      <item value="silently" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="438" />
+        <entry key="CHINESE" value="439" />
         <entry key="ENGLISH" value="439" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />

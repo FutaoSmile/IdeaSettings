@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="性别" />
       <item value="身份证号" />
       <item value="身份证" />
       <item value="完善" />
@@ -50,12 +51,11 @@
       <item value="invokes" />
       <item value="A method overriding another method must not redefine the parameter constraint configuration" />
       <item value="Todo" />
-      <item value="manager Task Impl Mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="447" />
+        <entry key="CHINESE" value="448" />
+        <entry key="ENGLISH" value="448" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

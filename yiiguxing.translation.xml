@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specify one or more validation groups to apply to the validation step * kicked off by this annotation. * &lt;p&gt;JSR-303 defines validation groups as custom annotations which an application declares * for the sole purpose of using them as type-safe group arguments, as implemented in * {@link org.springframework.validation.beanvalidation.SpringValidatorAdapter}. * &lt;p&gt;Other {@link org.springframework.validation.SmartValidator} implementations may * support class arguments in other ways as well." />
+      <item value="Variant of JSR-303's {@link javax.validation.Valid}, supporting the * specification of validation groups. Designed for convenient use with * Spring's JSR-303 support but not JSR-303 specific. * * &lt;p&gt;Can be used e.g. with Spring MVC handler methods arguments. * Supported through {@link org.springframework.validation.SmartValidator}'s * validation hint concept, with validation group classes acting as hint objects. * * &lt;p&gt;Can also be used with method level validation, indicating that a specific * class is supposed to be validated at the method level (acting as a pointcut * for the corresponding validation interceptor), but also optionally specifying * the validation groups for method-level validation in the annotated class. * Applying this annotation at the method level allows for overriding the * validation groups for a specific method but does not serve as a pointcut; * a class-level annotation is nevertheless necessary to trigger method validation * for a specific bean to begin with. Can also be used as a meta-annotation on a * custom stereotype annotation or a custom group-specific validated annotation. *" />
       <item value="性别" />
       <item value="身份证号" />
       <item value="身份证" />
@@ -49,13 +51,11 @@
       <item value="The current thread must own this object's monitor. The thread * releases ownership of this monitor and waits until another thread * notifies threads waiting on this object's monitor to wake up * either through a call to the {@code notify} method or the * {@code notifyAll} method. The thread then waits until it can * re-obtain ownership of the monitor and resumes execution." />
       <item value="behaves" />
       <item value="invokes" />
-      <item value="A method overriding another method must not redefine the parameter constraint configuration" />
-      <item value="Todo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="450" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

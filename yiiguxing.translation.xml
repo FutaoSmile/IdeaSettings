@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Brand" />
       <item value="supervisor" />
       <item value="obtain" />
       <item value="激活" />
@@ -50,12 +51,11 @@
       <item value="stop Produce" />
       <item value="暂停等待" />
       <item value="暂停" />
-      <item value="* The current thread must own this object's monitor. The thread * releases ownership of this monitor and waits until another thread * notifies threads waiting on this object's monitor to wake up * either through a call to the {@code notify} method or the * {@code notifyAll} method. The thread then waits until it can * re-obtain ownership of the monitor and resumes execution." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="452" />
+        <entry key="ENGLISH" value="453" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

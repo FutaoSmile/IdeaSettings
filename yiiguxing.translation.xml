@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="头像" />
+      <item value="promoters" />
+      <item value="promoter" />
+      <item value="促销员" />
       <item value="Store Serviced" />
       <item value="积分" />
       <item value="score" />
@@ -47,15 +51,11 @@
       <item value="its raw version as part of a circular reference, but has eventually been wrapped" />
       <item value="asynchronous" />
       <item value="* Adds a response header with the given name and value. This method allows * response headers to have multiple values." />
-      <item value="* Sets a response header with the given name and value. If the header had * already been set, the new value overwrites the previous one. The * &lt;code&gt;containsHeader&lt;/code&gt; method can be used to test for the presence * of a header before setting its value." />
-      <item value="Laws Regulations" />
-      <item value="街道" />
-      <item value="Productor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="457" />
+        <entry key="ENGLISH" value="457" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

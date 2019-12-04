@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Store Serviced" />
+      <item value="积分" />
+      <item value="score" />
       <item value="Brand" />
       <item value="supervisor" />
       <item value="obtain" />
@@ -48,14 +51,11 @@
       <item value="Laws Regulations" />
       <item value="街道" />
       <item value="Productor" />
-      <item value="stop Produce" />
-      <item value="暂停等待" />
-      <item value="暂停" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="452" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

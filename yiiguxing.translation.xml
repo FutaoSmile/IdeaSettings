@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="brand Name" />
       <item value="头像" />
       <item value="promoters" />
       <item value="promoter" />
@@ -50,12 +51,11 @@
       <item value="This means that said other beans do not use the final version of the bean." />
       <item value="its raw version as part of a circular reference, but has eventually been wrapped" />
       <item value="asynchronous" />
-      <item value="* Adds a response header with the given name and value. This method allows * response headers to have multiple values." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="457" />
+        <entry key="ENGLISH" value="458" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

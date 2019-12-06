@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="boot" />
       <item value="brand List" />
       <item value="头像" />
       <item value="brand Name" />
@@ -50,12 +51,11 @@
       <item value="Wrong" />
       <item value="This is often the result of over-eager type matching - consider using 'getBeanNamesOf" />
       <item value="This means that said other beans do not use the final version of the bean." />
-      <item value="its raw version as part of a circular reference, but has eventually been wrapped" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

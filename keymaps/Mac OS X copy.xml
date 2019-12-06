@@ -20,4 +20,10 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
 </keymap>

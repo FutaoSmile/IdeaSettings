@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Util" />
+      <item value="Utils" />
       <item value="negative integer" />
       <item value="positive integer" />
       <item value="positive" />
@@ -49,13 +51,11 @@
       <item value="Comparison of compare method result with specific constant" />
       <item value="三表导出模板" />
       <item value="* Represents a predicate (boolean-valued function) of one argument." />
-      <item value="enhance" />
-      <item value="non-private to simplify nested class access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="471" />
+        <entry key="CHINESE" value="472" />
+        <entry key="ENGLISH" value="473" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

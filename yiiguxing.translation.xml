@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="promoter" />
       <item value="分配" />
       <item value="分派" />
       <item value="接受" />
@@ -11,7 +12,6 @@
       <item value="头像" />
       <item value="brand Name" />
       <item value="promoters" />
-      <item value="promoter" />
       <item value="促销员" />
       <item value="Store Serviced" />
       <item value="积分" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="ENGLISH" value="466" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

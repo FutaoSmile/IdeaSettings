@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="arrangement" />
       <item value="头像" />
       <item value="Supervisor" />
       <item value="promoter" />
@@ -50,12 +51,11 @@
       <item value="The array buffer into which the elements of the ArrayList are stored. * The capacity of the ArrayList is the length of this array buffer. Any * empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA * will be expanded to DEFAULT_CAPACITY when the first element is added." />
       <item value="delta-seconds" />
       <item value="delta" />
-      <item value="null unless explicitly set" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="467" />
-        <entry key="ENGLISH" value="467" />
+        <entry key="ENGLISH" value="468" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

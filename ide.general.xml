@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="inactiveTimeout" value="10" />
     <option name="showTipsOnStartup" value="false" />
   </component>
@@ -17,7 +18,6 @@
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>

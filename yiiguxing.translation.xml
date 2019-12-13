@@ -1,15 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="review" />
+      <item value="segment" />
+      <item value="Audience" />
+      <item value="nexus" />
+      <item value="Contact" />
+      <item value="Util" />
+      <item value="Utils" />
+      <item value="negative integer" />
+      <item value="positive integer" />
+      <item value="positive" />
+      <item value="arrangement" />
+      <item value="头像" />
+      <item value="Supervisor" />
+      <item value="promoter" />
+      <item value="分配" />
+      <item value="分派" />
       <item value="接受" />
       <item value="grt.get Type Name()" />
       <item value="Parameterized Type" />
       <item value="boot" />
       <item value="brand List" />
-      <item value="头像" />
       <item value="brand Name" />
       <item value="promoters" />
-      <item value="promoter" />
       <item value="促销员" />
       <item value="Store Serviced" />
       <item value="积分" />
@@ -37,25 +51,11 @@
       <item value="A boolean flag that can be set to {@code true} if the transaction is * effectively read-only, allowing for corresponding optimizations at runtime. * &lt;p&gt;Defaults to {@code false}. * &lt;p&gt;This just serves as a hint for the actual transaction subsystem; * it will &lt;i&gt;not necessarily&lt;/i&gt; cause failure of write access attempts. * A transaction manager which cannot interpret the read-only hint will * &lt;i&gt;not&lt;/i&gt; throw an exception when asked for a read-only transaction * but rather silently ignore the hint." />
       <item value="The default behavior is as with EJB: rollback on unchecked exception * ({@link RuntimeException}), assuming an unexpected outcome outside of any * business rules. Additionally, we also attempt to rollback on {@link Error} which * is clearly an unexpected outcome as well. By contrast, a checked exception is * considered a business exception and therefore a regular expected outcome of the * transactional business method, i.e. a kind of alternative return value which * still allows for regular completion of resource operations. * &lt;p&gt;This is largely consistent with TransactionTemplate's default behavior, * except that TransactionTemplate also rolls back on undeclared checked exceptions * (a corner case). For declarative transactions, we expect checked exceptions to be * intentionally declared as business exceptions, leading to a commit by default. * @see org.springframework.transaction.support.TransactionTemplate#execute" />
       <item value="Defines zero (0) or more exception {@link Class classes}, which must be * subclasses of {@link Throwable}, indicating which exception types must cause * a transaction rollback. * &lt;p&gt;By default, a transaction will be rolling back on {@link RuntimeException} * and {@link Error} but not on checked exceptions (business exceptions). See * {@link org.springframework.transaction.interceptor.DefaultTransactionAttribute#rollbackOn(Throwable)} * for a detailed explanation. * &lt;p&gt;This is the preferred way to construct a rollback rule (in contrast to * {@link #rollbackForClassName}), matching the exception class and its subclasses. * &lt;p&gt;Similar to {@link org.springframework.transaction.interceptor.RollbackRuleAttribute#RollbackRuleAttribute(Class clazz)}. * @see #rollbackForClassName * @see org.springframework.transaction.interceptor.DefaultTransactionAttribute#rollbackOn(Throwable) */" />
-      <item value="Set the transaction rollback-only. This instructs the transaction manager * that the only possible outcome of the transaction may be a rollback, as * alternative to throwing an exception which would in turn trigger a rollback. * &lt;p&gt;This is mainly intended for transactions managed by * {@link org.springframework.transaction.support.TransactionTemplate} or * {@link org.springframework.transaction.interceptor.TransactionInterceptor}, * where the actual commit/rollback decision is made by the container. * @see org.springframework.transaction.support.TransactionCallback#doInTransaction * @see org.springframework.transaction.interceptor.TransactionAttribute#rollbackOn" />
-      <item value="Hash Set" />
-      <item value="Comparison of compare method result with specific constant" />
-      <item value="三表导出模板" />
-      <item value="* Represents a predicate (boolean-valued function) of one argument." />
-      <item value="enhance" />
-      <item value="non-private to simplify nested class access" />
-      <item value="The array buffer into which the elements of the ArrayList are stored. * The capacity of the ArrayList is the length of this array buffer. Any * empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA * will be expanded to DEFAULT_CAPACITY when the first element is added." />
-      <item value="delta-seconds" />
-      <item value="delta" />
-      <item value="null unless explicitly set" />
-      <item value="一次" />
-      <item value="Onece" />
-      <item value="This method is inherently unsafe. Stopping a thread with * Thread.stop causes it to unlock all of the monitors that it * has locked (as a natural consequence of the unchecked * &lt;code&gt;ThreadDeath&lt;/code&gt; exception propagating up the stack). If * any of the objects previously protected by these monitors were in * an inconsistent state, the damaged objects become visible to * other threads, potentially resulting in arbitrary behavior. Many * uses of &lt;code&gt;stop&lt;/code&gt; should be replaced by code that simply * modifies some variable to indicate that the target thread should * stop running. The target thread should check this variable * regularly, and return from its run method in an orderly fashion * if the variable indicates that it is to stop running. If the * target thread waits for long periods (on a condition variable, * for example), the &lt;code&gt;interrupt&lt;/code&gt; method should be used to * interrupt the wait. * For more information, see * &lt;a href=&quot;{@docRoot}/../technotes/guides/concurrency/threadPrimitiveDeprecation.html&quot;&gt;Why * are Thread.stop, Thread.suspend and Thread.resume Deprecated?&lt;/a&gt;. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="463" />
-        <entry key="ENGLISH" value="463" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="478" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

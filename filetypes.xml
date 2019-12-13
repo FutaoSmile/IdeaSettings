@@ -4,8 +4,6 @@
       <mapping pattern="ServiceImplTemplate" type="FTL" />
       <mapping pattern="ControllerTemplate" type="FTL" />
       <mapping ext="modeltemplate" type="FTL" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="developers" type="Groovy" />
       <mapping pattern="profiles" type="Groovy" />
       <mapping pattern="" type="JAVA" />

@@ -1,71 +1,75 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="无效" />
-      <item value="有效" />
-      <item value="检定" />
-      <item value="不合格" />
-      <item value="合格" />
-      <item value="expiry Date" />
-      <item value="录入" />
-      <item value="Org Check Result Controller" />
-      <item value="less invasive" />
-      <item value="A lookup method causes the IoC container to override the given method and return the bean with the name given in the bean attribute. This is a form of Method Injection. It is particularly useful as an alternative to implementing the BeanFactoryAware interface, in order to be able to make getBean() calls for non-singleton instances at runtime. In this case, Method Injection is a less invasive alternative." />
-      <item value="Can be used to create one or more aliases illegal in an (XML) id. Multiple aliases can be separated by any number of spaces, commas, or semi-colons (or indeed any mixture of the three)." />
-      <item value="recurse" />
-      <item value="* @return the number of bean definitions found" />
-      <item value="resolved" />
-      <item value="typically" />
-      <item value="消息摘要" />
-      <item value="摘要" />
-      <item value="sign" />
-      <item value="* This method gives the filter an opportunity to clean up any resources * that are being held (for example, memory, file handles, threads) and make * sure that any persistent state is synchronized with the filter's current * state in memory." />
-      <item value="Called by the web container to indicate to a filter that it is being * taken out of service. This method is only called once all threads within * the filter's doFilter method have exited or after a timeout period has * passed. After the web container calls this method, it will not call the * doFilter method again on this instance of the filter. &lt;br&gt; * &lt;br&gt; *" />
-      <item value="indicate" />
-      <item value="maintaining" />
-      <item value="Thread Local Map" />
-      <item value="Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level." />
-      <item value="The class {@code String} includes methods for examining * individual characters of the sequence, for comparing strings, for * searching strings, for extracting substrings, and for creating a * copy of a string with all characters translated to uppercase or to * lowercase. Case mapping is based on the Unicode Standard version * specified by the {@link java.lang.Character Character} class. * &lt;p&gt; * The Java language provides special support for the string * concatenation operator (&amp;nbsp;+&amp;nbsp;), and for conversion of * other objects to strings. String concatenation is implemented * through the {@code StringBuilder}(or {@code StringBuffer}) * class and its {@code append} method. * String conversions are implemented through the method * {@code toString}, defined by {@code Object} and * inherited by all classes in Java. For additional information on * string concatenation and conversion, see Gosling, Joy, and Steele, * &lt;i&gt;The Java Language Specification&lt;/i&gt;. * * &lt;p&gt; Unless otherwise noted, passing a &lt;tt&gt;null&lt;/tt&gt; argument to a constructor * or method in this class will cause a {@link NullPointerException} to be * thrown. * * &lt;p&gt;A {@code String} represents a string in the UTF-16 format * in which &lt;em&gt;supplementary characters&lt;/em&gt; are represented by &lt;em&gt;surrogate * pairs&lt;/em&gt; (see the section &lt;a href=&quot;Character.html#unicode&quot;&gt;Unicode * Character Representations&lt;/a&gt; in the {@code Character} class for * more information). * Index values refer to {@code char} code units, so a supplementary * character uses two positions in a {@code String}. * &lt;p&gt;The {@code String} class provides methods for dealing with * Unicode code points (i.e., characters), in addition to those for * dealing with Unicode code units (i.e., {@code char} values). *" />
-      <item value="机构" />
-      <item value="* * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; {@code @RestController} is processed if an appropriate * {@code HandlerMapping}-{@code HandlerAdapter} pair is configured such as the * {@code RequestMappingHandlerMapping}-{@code RequestMappingHandlerAdapter} * pair which are the default in the MVC Java config and the MVC namespace." />
-      <item value="* Support a current transaction, create a new one if none exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;This is the default setting of a transaction annotation." />
-      <item value="Proceed with the next advice or target method invocation * &lt;p/&gt; * &lt;p&gt;Unlike code style, proceed(..) in annotation style places different requirements on the * parameters passed to it. The proceed(..) call takes, in this order: * &lt;ul&gt; * &lt;li&gt; If 'this()' was used in the pointcut for binding, it must be passed first in proceed(..). * &lt;li&gt; If 'target()' was used in the pointcut for binding, it must be passed next in proceed(..) - * it will be the first argument to proceed(..) if this() was not used for binding. * &lt;li&gt; Finally come all the arguments expected at the join point, in the order they are supplied * at the join point. Effectively the advice signature is ignored - it doesn't matter * if a subset of arguments were bound or the ordering was changed in the advice signature, * the proceed(..) calls takes all of them in the right order for the join point. * &lt;/ul&gt; * &lt;p&gt;Since proceed(..) in this case takes an Object array, AspectJ cannot do as much * compile time checking as it can for code style. If the rules above aren't obeyed * then it will unfortunately manifest as a runtime error. * &lt;/p&gt;" />
-      <item value="* Proceed with the next advice or target method invocation" />
-      <item value="站内信" />
-      <item value="designated" />
-      <item value="appointment" />
-      <item value="attempt" />
-      <item value="constant" />
-      <item value="快照" />
-      <item value="lazyer" />
-      <item value="milliseconds" />
-      <item value="to Be Confirmed" />
-      <item value="待受理" />
-      <item value="待确认" />
-      <item value="建议外送" />
-      <item value="已受理" />
-      <item value="外送" />
-      <item value="integrate" />
-      <item value="temporary Storage" />
-      <item value="handler" />
-      <item value="handle" />
-      <item value="dispose" />
-      <item value="integral" />
+      <item value="接受" />
+      <item value="grt.get Type Name()" />
+      <item value="Parameterized Type" />
+      <item value="boot" />
+      <item value="brand List" />
+      <item value="头像" />
+      <item value="brand Name" />
+      <item value="promoters" />
+      <item value="promoter" />
+      <item value="促销员" />
+      <item value="Store Serviced" />
+      <item value="积分" />
+      <item value="score" />
+      <item value="Brand" />
+      <item value="supervisor" />
+      <item value="obtain" />
+      <item value="激活" />
+      <item value="Specify one or more validation groups to apply to the validation step * kicked off by this annotation. * &lt;p&gt;JSR-303 defines validation groups as custom annotations which an application declares * for the sole purpose of using them as type-safe group arguments, as implemented in * {@link org.springframework.validation.beanvalidation.SpringValidatorAdapter}. * &lt;p&gt;Other {@link org.springframework.validation.SmartValidator} implementations may * support class arguments in other ways as well." />
+      <item value="Variant of JSR-303's {@link javax.validation.Valid}, supporting the * specification of validation groups. Designed for convenient use with * Spring's JSR-303 support but not JSR-303 specific. * * &lt;p&gt;Can be used e.g. with Spring MVC handler methods arguments. * Supported through {@link org.springframework.validation.SmartValidator}'s * validation hint concept, with validation group classes acting as hint objects. * * &lt;p&gt;Can also be used with method level validation, indicating that a specific * class is supposed to be validated at the method level (acting as a pointcut * for the corresponding validation interceptor), but also optionally specifying * the validation groups for method-level validation in the annotated class. * Applying this annotation at the method level allows for overriding the * validation groups for a specific method but does not serve as a pointcut; * a class-level annotation is nevertheless necessary to trigger method validation * for a specific bean to begin with. Can also be used as a meta-annotation on a * custom stereotype annotation or a custom group-specific validated annotation. *" />
+      <item value="性别" />
+      <item value="身份证号" />
+      <item value="身份证" />
+      <item value="完善" />
+      <item value="transitive" />
+      <item value="An opinionated {@link WebApplicationInitializer} to run a {@link SpringApplication} * from a traditional WAR deployment. Binds {@link Servlet}, {@link Filter} and * {@link ServletContextInitializer} beans from the application context to the server. * &lt;p&gt; * To configure the application either override the * {@link #configure(SpringApplicationBuilder)} method (calling * {@link SpringApplicationBuilder#sources(Class...)}) or make the initializer itself a * {@code @Configuration}. If you are using {@link SpringBootServletInitializer} in * combination with other {@link WebApplicationInitializer WebApplicationInitializers} you * might also want to add an {@code @Ordered} annotation to configure a specific startup * order. * &lt;p&gt; * Note that a WebApplicationInitializer is only needed if you are building a war file and * deploying it. If you prefer to run an embedded web server then you won't need this at * all." />
+      <item value="Filter" />
+      <item value="类别" />
+      <item value="area Code" />
+      <item value="Purpose" />
+      <item value="chartmanager" />
+      <item value="多线程" />
+      <item value="Exists" />
+      <item value="Exist" />
+      <item value="A boolean flag that can be set to {@code true} if the transaction is * effectively read-only, allowing for corresponding optimizations at runtime. * &lt;p&gt;Defaults to {@code false}. * &lt;p&gt;This just serves as a hint for the actual transaction subsystem; * it will &lt;i&gt;not necessarily&lt;/i&gt; cause failure of write access attempts. * A transaction manager which cannot interpret the read-only hint will * &lt;i&gt;not&lt;/i&gt; throw an exception when asked for a read-only transaction * but rather silently ignore the hint." />
+      <item value="The default behavior is as with EJB: rollback on unchecked exception * ({@link RuntimeException}), assuming an unexpected outcome outside of any * business rules. Additionally, we also attempt to rollback on {@link Error} which * is clearly an unexpected outcome as well. By contrast, a checked exception is * considered a business exception and therefore a regular expected outcome of the * transactional business method, i.e. a kind of alternative return value which * still allows for regular completion of resource operations. * &lt;p&gt;This is largely consistent with TransactionTemplate's default behavior, * except that TransactionTemplate also rolls back on undeclared checked exceptions * (a corner case). For declarative transactions, we expect checked exceptions to be * intentionally declared as business exceptions, leading to a commit by default. * @see org.springframework.transaction.support.TransactionTemplate#execute" />
+      <item value="Defines zero (0) or more exception {@link Class classes}, which must be * subclasses of {@link Throwable}, indicating which exception types must cause * a transaction rollback. * &lt;p&gt;By default, a transaction will be rolling back on {@link RuntimeException} * and {@link Error} but not on checked exceptions (business exceptions). See * {@link org.springframework.transaction.interceptor.DefaultTransactionAttribute#rollbackOn(Throwable)} * for a detailed explanation. * &lt;p&gt;This is the preferred way to construct a rollback rule (in contrast to * {@link #rollbackForClassName}), matching the exception class and its subclasses. * &lt;p&gt;Similar to {@link org.springframework.transaction.interceptor.RollbackRuleAttribute#RollbackRuleAttribute(Class clazz)}. * @see #rollbackForClassName * @see org.springframework.transaction.interceptor.DefaultTransactionAttribute#rollbackOn(Throwable) */" />
+      <item value="Set the transaction rollback-only. This instructs the transaction manager * that the only possible outcome of the transaction may be a rollback, as * alternative to throwing an exception which would in turn trigger a rollback. * &lt;p&gt;This is mainly intended for transactions managed by * {@link org.springframework.transaction.support.TransactionTemplate} or * {@link org.springframework.transaction.interceptor.TransactionInterceptor}, * where the actual commit/rollback decision is made by the container. * @see org.springframework.transaction.support.TransactionCallback#doInTransaction * @see org.springframework.transaction.interceptor.TransactionAttribute#rollbackOn" />
+      <item value="Hash Set" />
+      <item value="Comparison of compare method result with specific constant" />
+      <item value="三表导出模板" />
+      <item value="* Represents a predicate (boolean-valued function) of one argument." />
+      <item value="enhance" />
+      <item value="non-private to simplify nested class access" />
+      <item value="The array buffer into which the elements of the ArrayList are stored. * The capacity of the ArrayList is the length of this array buffer. Any * empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA * will be expanded to DEFAULT_CAPACITY when the first element is added." />
+      <item value="delta-seconds" />
+      <item value="delta" />
+      <item value="null unless explicitly set" />
+      <item value="一次" />
+      <item value="Onece" />
+      <item value="This method is inherently unsafe. Stopping a thread with * Thread.stop causes it to unlock all of the monitors that it * has locked (as a natural consequence of the unchecked * &lt;code&gt;ThreadDeath&lt;/code&gt; exception propagating up the stack). If * any of the objects previously protected by these monitors were in * an inconsistent state, the damaged objects become visible to * other threads, potentially resulting in arbitrary behavior. Many * uses of &lt;code&gt;stop&lt;/code&gt; should be replaced by code that simply * modifies some variable to indicate that the target thread should * stop running. The target thread should check this variable * regularly, and return from its run method in an orderly fashion * if the variable indicates that it is to stop running. If the * target thread waits for long periods (on a condition variable, * for example), the &lt;code&gt;interrupt&lt;/code&gt; method should be used to * interrupt the wait. * For more information, see * &lt;a href=&quot;{@docRoot}/../technotes/guides/concurrency/threadPrimitiveDeprecation.html&quot;&gt;Why * are Thread.stop, Thread.suspend and Thread.resume Deprecated?&lt;/a&gt;. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="463" />
+        <entry key="ENGLISH" value="463" />
         <entry key="BOSNIAN" value="1" />
-        <entry key="DANISH" value="3" />
+        <entry key="DANISH" value="5" />
+        <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
+        <entry key="FINNISH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="2" />
+        <entry key="SPANISH" value="3" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>

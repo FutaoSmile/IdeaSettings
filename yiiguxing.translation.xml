@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="grip" />
+      <item value="选中" />
       <item value="review" />
       <item value="segment" />
       <item value="Audience" />
@@ -49,13 +51,11 @@
       <item value="Exists" />
       <item value="Exist" />
       <item value="A boolean flag that can be set to {@code true} if the transaction is * effectively read-only, allowing for corresponding optimizations at runtime. * &lt;p&gt;Defaults to {@code false}. * &lt;p&gt;This just serves as a hint for the actual transaction subsystem; * it will &lt;i&gt;not necessarily&lt;/i&gt; cause failure of write access attempts. * A transaction manager which cannot interpret the read-only hint will * &lt;i&gt;not&lt;/i&gt; throw an exception when asked for a read-only transaction * but rather silently ignore the hint." />
-      <item value="The default behavior is as with EJB: rollback on unchecked exception * ({@link RuntimeException}), assuming an unexpected outcome outside of any * business rules. Additionally, we also attempt to rollback on {@link Error} which * is clearly an unexpected outcome as well. By contrast, a checked exception is * considered a business exception and therefore a regular expected outcome of the * transactional business method, i.e. a kind of alternative return value which * still allows for regular completion of resource operations. * &lt;p&gt;This is largely consistent with TransactionTemplate's default behavior, * except that TransactionTemplate also rolls back on undeclared checked exceptions * (a corner case). For declarative transactions, we expect checked exceptions to be * intentionally declared as business exceptions, leading to a commit by default. * @see org.springframework.transaction.support.TransactionTemplate#execute" />
-      <item value="Defines zero (0) or more exception {@link Class classes}, which must be * subclasses of {@link Throwable}, indicating which exception types must cause * a transaction rollback. * &lt;p&gt;By default, a transaction will be rolling back on {@link RuntimeException} * and {@link Error} but not on checked exceptions (business exceptions). See * {@link org.springframework.transaction.interceptor.DefaultTransactionAttribute#rollbackOn(Throwable)} * for a detailed explanation. * &lt;p&gt;This is the preferred way to construct a rollback rule (in contrast to * {@link #rollbackForClassName}), matching the exception class and its subclasses. * &lt;p&gt;Similar to {@link org.springframework.transaction.interceptor.RollbackRuleAttribute#RollbackRuleAttribute(Class clazz)}. * @see #rollbackForClassName * @see org.springframework.transaction.interceptor.DefaultTransactionAttribute#rollbackOn(Throwable) */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="478" />
+        <entry key="ENGLISH" value="479" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

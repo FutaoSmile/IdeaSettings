@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Remark" />
+      <item value="evaluation" />
+      <item value="service Store Names" />
+      <item value="gender" />
+      <item value="manager" />
       <item value="grip" />
       <item value="选中" />
       <item value="review" />
@@ -46,16 +51,11 @@
       <item value="类别" />
       <item value="area Code" />
       <item value="Purpose" />
-      <item value="chartmanager" />
-      <item value="多线程" />
-      <item value="Exists" />
-      <item value="Exist" />
-      <item value="A boolean flag that can be set to {@code true} if the transaction is * effectively read-only, allowing for corresponding optimizations at runtime. * &lt;p&gt;Defaults to {@code false}. * &lt;p&gt;This just serves as a hint for the actual transaction subsystem; * it will &lt;i&gt;not necessarily&lt;/i&gt; cause failure of write access attempts. * A transaction manager which cannot interpret the read-only hint will * &lt;i&gt;not&lt;/i&gt; throw an exception when asked for a read-only transaction * but rather silently ignore the hint." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="483" />
+        <entry key="ENGLISH" value="484" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

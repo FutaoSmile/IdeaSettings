@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="早班" />
       <item value="arrange" />
+      <item value="早班" />
       <item value="Remark" />
       <item value="evaluation" />
       <item value="service Store Names" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="485" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="ENGLISH" value="486" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

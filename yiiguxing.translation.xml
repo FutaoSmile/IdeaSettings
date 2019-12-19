@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已排班" />
       <item value="单价" />
       <item value="proportion" />
       <item value="比重" />
@@ -50,12 +51,11 @@
       <item value="身份证号" />
       <item value="身份证" />
       <item value="完善" />
-      <item value="transitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="487" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="488" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

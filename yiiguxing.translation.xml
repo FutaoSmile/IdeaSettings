@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return whether one or more of the given profiles is active or, in the case of no * explicit active profiles" />
       <item value="接收" />
       <item value="接收者" />
       <item value="Platform" />
@@ -50,12 +51,11 @@
       <item value="supervisor" />
       <item value="obtain" />
       <item value="激活" />
-      <item value="Specify one or more validation groups to apply to the validation step * kicked off by this annotation. * &lt;p&gt;JSR-303 defines validation groups as custom annotations which an application declares * for the sole purpose of using them as type-safe group arguments, as implemented in * {@link org.springframework.validation.beanvalidation.SpringValidatorAdapter}. * &lt;p&gt;Other {@link org.springframework.validation.SmartValidator} implementations may * support class arguments in other ways as well." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="492" />
-        <entry key="ENGLISH" value="492" />
+        <entry key="ENGLISH" value="493" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

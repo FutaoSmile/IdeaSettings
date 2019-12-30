@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MILES" />
+      <item value="METERS" />
       <item value="distance" />
       <item value="附近的人" />
       <item value="delay in milliseconds before task is to be executed." />
@@ -49,13 +51,11 @@
       <item value="positive integer" />
       <item value="positive" />
       <item value="arrangement" />
-      <item value="头像" />
-      <item value="Supervisor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE" value="508" />
+        <entry key="ENGLISH" value="509" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

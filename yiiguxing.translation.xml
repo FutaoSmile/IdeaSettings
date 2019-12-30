@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delay in milliseconds before task is to be executed." />
+      <item value="time in milliseconds between successive task executions." />
+      <item value="successive" />
       <item value="is Correlation Ip Present" />
       <item value="Delegate" />
       <item value="到岗" />
@@ -48,14 +51,11 @@
       <item value="Supervisor" />
       <item value="promoter" />
       <item value="分配" />
-      <item value="分派" />
-      <item value="接受" />
-      <item value="grt.get Type Name()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="502" />
-        <entry key="ENGLISH" value="503" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="506" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

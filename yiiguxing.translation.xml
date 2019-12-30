@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Correlation Ip Present" />
       <item value="Delegate" />
       <item value="到岗" />
       <item value="Nested" />
@@ -50,12 +51,11 @@
       <item value="分派" />
       <item value="接受" />
       <item value="grt.get Type Name()" />
-      <item value="Parameterized Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="501" />
-        <entry key="ENGLISH" value="502" />
+        <entry key="CHINESE" value="502" />
+        <entry key="ENGLISH" value="503" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

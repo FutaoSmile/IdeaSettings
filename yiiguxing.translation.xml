@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="跳转到" />
+      <item value="导航" />
       <item value="系统预设" />
       <item value="MILES" />
       <item value="METERS" />
@@ -49,13 +51,11 @@
       <item value="Util" />
       <item value="Utils" />
       <item value="negative integer" />
-      <item value="positive integer" />
-      <item value="positive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="509" />
-        <entry key="ENGLISH" value="509" />
+        <entry key="CHINESE" value="511" />
+        <entry key="ENGLISH" value="511" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Standard Redis {@link MessageListener} entry point. * &lt;p&gt; * Delegates the message to the target listener method, with appropriate conversion of the message argument. In case * of an exception, the {@link #handleListenerException(Throwable)} method will be invoked. * * @param message the incoming Redis message * @see #handleListenerException" />
+      <item value="entry point" />
       <item value="Cluster" />
       <item value="跳转到" />
       <item value="导航" />
@@ -49,13 +51,11 @@
       <item value="Audience" />
       <item value="nexus" />
       <item value="Contact" />
-      <item value="Util" />
-      <item value="Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="514" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

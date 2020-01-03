@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An initialized but unstarted &lt;tt&gt;{@link Thread}&lt;/tt&gt; object" />
       <item value="* &lt;p&gt; The Java virtual machine &lt;i&gt;shuts down&lt;/i&gt; in response to two kinds * of events:" />
       <item value="Registers a new virtual-machine shutdown hook." />
       <item value="hook" />
@@ -50,12 +51,11 @@
       <item value="Remark" />
       <item value="evaluation" />
       <item value="service Store Names" />
-      <item value="gender" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="521" />
-        <entry key="ENGLISH" value="522" />
+        <entry key="CHINESE" value="522" />
+        <entry key="ENGLISH" value="523" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return the version of this implementation. It consists of any string * assigned by the vendor of this implementation and does * not have any particular syntax specified or expected by the Java * runtime. It may be compared for equality with other * package version strings used for this implementation * by this vendor for this package. * @return the version of the implementation, null is returned if it is not known." />
       <item value="idle" />
       <item value="literal" />
       <item value="/** * Execute a transaction, using the default {@link RedisSerializer}s to deserialize any results that are byte[]s or * Collections or Maps of byte[]s or Tuples. Other result types (Long, Boolean, etc) are left as-is in the converted * results. If conversion of tx results has been disabled in the {@link RedisConnectionFactory}, the results of exec * will be returned without deserialization. This check is mostly for backwards compatibility with 1.0. * * @return The (possibly deserialized) results of transaction exec */" />
@@ -50,12 +51,11 @@
       <item value="grip" />
       <item value="选中" />
       <item value="review" />
-      <item value="segment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="516" />
-        <entry key="ENGLISH" value="517" />
+        <entry key="CHINESE" value="517" />
+        <entry key="ENGLISH" value="518" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

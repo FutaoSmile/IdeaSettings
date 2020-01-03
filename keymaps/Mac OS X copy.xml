@@ -1,6 +1,12 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="EditorSelectWord" />
   <action id="FindInPath">
@@ -12,6 +18,7 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>

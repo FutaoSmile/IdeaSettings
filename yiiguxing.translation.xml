@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &lt;p&gt; The Java virtual machine &lt;i&gt;shuts down&lt;/i&gt; in response to two kinds * of events:" />
+      <item value="Registers a new virtual-machine shutdown hook." />
+      <item value="hook" />
+      <item value="* Closes this stream and releases any system resources associated * with it. If the stream is already closed then invoking this * method has no effect. * * &lt;p&gt; As noted in {@link AutoCloseable#close()}, cases where the * close may fail require careful attention. It is strongly advised * to relinquish the underlying resources and to internally * &lt;em&gt;mark&lt;/em&gt; the {@code Closeable} as closed, prior to throwing * the {@code IOException}. * * @throws IOException if an I/O error occurs" />
       <item value="Return the version of this implementation. It consists of any string * assigned by the vendor of this implementation and does * not have any particular syntax specified or expected by the Java * runtime. It may be compared for equality with other * package version strings used for this implementation * by this vendor for this package. * @return the version of the implementation, null is returned if it is not known." />
       <item value="idle" />
       <item value="literal" />
@@ -47,15 +51,11 @@
       <item value="evaluation" />
       <item value="service Store Names" />
       <item value="gender" />
-      <item value="manager" />
-      <item value="grip" />
-      <item value="选中" />
-      <item value="review" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="521" />
+        <entry key="ENGLISH" value="522" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

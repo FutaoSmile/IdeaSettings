@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fault Tolerant" />
       <item value="Fail Demo" />
       <item value="composite" />
       <item value="A container for settings for the generation of getters and setters. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/experimental/Accessors&quot;&gt;the project lombok features page for &amp;#64;Accessors&lt;/a&gt;. * &lt;p&gt; * Using this annotation does nothing by itself; an annotation that makes lombok generate getters and setters, * such as {@link lombok.Setter} or {@link lombok.Data} is also required." />
@@ -50,12 +51,11 @@
       <item value="关联的" />
       <item value="已排班" />
       <item value="单价" />
-      <item value="proportion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="528" />
-        <entry key="ENGLISH" value="529" />
+        <entry key="CHINESE" value="529" />
+        <entry key="ENGLISH" value="530" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

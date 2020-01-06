@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fail Demo" />
+      <item value="composite" />
       <item value="A container for settings for the generation of getters and setters. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/experimental/Accessors&quot;&gt;the project lombok features page for &amp;#64;Accessors&lt;/a&gt;. * &lt;p&gt; * Using this annotation does nothing by itself; an annotation that makes lombok generate getters and setters, * such as {@link lombok.Setter} or {@link lombok.Data} is also required." />
       <item value="* A container for settings for the generation of getters and setters." />
       <item value="* &lt;p&gt;This is a convenience method. An invocation of the form * &lt;tt&gt;exec(command)&lt;/tt&gt; * behaves in exactly the same way as the invocation * &lt;tt&gt;{@link #exec(String, String[], File) exec}(command, null, null)&lt;/tt&gt;. * * @param command a specified system command. * * @return A new {@link Process} object for managing the subprocess * * @throws SecurityException * If a security manager exists and its * {@link SecurityManager#checkExec checkExec} * method doesn't allow creation of the subprocess * * @throws IOException * If an I/O error occurs * * @throws NullPointerException * If &lt;code&gt;command&lt;/code&gt; is &lt;code&gt;null&lt;/code&gt; * * @throws IllegalArgumentException * If &lt;code&gt;command&lt;/code&gt; is empty * * @see #exec(String[], String[], File) * @see ProcessBuilder */" />
@@ -49,13 +51,11 @@
       <item value="已排班" />
       <item value="单价" />
       <item value="proportion" />
-      <item value="比重" />
-      <item value="arrange" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="526" />
-        <entry key="ENGLISH" value="527" />
+        <entry key="CHINESE" value="528" />
+        <entry key="ENGLISH" value="529" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

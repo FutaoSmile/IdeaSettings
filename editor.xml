@@ -5,6 +5,7 @@
   <component name="CodeInsightSettings">
     <option name="JAVADOC_INFO_DELAY" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <EXCLUDED_PACKAGE NAME="com.wise.service.cms.dict.workitem.AddWorkItemService" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />

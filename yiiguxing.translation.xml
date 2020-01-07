@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="排序" />
       <item value="顺序" />
       <item value="通用的" />
       <item value="Common" />
@@ -50,12 +51,11 @@
       <item value="embedded" />
       <item value="Failure to find org.springframework.boot:spring-boot-starter-parent:pom:2.1.11 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced" />
       <item value="Return whether one or more of the given profiles is active or, in the case of no * explicit active profiles" />
-      <item value="接收" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="535" />
-        <entry key="ENGLISH" value="535" />
+        <entry key="CHINESE" value="536" />
+        <entry key="ENGLISH" value="536" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

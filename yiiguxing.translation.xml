@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="签到" />
       <item value="associate Item Count" />
       <item value="关联" />
       <item value="标识" />
@@ -50,11 +51,10 @@
       <item value="Accessors" />
       <item value="待接单" />
       <item value="Preconditions" />
-      <item value="Visualable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="539" />
+        <entry key="CHINESE" value="540" />
         <entry key="ENGLISH" value="540" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />

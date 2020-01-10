@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Work Bench" />
+      <item value="职位" />
+      <item value="positions" />
       <item value="工作台" />
       <item value="工作组" />
       <item value="工作项" />
@@ -8,7 +11,6 @@
       <item value="associate Item Count" />
       <item value="关联" />
       <item value="标识" />
-      <item value="positions" />
       <item value="结构" />
       <item value="排序" />
       <item value="顺序" />
@@ -49,13 +51,11 @@
       <item value="is Correlation Ip Present" />
       <item value="Delegate" />
       <item value="到岗" />
-      <item value="Nested" />
-      <item value="immutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="543" />
-        <entry key="ENGLISH" value="543" />
+        <entry key="CHINESE" value="544" />
+        <entry key="ENGLISH" value="545" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="待确认" />
+      <item value="to Confirm" />
       <item value="Work Bench" />
       <item value="职位" />
       <item value="positions" />
@@ -49,13 +51,11 @@
       <item value="time in milliseconds between successive task executions." />
       <item value="successive" />
       <item value="is Correlation Ip Present" />
-      <item value="Delegate" />
-      <item value="到岗" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="544" />
-        <entry key="ENGLISH" value="545" />
+        <entry key="CHINESE" value="546" />
+        <entry key="ENGLISH" value="546" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

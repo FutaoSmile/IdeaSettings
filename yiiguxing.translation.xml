@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="常量" />
       <item value="待确认" />
       <item value="to Confirm" />
       <item value="Work Bench" />
@@ -50,12 +51,11 @@
       <item value="delay in milliseconds before task is to be executed." />
       <item value="time in milliseconds between successive task executions." />
       <item value="successive" />
-      <item value="is Correlation Ip Present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="546" />
-        <entry key="ENGLISH" value="546" />
+        <entry key="CHINESE" value="547" />
+        <entry key="ENGLISH" value="547" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

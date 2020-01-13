@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated" />
       <item value="COMPLETED" />
       <item value="包含" />
       <item value="常量" />
@@ -50,12 +51,11 @@
       <item value="METERS" />
       <item value="distance" />
       <item value="附近的人" />
-      <item value="delay in milliseconds before task is to be executed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="548" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="550" />
+        <entry key="ENGLISH" value="551" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

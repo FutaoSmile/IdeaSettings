@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="唯一性校验" />
+      <item value="Primary Key" />
+      <item value="Primary" />
+      <item value="唯一" />
       <item value="Deprecated" />
       <item value="COMPLETED" />
       <item value="包含" />
@@ -47,15 +51,11 @@
       <item value="跳转到" />
       <item value="导航" />
       <item value="系统预设" />
-      <item value="MILES" />
-      <item value="METERS" />
-      <item value="distance" />
-      <item value="附近的人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="550" />
-        <entry key="ENGLISH" value="551" />
+        <entry key="CHINESE" value="553" />
+        <entry key="ENGLISH" value="553" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

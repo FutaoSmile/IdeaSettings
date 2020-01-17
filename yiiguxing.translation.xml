@@ -79,9 +79,15 @@
       <app-key>
         <option name="appId" value="20190917000334998" />
         <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="fanyi.baidu" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </youdao-translate>
+    </option>
   </component>
 </application>

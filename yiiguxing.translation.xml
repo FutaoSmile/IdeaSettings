@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tinyblob" />
       <item value="containing" />
       <item value="减少" />
       <item value="inverted" />
@@ -50,12 +51,11 @@
       <item value="literal" />
       <item value="/** * Execute a transaction, using the default {@link RedisSerializer}s to deserialize any results that are byte[]s or * Collections or Maps of byte[]s or Tuples. Other result types (Long, Boolean, etc) are left as-is in the converted * results. If conversion of tx results has been disabled in the {@link RedisConnectionFactory}, the results of exec * will be returned without deserialization. This check is mostly for backwards compatibility with 1.0. * * @return The (possibly deserialized) results of transaction exec */" />
       <item value="* Standard Redis {@link MessageListener} entry point. * &lt;p&gt; * Delegates the message to the target listener method, with appropriate conversion of the message argument. In case * of an exception, the {@link #handleListenerException(Throwable)} method will be invoked. * * @param message the incoming Redis message * @see #handleListenerException" />
-      <item value="entry point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="557" />
-        <entry key="ENGLISH" value="558" />
+        <entry key="CHINESE" value="558" />
+        <entry key="ENGLISH" value="559" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

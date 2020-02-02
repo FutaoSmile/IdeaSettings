@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A Configuration object for customize default settings. If {@link #configLocation} * is specified, this property is not used." />
+      <item value="/** * Set optional properties to be passed into the SqlSession configuration, as alternative to a * {@code &amp;lt;properties&amp;gt;} tag in the configuration xml file. This will be used to * resolve placeholders in the config file. * * @param sqlSessionFactoryProperties optional properties for the SqlSessionFactory */" />
+      <item value="alternative" />
       <item value="tinyblob" />
       <item value="containing" />
       <item value="减少" />
@@ -48,14 +51,11 @@
       <item value="* Closes this stream and releases any system resources associated * with it. If the stream is already closed then invoking this * method has no effect. * * &lt;p&gt; As noted in {@link AutoCloseable#close()}, cases where the * close may fail require careful attention. It is strongly advised * to relinquish the underlying resources and to internally * &lt;em&gt;mark&lt;/em&gt; the {@code Closeable} as closed, prior to throwing * the {@code IOException}. * * @throws IOException if an I/O error occurs" />
       <item value="Return the version of this implementation. It consists of any string * assigned by the vendor of this implementation and does * not have any particular syntax specified or expected by the Java * runtime. It may be compared for equality with other * package version strings used for this implementation * by this vendor for this package. * @return the version of the implementation, null is returned if it is not known." />
       <item value="idle" />
-      <item value="literal" />
-      <item value="/** * Execute a transaction, using the default {@link RedisSerializer}s to deserialize any results that are byte[]s or * Collections or Maps of byte[]s or Tuples. Other result types (Long, Boolean, etc) are left as-is in the converted * results. If conversion of tx results has been disabled in the {@link RedisConnectionFactory}, the results of exec * will be returned without deserialization. This check is mostly for backwards compatibility with 1.0. * * @return The (possibly deserialized) results of transaction exec */" />
-      <item value="* Standard Redis {@link MessageListener} entry point. * &lt;p&gt; * Delegates the message to the target listener method, with appropriate conversion of the message argument. In case * of an exception, the {@link #handleListenerException(Throwable)} method will be invoked. * * @param message the incoming Redis message * @see #handleListenerException" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="558" />
-        <entry key="ENGLISH" value="559" />
+        <entry key="CHINESE" value="561" />
+        <entry key="ENGLISH" value="562" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

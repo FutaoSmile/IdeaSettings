@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="logged In" />
+      <item value="曾经登录过" />
+      <item value="曾经登陆过" />
+      <item value="登录过" />
+      <item value="登陆过" />
       <item value="A Configuration object for customize default settings. If {@link #configLocation} * is specified, this property is not used." />
       <item value="/** * Set optional properties to be passed into the SqlSession configuration, as alternative to a * {@code &amp;lt;properties&amp;gt;} tag in the configuration xml file. This will be used to * resolve placeholders in the config file. * * @param sqlSessionFactoryProperties optional properties for the SqlSessionFactory */" />
       <item value="alternative" />
@@ -46,16 +51,11 @@
       <item value="* Executes the specified string command in a separate process." />
       <item value="An initialized but unstarted &lt;tt&gt;{@link Thread}&lt;/tt&gt; object" />
       <item value="* &lt;p&gt; The Java virtual machine &lt;i&gt;shuts down&lt;/i&gt; in response to two kinds * of events:" />
-      <item value="Registers a new virtual-machine shutdown hook." />
-      <item value="hook" />
-      <item value="* Closes this stream and releases any system resources associated * with it. If the stream is already closed then invoking this * method has no effect. * * &lt;p&gt; As noted in {@link AutoCloseable#close()}, cases where the * close may fail require careful attention. It is strongly advised * to relinquish the underlying resources and to internally * &lt;em&gt;mark&lt;/em&gt; the {@code Closeable} as closed, prior to throwing * the {@code IOException}. * * @throws IOException if an I/O error occurs" />
-      <item value="Return the version of this implementation. It consists of any string * assigned by the vendor of this implementation and does * not have any particular syntax specified or expected by the Java * runtime. It may be compared for equality with other * package version strings used for this implementation * by this vendor for this package. * @return the version of the implementation, null is returned if it is not known." />
-      <item value="idle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="561" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="CHINESE" value="565" />
+        <entry key="ENGLISH" value="566" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="开关" />
+      <item value="switch" />
       <item value="* Filter candidates assignable to a given type." />
       <item value="受影响的行数" />
       <item value="* A container for settings for the generation of getters and setters. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/experimental/Accessors&quot;&gt;the project lombok features page for &amp;#64;Accessors&lt;/a&gt;. * &lt;p&gt; * Using this annotation does nothing by itself; an annotation that makes lombok generate getters and setters, * such as {@link lombok.Setter} or {@link lombok.Data} is also required. */" />
@@ -49,13 +51,11 @@
       <item value="package-protected" />
       <item value="fault Tolerant" />
       <item value="Fail Demo" />
-      <item value="composite" />
-      <item value="A container for settings for the generation of getters and setters. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/experimental/Accessors&quot;&gt;the project lombok features page for &amp;#64;Accessors&lt;/a&gt;. * &lt;p&gt; * Using this annotation does nothing by itself; an annotation that makes lombok generate getters and setters, * such as {@link lombok.Setter} or {@link lombok.Data} is also required." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="569" />
-        <entry key="ENGLISH" value="569" />
+        <entry key="CHINESE" value="570" />
+        <entry key="ENGLISH" value="570" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

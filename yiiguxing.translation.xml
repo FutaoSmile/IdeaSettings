@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未来" />
       <item value="rest" />
       <item value="班次名称" />
       <item value="Shifts" />
@@ -50,11 +51,10 @@
       <item value="结构" />
       <item value="排序" />
       <item value="顺序" />
-      <item value="通用的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="575" />
+        <entry key="CHINESE" value="576" />
         <entry key="ENGLISH" value="576" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />

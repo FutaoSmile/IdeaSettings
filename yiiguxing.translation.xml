@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rest" />
+      <item value="班次名称" />
+      <item value="Shifts" />
+      <item value="班次" />
       <item value="计算" />
       <item value="已排班" />
       <item value="开关" />
@@ -47,15 +51,11 @@
       <item value="排序" />
       <item value="顺序" />
       <item value="通用的" />
-      <item value="Common" />
-      <item value="manager" />
-      <item value="manage" />
-      <item value="package-protected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="572" />
-        <entry key="ENGLISH" value="572" />
+        <entry key="CHINESE" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

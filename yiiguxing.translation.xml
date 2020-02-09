@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Avatar" />
       <item value="未来" />
       <item value="rest" />
       <item value="班次名称" />
@@ -50,12 +51,11 @@
       <item value="标识" />
       <item value="结构" />
       <item value="排序" />
-      <item value="顺序" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="576" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="ENGLISH" value="577" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

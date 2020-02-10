@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PARITY BIT" />
+      <item value="PARITYBIT" />
+      <item value="PARITY" />
       <item value="hour" />
       <item value="Avatar" />
       <item value="未来" />
@@ -48,14 +51,11 @@
       <item value="工作项" />
       <item value="签到" />
       <item value="associate Item Count" />
-      <item value="关联" />
-      <item value="标识" />
-      <item value="结构" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="577" />
-        <entry key="ENGLISH" value="578" />
+        <entry key="CHINESE" value="581" />
+        <entry key="ENGLISH" value="582" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

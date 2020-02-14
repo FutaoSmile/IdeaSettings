@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deserialized" />
+      <item value="alternate Names" />
       <item value="业务类型" />
       <item value="only In Progress" />
       <item value="进行中" />
@@ -49,13 +51,11 @@
       <item value="包含" />
       <item value="常量" />
       <item value="待确认" />
-      <item value="to Confirm" />
-      <item value="Work Bench" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="587" />
-        <entry key="ENGLISH" value="587" />
+        <entry key="CHINESE" value="588" />
+        <entry key="ENGLISH" value="588" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="3" />
         <entry key="VIETNAMESE" value="1" />

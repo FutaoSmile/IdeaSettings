@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="无用的" />
       <item value="specific Activity" />
       <item value="Raw use of parameterized class 'Page'" />
       <item value="Supervisor Task Not Arrange Job" />
@@ -50,12 +51,11 @@
       <item value="containing" />
       <item value="减少" />
       <item value="inverted" />
-      <item value="唯一性" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="593" />
-        <entry key="ENGLISH" value="594" />
+        <entry key="CHINESE" value="594" />
+        <entry key="ENGLISH" value="595" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

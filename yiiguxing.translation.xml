@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Negative Array Size Exception" />
+      <item value="privilege" />
       <item value="无用的" />
       <item value="specific Activity" />
       <item value="Raw use of parameterized class 'Page'" />
@@ -49,13 +51,11 @@
       <item value="alternative" />
       <item value="tinyblob" />
       <item value="containing" />
-      <item value="减少" />
-      <item value="inverted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="594" />
-        <entry key="ENGLISH" value="595" />
+        <entry key="CHINESE" value="596" />
+        <entry key="ENGLISH" value="597" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wait until a proper shutdown command is received, then return." />
       <item value="gregory" />
       <item value="japanese" />
       <item value="buddhist" />
@@ -50,12 +51,11 @@
       <item value="计算" />
       <item value="已排班" />
       <item value="开关" />
-      <item value="switch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="611" />
-        <entry key="ENGLISH" value="612" />
+        <entry key="CHINESE" value="612" />
+        <entry key="ENGLISH" value="613" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Representation" />
       <item value="Formal parameter declaration" />
       <item value="relative" />
       <item value="Base directory for the context, for static files. * Must exist, relative to the server home" />
@@ -50,12 +51,11 @@
       <item value="PARITY" />
       <item value="hour" />
       <item value="Avatar" />
-      <item value="未来" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
-        <entry key="ENGLISH" value="619" />
+        <entry key="CHINESE" value="619" />
+        <entry key="ENGLISH" value="620" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="relative" />
+      <item value="Base directory for the context, for static files. * Must exist, relative to the server home" />
       <item value="represents" />
       <item value="remarks" />
       <item value="备注" />
@@ -49,13 +51,11 @@
       <item value="Avatar" />
       <item value="未来" />
       <item value="rest" />
-      <item value="班次名称" />
-      <item value="Shifts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="615" />
-        <entry key="ENGLISH" value="616" />
+        <entry key="CHINESE" value="617" />
+        <entry key="ENGLISH" value="618" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gregory" />
+      <item value="japanese" />
+      <item value="buddhist" />
       <item value="extract Package Class" />
       <item value="press" />
       <item value="Return whether one or more of the given profiles is active or, in the case of no * explicit active profiles, whether one or more of the given profiles is included in * the set of default profiles. If a profile begins with '!' the logic is inverted, * i.e. the method will return true if the given profile is &lt;em&gt;not&lt;/em&gt; active. * For example, &lt;pre class=&quot;code&quot;&gt;env.acceptsProfiles(&quot;p1&quot;, &quot;!p2&quot;)&lt;/pre&gt; will * return {@code true} if profile 'p1' is active or 'p2' is not active. * @throws IllegalArgumentException if called with zero arguments * or if any profile is {@code null}, empty or whitespace-only" />
@@ -48,14 +51,11 @@
       <item value="已排班" />
       <item value="开关" />
       <item value="switch" />
-      <item value="* Filter candidates assignable to a given type." />
-      <item value="受影响的行数" />
-      <item value="* A container for settings for the generation of getters and setters. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/experimental/Accessors&quot;&gt;the project lombok features page for &amp;#64;Accessors&lt;/a&gt;. * &lt;p&gt; * Using this annotation does nothing by itself; an annotation that makes lombok generate getters and setters, * such as {@link lombok.Setter} or {@link lombok.Data} is also required. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="608" />
-        <entry key="ENGLISH" value="609" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="612" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

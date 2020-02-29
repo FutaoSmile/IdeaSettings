@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cognitive Complexity" />
       <item value="dedicated" />
       <item value="inherited" />
       <item value="inherit Doc" />
@@ -50,12 +51,11 @@
       <item value="surname" />
       <item value="姓" />
       <item value="PARITY BIT" />
-      <item value="PARITYBIT" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="622" />
-        <entry key="ENGLISH" value="622" />
+        <entry key="ENGLISH" value="623" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

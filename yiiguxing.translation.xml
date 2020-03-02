@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="next Int" />
+      <item value="* Returns the next pseudorandom, uniformly distributed {@code int} * value from this random number generator's sequence. The general * contract of {@code nextInt} is that one {@code int} value is * pseudorandomly generated and returned. All 2&lt;sup&gt;32&lt;/sup&gt; possible * {@code int} values are produced with (approximately) equal probability. * * &lt;p&gt;The method {@code nextInt} is implemented by class {@code Random} * as if by: * &lt;pre&gt; {@code * public int nextInt() { * return next(32); * }}&lt;/pre&gt; * * @return the next pseudorandom, uniformly distributed {@code int} * value from this random number generator's sequence */" />
+      <item value="this" />
       <item value="grep" />
       <item value="剩余" />
       <item value="Rest" />
@@ -48,14 +51,11 @@
       <item value="deserialized" />
       <item value="alternate Names" />
       <item value="业务类型" />
-      <item value="only In Progress" />
-      <item value="进行中" />
-      <item value="last Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="625" />
-        <entry key="ENGLISH" value="626" />
+        <entry key="CHINESE" value="628" />
+        <entry key="ENGLISH" value="629" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="grep" />
+      <item value="剩余" />
+      <item value="Rest" />
       <item value="Caller Sensitive" />
       <item value="Cognitive Complexity" />
       <item value="dedicated" />
@@ -48,14 +51,11 @@
       <item value="only In Progress" />
       <item value="进行中" />
       <item value="last Name" />
-      <item value="first Name" />
-      <item value="surname" />
-      <item value="姓" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="623" />
-        <entry key="ENGLISH" value="624" />
+        <entry key="CHINESE" value="625" />
+        <entry key="ENGLISH" value="626" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

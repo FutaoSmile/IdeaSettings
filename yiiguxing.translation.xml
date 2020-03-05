@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已审批" />
       <item value="等待审核" />
       <item value="接受" />
       <item value="待审核" />
@@ -50,12 +51,11 @@
       <item value="specific Activity" />
       <item value="Raw use of parameterized class 'Page'" />
       <item value="Supervisor Task Not Arrange Job" />
-      <item value="send msg to notify mq fail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="635" />
-        <entry key="ENGLISH" value="635" />
+        <entry key="CHINESE" value="636" />
+        <entry key="ENGLISH" value="636" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

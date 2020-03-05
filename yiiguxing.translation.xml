@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nested" />
+      <item value="嵌套的" />
       <item value="结构" />
       <item value="BEAN CONTAINER" />
       <item value="next Int" />
@@ -49,13 +51,11 @@
       <item value="receive" />
       <item value="invoke" />
       <item value="encountered" />
-      <item value="ui config" />
-      <item value="deserialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="630" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

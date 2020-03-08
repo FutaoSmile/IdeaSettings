@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接收者" />
       <item value="taker" />
       <item value="已审批" />
       <item value="等待审核" />
@@ -50,11 +51,10 @@
       <item value="privilege" />
       <item value="无用的" />
       <item value="specific Activity" />
-      <item value="Raw use of parameterized class 'Page'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
+        <entry key="CHINESE" value="637" />
         <entry key="ENGLISH" value="637" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />

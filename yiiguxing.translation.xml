@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mandatory" />
       <item value="Ware" />
       <item value="Ware House" />
       <item value="仓库" />
@@ -50,12 +51,11 @@
       <item value="Sneaky" />
       <item value="Sneaky Throws" />
       <item value="* * @param uploadFileRequest A {@link UploadFileRequest} instance that specifies the bucket name, object key, file path * ,part size (&gt;100K) and thread count (from 1 to 1000) and checkpoint file." />
-      <item value="* This method will automatically split files into parts and upload them in parallel by a thread pool, though by * default the thread pool only has one thread. * After all parts are uploaded, then it will merge them into one file. But if any one part fails to be uploaded, * the whole upload fails. * Optionally a checkpoint file could be used to track the progress of the upload and resume the upload later upon * failure. Once the upload completes, the checkpoint file would be deleted. * By default checkpoint file is disabled. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="639" />
-        <entry key="ENGLISH" value="640" />
+        <entry key="CHINESE" value="640" />
+        <entry key="ENGLISH" value="641" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

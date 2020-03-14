@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclusive" />
+      <item value="* Annotation that binds a method parameter to the payload of a message. Can also * be used to associate a payload to a method invocation. The payload may be passed * through a {@link MessageConverter} to convert it from serialized form with a * specific MIME type to an Object matching the target method parameter." />
       <item value="Definition" />
       <item value="定义" />
       <item value="Correlation Data" />
@@ -49,13 +51,11 @@
       <item value="press" />
       <item value="Return whether one or more of the given profiles is active or, in the case of no * explicit active profiles, whether one or more of the given profiles is included in * the set of default profiles. If a profile begins with '!' the logic is inverted, * i.e. the method will return true if the given profile is &lt;em&gt;not&lt;/em&gt; active. * For example, &lt;pre class=&quot;code&quot;&gt;env.acceptsProfiles(&quot;p1&quot;, &quot;!p2&quot;)&lt;/pre&gt; will * return {@code true} if profile 'p1' is active or 'p2' is not active. * @throws IllegalArgumentException if called with zero arguments * or if any profile is {@code null}, empty or whitespace-only" />
       <item value="* Constructs a new {@code String} by decoding the specified array of * bytes using the specified {@linkplain java.nio.charset.Charset charset}. * The length of the new {@code String} is a function of the charset, and * hence may not be equal to the length of the byte array. * * &lt;p&gt; This method always replaces malformed-input and unmappable-character * sequences with this charset's default replacement string. The {@link * java.nio.charset.CharsetDecoder} class should be used when more control * over the decoding process is required." />
-      <item value="* Encodes this {@code String} into a sequence of bytes using the given * {@linkplain java.nio.charset.Charset charset}, storing the result into a * new byte array. *" />
-      <item value="* Encodes this {@code String} into a sequence of bytes using the given * {@linkplain java.nio.charset.Charset charset}, storing the result into a * new byte array." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="642" />
-        <entry key="ENGLISH" value="643" />
+        <entry key="CHINESE" value="644" />
+        <entry key="ENGLISH" value="645" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

@@ -81,11 +81,6 @@
         <option name="appId" value="20190917000334998" />
       </app-key>
     </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>

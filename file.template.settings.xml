@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="TestMe with JUnit4 &amp; Mockito.java" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="TestMe with JUnit5 &amp; Mockito.java" reformat="false" live-template-enabled="false" enabled="true" />
+    </internal_templates>
+  </component>
+</application>

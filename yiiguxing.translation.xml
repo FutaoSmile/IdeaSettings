@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kit" />
       <item value="intercepted Method" />
       <item value="used to invoke super (non-intercepted method); may be called" />
       <item value="动态" />
@@ -50,12 +51,11 @@
       <item value="gregory" />
       <item value="japanese" />
       <item value="buddhist" />
-      <item value="extract Package Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="646" />
-        <entry key="ENGLISH" value="647" />
+        <entry key="CHINESE" value="647" />
+        <entry key="ENGLISH" value="648" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

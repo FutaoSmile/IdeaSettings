@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="集成" />
       <item value="追溯" />
       <item value="currently open" />
       <item value="Kit" />
@@ -50,12 +51,11 @@
       <item value="备注" />
       <item value="remark" />
       <item value="Wait until a proper shutdown command is received, then return." />
-      <item value="gregory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="649" />
-        <entry key="ENGLISH" value="649" />
+        <entry key="CHINESE" value="650" />
+        <entry key="ENGLISH" value="650" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

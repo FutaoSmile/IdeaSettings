@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returning a reference to a mutable object value stored in one of the object's fields exposes the internal representation of the object.  If instances are accessed by untrusted code, and unchecked changes to the mutable object would compromise security or other important properties, you will need to do something different. Returning a new copy of the object is better approach in many situations." />
+      <item value="training time" />
       <item value="集成" />
       <item value="追溯" />
       <item value="currently open" />
@@ -49,13 +51,11 @@
       <item value="represents" />
       <item value="remarks" />
       <item value="备注" />
-      <item value="remark" />
-      <item value="Wait until a proper shutdown command is received, then return." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="650" />
-        <entry key="ENGLISH" value="650" />
+        <entry key="CHINESE" value="651" />
+        <entry key="ENGLISH" value="651" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

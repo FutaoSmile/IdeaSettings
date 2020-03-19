@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mandatory" />
+      <item value="Whether to enable mandatory messages." />
       <item value="stack Trace" />
       <item value="Maximum number of unacknowledged messages that can be outstanding at each * consumer." />
       <item value="Maximum number of listener invoker threads." />
@@ -19,7 +21,6 @@
       <item value="Definition" />
       <item value="定义" />
       <item value="Correlation Data" />
-      <item value="mandatory" />
       <item value="Ware" />
       <item value="Ware House" />
       <item value="仓库" />
@@ -50,12 +51,11 @@
       <item value="inherit Doc" />
       <item value="Representation" />
       <item value="Formal parameter declaration" />
-      <item value="relative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="655" />
-        <entry key="ENGLISH" value="656" />
+        <entry key="CHINESE" value="657" />
+        <entry key="ENGLISH" value="658" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
@@ -80,15 +80,9 @@
       <app-key>
         <option name="appId" value="20190917000334998" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="fanyi.baidu" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-      </youdao-translate>
-    </option>
   </component>
 </application>

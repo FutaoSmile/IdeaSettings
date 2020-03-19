@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="durable" />
+      <item value="* Creates a builder for a durable queue with a generated * unique name - {@code spring.gen-&lt;random&gt;}. * @return the QueueBuilder instance." />
+      <item value="* Creates a builder for a non-durable (transient) queue. * @return the QueueBuilder instance." />
       <item value="* Creates {@link RequestMappingInfo} instances from type and method-level * {@link RequestMapping @RequestMapping} annotations in * {@link Controller @Controller} classes. *" />
       <item value="Number of connections to cache. Only applies when mode is CONNECTION." />
       <item value="mandatory" />
@@ -48,14 +51,11 @@
       <item value="Rest" />
       <item value="Caller Sensitive" />
       <item value="Cognitive Complexity" />
-      <item value="dedicated" />
-      <item value="inherited" />
-      <item value="inherit Doc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="659" />
-        <entry key="ENGLISH" value="660" />
+        <entry key="CHINESE" value="662" />
+        <entry key="ENGLISH" value="663" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

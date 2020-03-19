@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stack Trace" />
       <item value="Maximum number of unacknowledged messages that can be outstanding at each * consumer." />
       <item value="Maximum number of listener invoker threads." />
       <item value="Minimum number of listener invoker threads." />
@@ -50,12 +51,11 @@
       <item value="Representation" />
       <item value="Formal parameter declaration" />
       <item value="relative" />
-      <item value="Base directory for the context, for static files. * Must exist, relative to the server home" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="654" />
-        <entry key="ENGLISH" value="655" />
+        <entry key="CHINESE" value="655" />
+        <entry key="ENGLISH" value="656" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

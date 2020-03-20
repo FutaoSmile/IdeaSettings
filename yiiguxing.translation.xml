@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Expiration" />
       <item value="a processor to apply to the message before it is sent" />
       <item value="/* * Copyright 2002-2017 the original author or authors. * * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); * you may not use this file except in compliance with the License. * You may obtain a copy of the License at * * https://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License. */ package org.springframework.amqp.core; import org.springframework.amqp.AmqpException; /** * Used in several places in the framework, such as * {@code AmqpTemplate#convertAndSend(Object, MessagePostProcessor)} where it can be used * to add/modify headers or properties after the message conversion has been performed. It * also can be used to modify inbound messages when receiving messages in listener * containers and {@code AmqpTemplate}s. * * &lt;p&gt; * It is a {@link FunctionalInterface} and is often used as a lambda: * &lt;pre class=&quot;code&quot;&gt; * amqpTemplate.convertAndSend(routingKey, m -&amp;gt; { * m.getMessageProperties().setDeliveryMode(DeliveryMode.NON_PERSISTENT); * return m; * }); * &lt;/pre&gt; * * @author Mark Pollack * @author Gary Russell */ @FunctionalInterface public interface MessagePostProcessor { /** * Change (or replace) the message. * @param message the message. * @return the message. * @throws AmqpException an exception. */ Message postProcessMessage(Message message) throws AmqpException; /** * Change (or replace) the message and/or change its correlation data. * @param message the message. * @param correlation the correlation data. * @return the message. * @since 1.6.7 */ default Message postProcessMessage(Message message, Correlation correlation) { return postProcessMessage(message); } }" />
       <item value="Functional Interface" />
@@ -50,12 +51,11 @@
       <item value="接收者" />
       <item value="taker" />
       <item value="已审批" />
-      <item value="等待审核" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="682" />
-        <entry key="ENGLISH" value="683" />
+        <entry key="CHINESE" value="683" />
+        <entry key="ENGLISH" value="684" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

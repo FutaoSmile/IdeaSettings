@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="国家" />
+      <item value="contry" />
       <item value="Declarable" />
       <item value="Auto Recover Connection Not Currently Open Exception" />
       <item value="* Set the x-delay header. * @param delay the delay. * @since 1.6 */" />
@@ -49,13 +51,11 @@
       <item value="Ware House" />
       <item value="仓库" />
       <item value="执行人数" />
-      <item value="进制" />
-      <item value="pretend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="686" />
-        <entry key="ENGLISH" value="687" />
+        <entry key="CHINESE" value="688" />
+        <entry key="ENGLISH" value="688" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />

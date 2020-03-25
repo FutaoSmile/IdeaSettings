@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提醒" />
+      <item value="通知" />
+      <item value="remaind" />
       <item value="interval" />
       <item value="国家" />
       <item value="contry" />
@@ -48,16 +51,13 @@
       <item value="Definition" />
       <item value="定义" />
       <item value="Correlation Data" />
-      <item value="Ware" />
-      <item value="Ware House" />
-      <item value="仓库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="688" />
-        <entry key="ENGLISH" value="689" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="691" />
         <entry key="BOSNIAN" value="1" />
-        <entry key="DANISH" value="5" />
+        <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FINNISH" value="2" />

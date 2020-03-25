@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval" />
       <item value="国家" />
       <item value="contry" />
       <item value="Declarable" />
@@ -50,12 +51,11 @@
       <item value="Ware" />
       <item value="Ware House" />
       <item value="仓库" />
-      <item value="执行人数" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="688" />
-        <entry key="ENGLISH" value="688" />
+        <entry key="ENGLISH" value="689" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="1" />
@@ -79,7 +79,6 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20190917000334998" />
-        <option name="appKeyConfigured" value="true" />
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />

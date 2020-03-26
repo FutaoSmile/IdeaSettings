@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mandatory" />
       <item value="/** * When true, designate that this is the default fallback method if the payload type * matches no other {@link RabbitHandler} method. Only one method can be so designated. * @return true if this is the default method. * @since 2.0.3 */" />
       <item value="/* * Copyright 2015-2018 the original author or authors. * * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); * you may not use this file except in compliance with the License. * You may obtain a copy of the License at * * https://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License. */ package org.springframework.amqp.rabbit.annotation; import java.lang.annotation.Documented; import java.lang.annotation.ElementType; import java.lang.annotation.Retention; import java.lang.annotation.RetentionPolicy; import java.lang.annotation.Target; import org.springframework.messaging.handler.annotation.MessageMapping; /** * Annotation that marks a method to be the target of a Rabbit message * listener within a class that is annotated with {@link RabbitListener}. * * &lt;p&gt;See the {@link RabbitListener} for information about permitted method signatures * and available parameters. * &lt;p&gt;&lt;b&gt;It is important to understand that when a message arrives, the method selection * depends on the payload type. The type is matched with a single non-annotated parameter, * or one that is annotated with {@code @Payload}. * There must be no ambiguity - the system * must be able to select exactly one method based on the payload type.&lt;/b&gt; * * @author Gary Russell * @since 1.5 * @see EnableRabbit * @see RabbitListener * @see RabbitListenerAnnotationBeanPostProcessor */ @Target({ ElementType.METHOD, ElementType.ANNOTATION_TYPE }) @Retention(RetentionPolicy.RUNTIME) @MessageMapping @Documented public @interface RabbitHandler { /** * When true, designate that this is the default fallback method if the payload type * matches no other {@link RabbitHandler} method. Only one method can be so designated. * @return true if this is the default method. * @since 2.0.3 */ boolean isDefault() default false; }" />
       <item value="提醒" />
@@ -20,7 +21,6 @@
       <item value="Maximum duration between attempts." />
       <item value="multiple" />
       <item value="prefetch" />
-      <item value="mandatory" />
       <item value="* Apply this BeanPostProcessor to the given new bean instance &lt;i&gt;after&lt;/i&gt; any bean * initialization callbacks (like InitializingBean's {@code afterPropertiesSet} * or a custom init-method). The bean will already be populated with property values. * The returned bean instance may be a wrapper around the original. * &lt;p&gt;In case of a FactoryBean, this callback will be invoked for both the FactoryBean * instance and the objects created by the FactoryBean (as of Spring 2.0). The * post-processor can decide whether to apply to either the FactoryBean or created * objects or both through corresponding {@code bean instanceof FactoryBean} checks. * &lt;p&gt;This callback will also be invoked after a short-circuiting triggered by a * {@link InstantiationAwareBeanPostProcessor#postProcessBeforeInstantiation} method, * in contrast to all other BeanPostProcessor callbacks. * &lt;p&gt;The default implementation returns the given {@code bean} as-is. * @param bean the new bean instance * @param beanName the name of the bean * @return the bean instance to use, either the original or a wrapped one; * if {@code null}, no subsequent BeanPostProcessors will be invoked * @throws org.springframework.beans.BeansException in case of errors * @see org.springframework.beans.factory.InitializingBean#afterPropertiesSet * @see org.springframework.beans.factory.FactoryBean */" />
       <item value="Enhance" />
       <item value="Enhancer" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="691" />
-        <entry key="ENGLISH" value="692" />
+        <entry key="CHINESE" value="692" />
+        <entry key="ENGLISH" value="693" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />

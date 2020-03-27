@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LOGGER.warn(&quot;The Hystrix timeout of &quot; + hystrixTimeout + &quot;ms for the command &quot; + commandKey + &quot; is set lower than the combination of the Ribbon read and connect timeout, &quot; + ribbonTimeout + &quot;ms.&quot;);" />
       <item value="is Use Traditonal" />
       <item value="mandatory" />
       <item value="/** * When true, designate that this is the default fallback method if the payload type * matches no other {@link RabbitHandler} method. Only one method can be so designated. * @return true if this is the default method. * @since 2.0.3 */" />
@@ -50,12 +51,11 @@
       <item value="used to invoke super (non-intercepted method); may be called" />
       <item value="动态" />
       <item value="exclusive" />
-      <item value="* Annotation that binds a method parameter to the payload of a message. Can also * be used to associate a payload to a method invocation. The payload may be passed * through a {@link MessageConverter} to convert it from serialized form with a * specific MIME type to an Object matching the target method parameter." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="694" />
-        <entry key="ENGLISH" value="694" />
+        <entry key="ENGLISH" value="695" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />

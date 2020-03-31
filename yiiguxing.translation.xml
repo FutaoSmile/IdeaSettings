@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="间隔" />
       <item value="Declare" />
       <item value="来源" />
       <item value="职位" />
@@ -50,11 +51,10 @@
       <item value="training time" />
       <item value="集成" />
       <item value="追溯" />
-      <item value="currently open" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="698" />
+        <entry key="CHINESE" value="699" />
         <entry key="ENGLISH" value="699" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />

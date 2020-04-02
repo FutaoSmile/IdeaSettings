@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="marker Interface" />
       <item value="特定的" />
       <item value="指定的" />
       <item value="PROPERTY" />
@@ -50,12 +51,11 @@
       <item value="* Creates {@link RequestMappingInfo} instances from type and method-level * {@link RequestMapping @RequestMapping} annotations in * {@link Controller @Controller} classes. *" />
       <item value="Number of connections to cache. Only applies when mode is CONNECTION." />
       <item value="Whether to enable mandatory messages." />
-      <item value="stack Trace" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="706" />
-        <entry key="ENGLISH" value="706" />
+        <entry key="ENGLISH" value="707" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />

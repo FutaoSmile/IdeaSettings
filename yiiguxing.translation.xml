@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="特定的" />
+      <item value="指定的" />
       <item value="PROPERTY" />
       <item value="for example: not eligible for auto-proxying" />
       <item value="eligible" />
@@ -49,13 +51,11 @@
       <item value="Number of connections to cache. Only applies when mode is CONNECTION." />
       <item value="Whether to enable mandatory messages." />
       <item value="stack Trace" />
-      <item value="Maximum number of unacknowledged messages that can be outstanding at each * consumer." />
-      <item value="Maximum number of listener invoker threads." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="704" />
-        <entry key="ENGLISH" value="705" />
+        <entry key="CHINESE" value="706" />
+        <entry key="ENGLISH" value="706" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />

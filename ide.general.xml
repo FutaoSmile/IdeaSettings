@@ -19,5 +19,6 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="js.debugger.webconsole" value="false" />
   </component>
 </application>

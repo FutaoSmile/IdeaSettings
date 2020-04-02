@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROPERTY" />
       <item value="for example: not eligible for auto-proxying" />
       <item value="eligible" />
       <item value="truncated" />
@@ -50,12 +51,11 @@
       <item value="stack Trace" />
       <item value="Maximum number of unacknowledged messages that can be outstanding at each * consumer." />
       <item value="Maximum number of listener invoker threads." />
-      <item value="Minimum number of listener invoker threads." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="703" />
-        <entry key="ENGLISH" value="704" />
+        <entry key="CHINESE" value="704" />
+        <entry key="ENGLISH" value="705" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />

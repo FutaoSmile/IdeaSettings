@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="durable" />
       <item value="The thread * does not lose ownership of any monitors." />
       <item value="Enhance" />
       <item value="marker Interface" />
@@ -46,7 +47,6 @@
       <item value="initial Interval" />
       <item value="* Specify the receive timeout in milliseconds when using {@code receive()} methods (for {@code sendAndReceive()} * methods, refer to {@link #setReplyTimeout(long) replyTimeout}. By default, the value is zero, which * means the {@code receive()} methods will return {@code null} immediately if there is no message * available. Set to less than zero to wait for a message indefinitely. * @param receiveTimeout the timeout. * @since 1.5" />
       <item value="inequivalent" />
-      <item value="durable" />
       <item value="* Creates a builder for a durable queue with a generated * unique name - {@code spring.gen-&lt;random&gt;}. * @return the QueueBuilder instance." />
       <item value="* Creates a builder for a non-durable (transient) queue. * @return the QueueBuilder instance." />
       <item value="* Creates {@link RequestMappingInfo} instances from type and method-level * {@link RequestMapping @RequestMapping} annotations in * {@link Controller @Controller} classes. *" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="708" />
-        <entry key="ENGLISH" value="709" />
+        <entry key="CHINESE" value="709" />
+        <entry key="ENGLISH" value="710" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />

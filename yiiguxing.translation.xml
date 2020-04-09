@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="signedint" />
+      <item value="method" />
+      <item value="PRECONDITION FAILED" />
+      <item value="message" />
       <item value="Duration between the first and second attempt to deliver a message." />
       <item value="Maximum duration between attempts." />
       <item value="Multiplier to apply to the previous retry interval." />
@@ -47,15 +51,11 @@
       <item value="Enhancer" />
       <item value="Bean Enhancer" />
       <item value="Whether rejected deliveries are re-queued by default." />
-      <item value="initial Interval" />
-      <item value="* Specify the receive timeout in milliseconds when using {@code receive()} methods (for {@code sendAndReceive()} * methods, refer to {@link #setReplyTimeout(long) replyTimeout}. By default, the value is zero, which * means the {@code receive()} methods will return {@code null} immediately if there is no message * available. Set to less than zero to wait for a message indefinitely. * @param receiveTimeout the timeout. * @since 1.5" />
-      <item value="inequivalent" />
-      <item value="* Creates a builder for a durable queue with a generated * unique name - {@code spring.gen-&lt;random&gt;}. * @return the QueueBuilder instance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="755" />
-        <entry key="ENGLISH" value="756" />
+        <entry key="CHINESE" value="758" />
+        <entry key="ENGLISH" value="759" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />

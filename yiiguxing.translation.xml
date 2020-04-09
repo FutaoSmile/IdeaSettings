@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NOSONAR" />
+      <item value="Maximum duration between attempts." />
+      <item value="Duration between the first and second attempt to deliver a message." />
       <item value="durable" />
       <item value="The thread * does not lose ownership of any monitors." />
       <item value="Enhance" />
@@ -37,7 +40,6 @@
       <item value="/* * Copyright 2002-2017 the original author or authors. * * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); * you may not use this file except in compliance with the License. * You may obtain a copy of the License at * * https://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License. */ package org.springframework.amqp.core; import org.springframework.amqp.AmqpException; /** * Used in several places in the framework, such as * {@code AmqpTemplate#convertAndSend(Object, MessagePostProcessor)} where it can be used * to add/modify headers or properties after the message conversion has been performed. It * also can be used to modify inbound messages when receiving messages in listener * containers and {@code AmqpTemplate}s. * * &lt;p&gt; * It is a {@link FunctionalInterface} and is often used as a lambda: * &lt;pre class=&quot;code&quot;&gt; * amqpTemplate.convertAndSend(routingKey, m -&amp;gt; { * m.getMessageProperties().setDeliveryMode(DeliveryMode.NON_PERSISTENT); * return m; * }); * &lt;/pre&gt; * * @author Mark Pollack * @author Gary Russell */ @FunctionalInterface public interface MessagePostProcessor { /** * Change (or replace) the message. * @param message the message. * @return the message. * @throws AmqpException an exception. */ Message postProcessMessage(Message message) throws AmqpException; /** * Change (or replace) the message and/or change its correlation data. * @param message the message. * @param correlation the correlation data. * @return the message. * @since 1.6.7 */ default Message postProcessMessage(Message message, Correlation correlation) { return postProcessMessage(message); } }" />
       <item value="Functional Interface" />
       <item value="* Manual acks - user must ack/nack via a channel aware listener." />
-      <item value="Maximum duration between attempts." />
       <item value="multiple" />
       <item value="prefetch" />
       <item value="* Apply this BeanPostProcessor to the given new bean instance &lt;i&gt;after&lt;/i&gt; any bean * initialization callbacks (like InitializingBean's {@code afterPropertiesSet} * or a custom init-method). The bean will already be populated with property values. * The returned bean instance may be a wrapper around the original. * &lt;p&gt;In case of a FactoryBean, this callback will be invoked for both the FactoryBean * instance and the objects created by the FactoryBean (as of Spring 2.0). The * post-processor can decide whether to apply to either the FactoryBean or created * objects or both through corresponding {@code bean instanceof FactoryBean} checks. * &lt;p&gt;This callback will also be invoked after a short-circuiting triggered by a * {@link InstantiationAwareBeanPostProcessor#postProcessBeforeInstantiation} method, * in contrast to all other BeanPostProcessor callbacks. * &lt;p&gt;The default implementation returns the given {@code bean} as-is. * @param bean the new bean instance * @param beanName the name of the bean * @return the bean instance to use, either the original or a wrapped one; * if {@code null}, no subsequent BeanPostProcessors will be invoked * @throws org.springframework.beans.BeansException in case of errors * @see org.springframework.beans.factory.InitializingBean#afterPropertiesSet * @see org.springframework.beans.factory.FactoryBean */" />
@@ -49,13 +51,11 @@
       <item value="inequivalent" />
       <item value="* Creates a builder for a durable queue with a generated * unique name - {@code spring.gen-&lt;random&gt;}. * @return the QueueBuilder instance." />
       <item value="* Creates a builder for a non-durable (transient) queue. * @return the QueueBuilder instance." />
-      <item value="* Creates {@link RequestMappingInfo} instances from type and method-level * {@link RequestMapping @RequestMapping} annotations in * {@link Controller @Controller} classes. *" />
-      <item value="Number of connections to cache. Only applies when mode is CONNECTION." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="709" />
-        <entry key="ENGLISH" value="710" />
+        <entry key="CHINESE" value="712" />
+        <entry key="ENGLISH" value="712" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />
@@ -69,7 +69,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="2" />
-        <entry key="SPANISH" value="3" />
+        <entry key="SPANISH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>

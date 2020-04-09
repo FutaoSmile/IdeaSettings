@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duration between the first and second attempt to deliver a message." />
       <item value="NOSONAR" />
       <item value="Maximum duration between attempts." />
-      <item value="Duration between the first and second attempt to deliver a message." />
       <item value="durable" />
       <item value="The thread * does not lose ownership of any monitors." />
       <item value="Enhance" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="712" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="ENGLISH" value="713" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />

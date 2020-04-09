@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Multiplier to apply to the previous retry interval." />
       <item value="Duration between the first and second attempt to deliver a message." />
-      <item value="NOSONAR" />
       <item value="Maximum duration between attempts." />
+      <item value="Multiplier to apply to the previous retry interval." />
+      <item value="NOSONAR" />
       <item value="durable" />
       <item value="The thread * does not lose ownership of any monitors." />
       <item value="Enhance" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="754" />
+        <entry key="CHINESE" value="755" />
+        <entry key="ENGLISH" value="756" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />

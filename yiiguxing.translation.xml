@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="性能测试" />
+      <item value="bench Mark" />
       <item value="redis Template" />
       <item value="下单" />
       <item value="已支付" />
@@ -49,13 +51,11 @@
       <item value="国家" />
       <item value="contry" />
       <item value="Declarable" />
-      <item value="Auto Recover Connection Not Currently Open Exception" />
-      <item value="* Set the x-delay header. * @param delay the delay. * @since 1.6 */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="768" />
-        <entry key="ENGLISH" value="769" />
+        <entry key="CHINESE" value="770" />
+        <entry key="ENGLISH" value="770" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />

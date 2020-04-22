@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redis Template" />
       <item value="下单" />
       <item value="已支付" />
       <item value="已过期" />
@@ -50,12 +51,11 @@
       <item value="Declarable" />
       <item value="Auto Recover Connection Not Currently Open Exception" />
       <item value="* Set the x-delay header. * @param delay the delay. * @since 1.6 */" />
-      <item value="set Expiration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="768" />
-        <entry key="ENGLISH" value="768" />
+        <entry key="ENGLISH" value="769" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="1" />

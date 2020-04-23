@@ -3,6 +3,7 @@
     <option name="excludedRules">
       <set>
         <option value="java:S1128" />
+        <option value="java:S899" />
         <option value="squid:CallToDeprecatedMethod" />
         <option value="squid:CommentedOutCodeLine" />
         <option value="squid:S00117" />

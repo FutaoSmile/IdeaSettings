@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="正数" />
       <item value="daily Wage" />
       <item value="assemble" />
       <item value="组装" />
@@ -50,11 +51,10 @@
       <item value="position" />
       <item value="employee No" />
       <item value="LOGGER.warn(&quot;The Hystrix timeout of &quot; + hystrixTimeout + &quot;ms for the command &quot; + commandKey + &quot; is set lower than the combination of the Ribbon read and connect timeout, &quot; + ribbonTimeout + &quot;ms.&quot;);" />
-      <item value="is Use Traditonal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="779" />
+        <entry key="CHINESE" value="780" />
         <entry key="ENGLISH" value="780" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />

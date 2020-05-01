@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积分" />
+      <item value="Score" />
       <item value="redirections" />
       <item value="Catalog" />
       <item value="app.statistic.unilever.remind.user.mails=taof@wicrenet.com app.statistic.unilever.remind.history.days=30" />
@@ -49,13 +51,11 @@
       <item value="marker Interface" />
       <item value="特定的" />
       <item value="指定的" />
-      <item value="PROPERTY" />
-      <item value="for example: not eligible for auto-proxying" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="788" />
+        <entry key="ENGLISH" value="788" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

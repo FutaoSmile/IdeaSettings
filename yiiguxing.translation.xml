@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SPI" />
       <item value="* Set the ApplicationEventPublisher that this object runs in. * &lt;p&gt;Invoked after population of normal bean properties but before an init * callback like InitializingBean's afterPropertiesSet or a custom init-method. * Invoked before ApplicationContextAware's setApplicationContext. * @param applicationEventPublisher event publisher to be used by this object" />
       <item value="population" />
       <item value="Invoked" />
@@ -50,12 +51,11 @@
       <item value="NOSONAR" />
       <item value="durable" />
       <item value="The thread * does not lose ownership of any monitors." />
-      <item value="Enhance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="790" />
-        <entry key="ENGLISH" value="791" />
+        <entry key="CHINESE" value="791" />
+        <entry key="ENGLISH" value="792" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

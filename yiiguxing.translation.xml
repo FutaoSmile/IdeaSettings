@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="聊天室" />
       <item value="omitted" />
       <item value="Precedence" />
       <item value="Assignable" />
@@ -50,11 +51,10 @@
       <item value="Declare" />
       <item value="signedint" />
       <item value="method" />
-      <item value="PRECONDITION FAILED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="798" />
+        <entry key="CHINESE" value="799" />
         <entry key="ENGLISH" value="799" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />

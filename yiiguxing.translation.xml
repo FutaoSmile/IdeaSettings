@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Head" />
+      <item value="Get Sales Report Head" />
       <item value="聊天室" />
       <item value="omitted" />
       <item value="Precedence" />
@@ -49,13 +51,11 @@
       <item value="complete Url" />
       <item value="Unexpected bound" />
       <item value="Declare" />
-      <item value="signedint" />
-      <item value="method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="799" />
-        <entry key="ENGLISH" value="799" />
+        <entry key="CHINESE" value="800" />
+        <entry key="ENGLISH" value="801" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

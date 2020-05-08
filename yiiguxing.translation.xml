@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flip" />
       <item value="比较" />
       <item value="Head" />
       <item value="Get Sales Report Head" />
@@ -50,12 +51,11 @@
       <item value="原始类型" />
       <item value="原始的" />
       <item value="complete Url" />
-      <item value="Unexpected bound" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="801" />
-        <entry key="ENGLISH" value="801" />
+        <entry key="ENGLISH" value="802" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

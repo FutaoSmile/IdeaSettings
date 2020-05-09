@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gender" />
+      <item value="gander" />
       <item value="已发布" />
       <item value="flip" />
       <item value="比较" />
@@ -49,13 +51,11 @@
       <item value="TO BE PAID" />
       <item value="待支付" />
       <item value="TO BE PAY" />
-      <item value="原始类型" />
-      <item value="原始的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="802" />
-        <entry key="ENGLISH" value="802" />
+        <entry key="CHINESE" value="803" />
+        <entry key="ENGLISH" value="804" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

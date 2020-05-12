@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理" />
+      <item value="Handler" />
+      <item value="Handle" />
       <item value="Relationship" />
       <item value="apply User" />
       <item value="Sponsor" />
@@ -48,14 +51,11 @@
       <item value="daily Wage" />
       <item value="assemble" />
       <item value="组装" />
-      <item value="选中" />
-      <item value="已修改" />
-      <item value="修改" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="814" />
-        <entry key="ENGLISH" value="815" />
+        <entry key="CHINESE" value="817" />
+        <entry key="ENGLISH" value="817" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

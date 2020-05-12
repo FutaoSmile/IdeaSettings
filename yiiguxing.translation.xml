@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Relationship" />
+      <item value="apply User" />
+      <item value="Sponsor" />
+      <item value="发起人" />
+      <item value="申请人" />
+      <item value="applyer" />
+      <item value="发起者" />
+      <item value="待确认" />
+      <item value="promoters" />
+      <item value="promoter" />
+      <item value="申请" />
       <item value="enclosing" />
       <item value="未处理" />
       <item value="gender" />
@@ -40,22 +51,11 @@
       <item value="选中" />
       <item value="已修改" />
       <item value="修改" />
-      <item value="已提报" />
-      <item value="还未" />
-      <item value="* Returns {@code true} if all tasks have completed following shut down. * Note that {@code isTerminated} is never {@code true} unless * either {@code shutdown} or {@code shutdownNow} was called first. * * @return {@code true} if all tasks have completed following shut down" />
-      <item value="authority component" />
-      <item value="性能测试" />
-      <item value="bench Mark" />
-      <item value="redis Template" />
-      <item value="下单" />
-      <item value="已支付" />
-      <item value="已过期" />
-      <item value="TO BE PAID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="804" />
-        <entry key="ENGLISH" value="805" />
+        <entry key="CHINESE" value="814" />
+        <entry key="ENGLISH" value="815" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

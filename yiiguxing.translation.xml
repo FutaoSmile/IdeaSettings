@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="propagation" />
       <item value="身份证号" />
       <item value="处理" />
       <item value="Handler" />
@@ -50,12 +51,11 @@
       <item value="Variant" />
       <item value="正数" />
       <item value="daily Wage" />
-      <item value="assemble" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="818" />
-        <entry key="ENGLISH" value="818" />
+        <entry key="ENGLISH" value="819" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="omitted" />
       <item value="prefix" />
       <item value="PREFFIX" />
       <item value="propagation" />
@@ -29,7 +30,6 @@
       <item value="Head" />
       <item value="Get Sales Report Head" />
       <item value="聊天室" />
-      <item value="omitted" />
       <item value="Precedence" />
       <item value="Assignable" />
       <item value="represented" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="820" />
-        <entry key="ENGLISH" value="821" />
+        <entry key="CHINESE" value="821" />
+        <entry key="ENGLISH" value="822" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corpsecret" />
       <item value="占位符" />
       <item value="合作伙伴" />
       <item value="omitted" />
@@ -50,7 +51,6 @@
       <item value="删除" />
       <item value="清除" />
       <item value="* The annotated element must be a strictly positive number (i.e. 0 is considered as an * invalid value)." />
-      <item value="Positive" />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,7 +60,7 @@
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="FINNISH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />

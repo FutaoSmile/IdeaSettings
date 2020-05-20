@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="truncation" />
       <item value="welfare" />
       <item value="corpsecret" />
       <item value="占位符" />
@@ -50,12 +51,11 @@
       <item value="Catalog" />
       <item value="app.statistic.unilever.remind.user.mails=taof@wicrenet.com app.statistic.unilever.remind.history.days=30" />
       <item value="删除" />
-      <item value="清除" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="823" />
-        <entry key="ENGLISH" value="824" />
+        <entry key="CHINESE" value="824" />
+        <entry key="ENGLISH" value="825" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

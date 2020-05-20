@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="welfare" />
       <item value="corpsecret" />
       <item value="占位符" />
       <item value="合作伙伴" />
@@ -50,12 +51,11 @@
       <item value="app.statistic.unilever.remind.user.mails=taof@wicrenet.com app.statistic.unilever.remind.history.days=30" />
       <item value="删除" />
       <item value="清除" />
-      <item value="* The annotated element must be a strictly positive number (i.e. 0 is considered as an * invalid value)." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="823" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="ENGLISH" value="824" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

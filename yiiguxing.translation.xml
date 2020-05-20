@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="离职" />
+      <item value="在职" />
       <item value="truncation" />
       <item value="welfare" />
       <item value="corpsecret" />
@@ -49,13 +51,11 @@
       <item value="Score" />
       <item value="redirections" />
       <item value="Catalog" />
-      <item value="app.statistic.unilever.remind.user.mails=taof@wicrenet.com app.statistic.unilever.remind.history.days=30" />
-      <item value="删除" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="824" />
-        <entry key="ENGLISH" value="825" />
+        <entry key="CHINESE" value="826" />
+        <entry key="ENGLISH" value="826" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

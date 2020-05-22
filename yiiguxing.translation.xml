@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接收" />
       <item value="离职" />
       <item value="在职" />
       <item value="truncation" />
@@ -50,12 +51,11 @@
       <item value="积分" />
       <item value="Score" />
       <item value="redirections" />
-      <item value="Catalog" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="826" />
-        <entry key="ENGLISH" value="826" />
+        <entry key="CHINESE" value="827" />
+        <entry key="ENGLISH" value="827" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

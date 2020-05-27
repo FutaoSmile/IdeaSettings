@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="基础任务" />
+      <item value="前置任务" />
       <item value="jump" />
       <item value="离职" />
       <item value="Comma-separated list of cache names to create if supported by the underlying cache * manager. Usually, this disables the ability to create additional caches on-the-fly." />
@@ -49,13 +51,11 @@
       <item value="Precedence" />
       <item value="Assignable" />
       <item value="represented" />
-      <item value="* Indicate that the proxy should be exposed by the AOP framework as a {@code ThreadLocal} * for retrieval via the {@link org.springframework.aop.framework.AopContext} class. * Off by default, i.e. no guarantees that {@code AopContext} access will work. * @since 4.3.1" />
-      <item value="Indicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="834" />
-        <entry key="ENGLISH" value="835" />
+        <entry key="CHINESE" value="836" />
+        <entry key="ENGLISH" value="836" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

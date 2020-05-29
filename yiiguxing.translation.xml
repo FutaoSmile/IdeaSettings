@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
       <item value="业务类型" />
       <item value="基础任务" />
       <item value="前置任务" />
@@ -50,12 +51,11 @@
       <item value="Get Sales Report Head" />
       <item value="聊天室" />
       <item value="Precedence" />
-      <item value="Assignable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="837" />
-        <entry key="ENGLISH" value="837" />
+        <entry key="CHINESE" value="838" />
+        <entry key="ENGLISH" value="838" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

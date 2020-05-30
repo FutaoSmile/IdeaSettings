@@ -1,31 +1,29 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="java:S1128" />
-        <option value="java:S2095" />
-        <option value="java:S899" />
-        <option value="squid:CallToDeprecatedMethod" />
-        <option value="squid:CommentedOutCodeLine" />
-        <option value="squid:S00117" />
-        <option value="squid:S106" />
-        <option value="squid:S1155" />
-        <option value="squid:S1168" />
-        <option value="squid:S135" />
-        <option value="squid:S1481" />
-        <option value="squid:S1488" />
-        <option value="squid:S1611" />
-        <option value="squid:S1845" />
-        <option value="squid:S1854" />
-        <option value="squid:S2176" />
-        <option value="squid:S2696" />
-        <option value="squid:S3305" />
-        <option value="squid:S3358" />
-        <option value="squid:S3626" />
-        <option value="squid:S3864" />
-        <option value="squid:S4065" />
-        <option value="squid:S4488" />
-      </set>
-    </option>
+    <rules>
+      <Rule active="false" key="squid:CommentedOutCodeLine" />
+      <Rule active="false" key="squid:S1845" />
+      <Rule active="false" key="squid:S3626" />
+      <Rule active="false" key="squid:S1611" />
+      <Rule active="false" key="squid:S106" />
+      <Rule active="false" key="squid:S1854" />
+      <Rule active="false" key="squid:S3305" />
+      <Rule active="false" key="squid:S135" />
+      <Rule active="false" key="squid:S4488" />
+      <Rule active="false" key="squid:S1155" />
+      <Rule active="false" key="squid:S00117" />
+      <Rule active="false" key="squid:S2176" />
+      <Rule active="false" key="squid:S1488" />
+      <Rule active="false" key="java:S2095" />
+      <Rule active="false" key="squid:S3358" />
+      <Rule active="false" key="squid:S3864" />
+      <Rule active="false" key="squid:S2696" />
+      <Rule active="false" key="squid:S1168" />
+      <Rule active="false" key="java:S899" />
+      <Rule active="false" key="squid:S1481" />
+      <Rule active="false" key="squid:S4065" />
+      <Rule active="false" key="java:S1128" />
+      <Rule active="false" key="squid:CallToDeprecatedMethod" />
+    </rules>
   </component>
 </application>

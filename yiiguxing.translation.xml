@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine" />
       <item value="Write end dead" />
       <item value="flush" />
       <item value="前缀" />
@@ -50,12 +51,11 @@
       <item value="flip" />
       <item value="比较" />
       <item value="Head" />
-      <item value="Get Sales Report Head" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="839" />
-        <entry key="ENGLISH" value="840" />
+        <entry key="CHINESE" value="840" />
+        <entry key="ENGLISH" value="841" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

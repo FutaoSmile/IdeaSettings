@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unhandle Interrupt" />
       <item value="Awaits completion or aborts on interrupt or timeout." />
       <item value="determine" />
       <item value="Write end dead" />
@@ -50,12 +51,11 @@
       <item value="gander" />
       <item value="已发布" />
       <item value="flip" />
-      <item value="比较" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="841" />
-        <entry key="ENGLISH" value="842" />
+        <entry key="CHINESE" value="842" />
+        <entry key="ENGLISH" value="843" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

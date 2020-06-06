@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indicate" />
+      <item value="indicate thread" />
       <item value="allocated" />
       <item value="Right Way To Stop Thread Re Interrupt" />
       <item value="if any thread has interrupted the current thread. The * &lt;i&gt;interrupted status&lt;/i&gt; of the current thread is * cleared when this exception is thrown." />
@@ -49,13 +51,11 @@
       <item value="promoter" />
       <item value="申请" />
       <item value="enclosing" />
-      <item value="未处理" />
-      <item value="gender" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="845" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="CHINESE" value="847" />
+        <entry key="ENGLISH" value="848" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

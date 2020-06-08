@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="减" />
+      <item value="减少" />
       <item value="引用的资源" />
       <item value="* Names of the caches in which method invocation results are stored. * &lt;p&gt;Names may be used to determine the target cache (or caches), matching * the qualifier value or bean name of a specific bean definition." />
       <item value="Indicate" />
@@ -49,13 +51,11 @@
       <item value="发起人" />
       <item value="申请人" />
       <item value="applyer" />
-      <item value="发起者" />
-      <item value="待确认" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="851" />
-        <entry key="ENGLISH" value="851" />
+        <entry key="CHINESE" value="853" />
+        <entry key="ENGLISH" value="853" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

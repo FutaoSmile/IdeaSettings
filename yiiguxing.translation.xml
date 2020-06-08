@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
       <item value="if any thread has interrupted the current thread. The * &lt;i&gt;interrupted status&lt;/i&gt; of the current thread is * cleared when this exception is thrown" />
       <item value="indicate" />
       <item value="indicate thread" />
@@ -12,7 +13,6 @@
       <item value="determine" />
       <item value="Write end dead" />
       <item value="flush" />
-      <item value="前缀" />
       <item value="业务类型" />
       <item value="基础任务" />
       <item value="前置任务" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="848" />
+        <entry key="CHINESE" value="849" />
         <entry key="ENGLISH" value="849" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />

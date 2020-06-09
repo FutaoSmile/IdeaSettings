@@ -18,9 +18,13 @@
           <option name="url" value="git@github.com:fuzhengwei/itstack-demo-bytecode.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.99zmall.com:always-asg/always/wsp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/src/backend/fun" />
+    <option name="cloneParentDir" value="$USER_HOME$/src/backend/wicrenet" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">

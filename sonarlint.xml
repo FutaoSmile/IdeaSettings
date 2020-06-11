@@ -20,9 +20,10 @@
       <Rule active="false" key="squid:S2696" />
       <Rule active="false" key="squid:S1168" />
       <Rule active="false" key="java:S899" />
-      <Rule active="false" key="squid:S1481" />
       <Rule active="false" key="squid:S4065" />
+      <Rule active="false" key="squid:S1481" />
       <Rule active="false" key="java:S1128" />
+      <Rule active="false" key="java:S2864" />
       <Rule active="false" key="squid:CallToDeprecatedMethod" />
     </rules>
   </component>

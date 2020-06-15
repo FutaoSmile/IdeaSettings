@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Component Type" />
+      <item value="allocated" />
       <item value="Mime" />
       <item value="附件" />
       <item value="* Thread state for a thread blocked waiting for a monitor lock. * A thread in the blocked state is waiting for a monitor lock * to enter a synchronized block/method or * reenter a synchronized block/method after calling * {@link Object#wait() Object.wait}." />
@@ -16,7 +18,6 @@
       <item value="if any thread has interrupted the current thread. The * &lt;i&gt;interrupted status&lt;/i&gt; of the current thread is * cleared when this exception is thrown" />
       <item value="indicate" />
       <item value="indicate thread" />
-      <item value="allocated" />
       <item value="Right Way To Stop Thread Re Interrupt" />
       <item value="if any thread has interrupted the current thread. The * &lt;i&gt;interrupted status&lt;/i&gt; of the current thread is * cleared when this exception is thrown." />
       <item value="unhandle Interrupt" />
@@ -50,12 +51,11 @@
       <item value="身份证号" />
       <item value="处理" />
       <item value="Handler" />
-      <item value="Handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="858" />
-        <entry key="ENGLISH" value="859" />
+        <entry key="CHINESE" value="860" />
+        <entry key="ENGLISH" value="861" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="2" />

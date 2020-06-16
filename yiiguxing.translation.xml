@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates the dependency is optional for use of this library. While the version of the dependency will be taken into account for dependency calculation if the library is used elsewhere, it will not be passed on transitively." />
       <item value="epoll" />
       <item value="syntax" />
       <item value="get Component Type" />
@@ -50,12 +51,11 @@
       <item value="prefix" />
       <item value="PREFFIX" />
       <item value="propagation" />
-      <item value="身份证号" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="862" />
+        <entry key="ENGLISH" value="863" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="音频" />
+      <item value="VEDIO" />
+      <item value="VIDEO" />
+      <item value="图文" />
       <item value="Whether to resolve the multipart request lazily at the time of file or parameter * access." />
       <item value="Threshold" />
       <item value="Threshold after which files are written to disk." />
@@ -47,15 +51,11 @@
       <item value="在职" />
       <item value="truncation" />
       <item value="welfare" />
-      <item value="corpsecret" />
-      <item value="占位符" />
-      <item value="合作伙伴" />
-      <item value="omitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="865" />
-        <entry key="ENGLISH" value="866" />
+        <entry key="CHINESE" value="868" />
+        <entry key="ENGLISH" value="868" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
@@ -71,7 +71,7 @@
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="4" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>

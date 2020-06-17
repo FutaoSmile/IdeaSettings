@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.sql.SQLFeatureNotSupportedException: registerOutParameter not implemented" />
       <item value="receiver" />
       <item value="SonarLint: Invoke method(s) only conditionally." />
       <item value="音频" />
@@ -50,12 +51,11 @@
       <item value="执行" />
       <item value="括号" />
       <item value="接收" />
-      <item value="在职" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="869" />
-        <entry key="ENGLISH" value="870" />
+        <entry key="CHINESE" value="870" />
+        <entry key="ENGLISH" value="871" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上班时长" />
       <item value="离开岗位" />
       <item value="离岗" />
       <item value="java.sql.SQLFeatureNotSupportedException: registerOutParameter not implemented" />
@@ -50,12 +51,11 @@
       <item value="清洗" />
       <item value="培训" />
       <item value="执行团队" />
-      <item value="执行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="872" />
-        <entry key="ENGLISH" value="872" />
+        <entry key="CHINESE" value="873" />
+        <entry key="ENGLISH" value="873" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

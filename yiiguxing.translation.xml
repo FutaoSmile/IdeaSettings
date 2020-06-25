@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Human" />
+      <item value="Human readable name of the repository." />
       <item value="触发" />
       <item value="The number of keys, possibly zero, * whose ready-operation sets were updated" />
       <item value="performs" />
@@ -49,13 +51,11 @@
       <item value="if any thread has interrupted the current thread. The * &lt;i&gt;interrupted status&lt;/i&gt; of the current thread is * cleared when this exception is thrown." />
       <item value="unhandle Interrupt" />
       <item value="Awaits completion or aborts on interrupt or timeout." />
-      <item value="determine" />
-      <item value="Write end dead" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="881" />
-        <entry key="ENGLISH" value="881" />
+        <entry key="CHINESE" value="882" />
+        <entry key="ENGLISH" value="883" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

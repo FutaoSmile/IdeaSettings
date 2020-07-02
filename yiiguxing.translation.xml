@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CHARSET" />
       <item value="Constants" />
       <item value="* @deprecated As of 2.6 deprecated without replacement. Please use the try-with-resources statement or handle * suppressed exceptions manually." />
       <item value="close Quietly" />
@@ -50,12 +51,11 @@
       <item value="减" />
       <item value="减少" />
       <item value="引用的资源" />
-      <item value="* Names of the caches in which method invocation results are stored. * &lt;p&gt;Names may be used to determine the target cache (or caches), matching * the qualifier value or bean name of a specific bean definition." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="890" />
-        <entry key="ENGLISH" value="891" />
+        <entry key="CHINESE" value="891" />
+        <entry key="ENGLISH" value="892" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

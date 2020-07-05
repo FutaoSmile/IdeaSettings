@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="server" />
+      <item value="echo" />
+      <item value="greek" />
+      <item value="打招呼" />
       <item value="software" />
       <item value="underlying" />
       <item value="abnormal" />
@@ -47,15 +51,11 @@
       <item value="allocated" />
       <item value="Mime" />
       <item value="附件" />
-      <item value="* Thread state for a thread blocked waiting for a monitor lock. * A thread in the blocked state is waiting for a monitor lock * to enter a synchronized block/method or * reenter a synchronized block/method after calling * {@link Object#wait() Object.wait}." />
-      <item value="* Thread state for a runnable thread. A thread in the runnable * state is executing in the Java virtual machine but it may * be waiting for other resources from the operating system * such as processor." />
-      <item value="分片上传" />
-      <item value="库存" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="894" />
-        <entry key="ENGLISH" value="895" />
+        <entry key="CHINESE" value="897" />
+        <entry key="ENGLISH" value="898" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

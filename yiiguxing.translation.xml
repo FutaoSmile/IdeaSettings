@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flush" />
       <item value="server" />
       <item value="echo" />
       <item value="greek" />
@@ -50,12 +51,11 @@
       <item value="get Component Type" />
       <item value="allocated" />
       <item value="Mime" />
-      <item value="附件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="897" />
-        <entry key="ENGLISH" value="898" />
+        <entry key="CHINESE" value="898" />
+        <entry key="ENGLISH" value="899" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

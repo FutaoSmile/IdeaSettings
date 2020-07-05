@@ -8,6 +8,6 @@
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="PULL_UP_MEMBERS_JAVADOC" value="2" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
   </component>
 </application>

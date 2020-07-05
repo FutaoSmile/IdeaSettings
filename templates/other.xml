@@ -5,7 +5,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="logger" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS_NAME$.class);" description="生成LOGGER" toReformat="false" toShortenFQNames="true">
+  <template name="logger" value="private static final Logger logger = LoggerFactory.getLogger($CLASS_NAME$.class);" description="生成LOGGER" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />

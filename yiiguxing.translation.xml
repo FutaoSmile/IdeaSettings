@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="finish Connect" />
       <item value="is Connection Pending" />
       <item value="* @return &lt;tt&gt;true&lt;/tt&gt; if a connection was established, * &lt;tt&gt;false&lt;/tt&gt; if this channel is in non-blocking mode * and the connection operation is in progress *" />
       <item value="greet" />
@@ -50,12 +51,11 @@
       <item value="VIDEO" />
       <item value="图文" />
       <item value="Whether to resolve the multipart request lazily at the time of file or parameter * access." />
-      <item value="Threshold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="906" />
-        <entry key="ENGLISH" value="907" />
+        <entry key="CHINESE" value="907" />
+        <entry key="ENGLISH" value="908" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* @return &lt;tt&gt;true&lt;/tt&gt; if a connection was established, * &lt;tt&gt;false&lt;/tt&gt; if this channel is in non-blocking mode * and the connection operation is in progress *" />
       <item value="greet" />
       <item value="回车换行" />
       <item value="Broken pipe" />
@@ -50,12 +51,11 @@
       <item value="Whether to resolve the multipart request lazily at the time of file or parameter * access." />
       <item value="Threshold" />
       <item value="Threshold after which files are written to disk." />
-      <item value="Indicates the dependency is optional for use of this library. While the version of the dependency will be taken into account for dependency calculation if the library is used elsewhere, it will not be passed on transitively." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="904" />
-        <entry key="ENGLISH" value="905" />
+        <entry key="CHINESE" value="905" />
+        <entry key="ENGLISH" value="906" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

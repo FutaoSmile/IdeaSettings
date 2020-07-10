@@ -9,7 +9,7 @@
     <EXCLUDED_PACKAGE NAME="com.wise.service.cms.dict.workitem.AddWorkItemService" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_SIZE" value="14" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">

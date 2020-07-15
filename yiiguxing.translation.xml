@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get Project Count Service" />
       <item value="Clock" />
       <item value="打卡" />
       <item value="finish Connect" />
@@ -50,12 +51,11 @@
       <item value="SonarLint: Invoke method(s) only conditionally." />
       <item value="音频" />
       <item value="VEDIO" />
-      <item value="VIDEO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="909" />
-        <entry key="ENGLISH" value="910" />
+        <entry key="CHINESE" value="910" />
+        <entry key="ENGLISH" value="911" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

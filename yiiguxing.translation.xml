@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="performance" />
       <item value="Paluch" />
       <item value="Get Project Count Service" />
       <item value="Clock" />
@@ -50,7 +51,6 @@
       <item value="java.sql.SQLFeatureNotSupportedException: registerOutParameter not implemented" />
       <item value="receiver" />
       <item value="SonarLint: Invoke method(s) only conditionally." />
-      <item value="音频" />
     </histories>
     <option name="languageScores">
       <map>

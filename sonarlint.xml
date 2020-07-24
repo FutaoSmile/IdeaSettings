@@ -2,27 +2,28 @@
   <component name="SonarLintGlobalSettings">
     <rules>
       <Rule active="false" key="squid:CommentedOutCodeLine" />
-      <Rule active="false" key="squid:S1845" />
-      <Rule active="false" key="squid:S3626" />
       <Rule active="false" key="squid:S1611" />
-      <Rule active="false" key="squid:S106" />
       <Rule active="false" key="squid:S1854" />
-      <Rule active="false" key="squid:S3305" />
-      <Rule active="false" key="squid:S135" />
+      <Rule active="false" key="squid:S106" />
       <Rule active="false" key="squid:S4488" />
       <Rule active="false" key="squid:S1155" />
+      <Rule active="false" key="java:S2095" />
+      <Rule active="false" key="squid:S3358" />
+      <Rule active="false" key="java:S899" />
+      <Rule active="false" key="squid:S4065" />
+      <Rule active="false" key="java:S1128" />
+      <Rule active="false" key="squid:S3626" />
+      <Rule active="false" key="squid:S1845" />
+      <Rule active="false" key="squid:S3305" />
+      <Rule active="false" key="squid:S135" />
       <Rule active="false" key="squid:S00117" />
       <Rule active="false" key="squid:S2176" />
       <Rule active="false" key="squid:S1488" />
-      <Rule active="false" key="java:S2095" />
-      <Rule active="false" key="squid:S3358" />
       <Rule active="false" key="squid:S3864" />
       <Rule active="false" key="squid:S2696" />
       <Rule active="false" key="squid:S1168" />
-      <Rule active="false" key="java:S899" />
-      <Rule active="false" key="squid:S4065" />
       <Rule active="false" key="squid:S1481" />
-      <Rule active="false" key="java:S1128" />
+      <Rule active="false" key="java:S4524" />
       <Rule active="false" key="java:S2864" />
       <Rule active="false" key="squid:CallToDeprecatedMethod" />
     </rules>

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="face Liveness" />
       <item value="bump" />
       <item value="Methods should not call same-class methods with incompatible &quot;@Transactional&quot; values" />
       <item value="effectively" />
@@ -50,12 +51,11 @@
       <item value="选择" />
       <item value="reason Type" />
       <item value="上班时长" />
-      <item value="离开岗位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="912" />
-        <entry key="ENGLISH" value="913" />
+        <entry key="CHINESE" value="913" />
+        <entry key="ENGLISH" value="914" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

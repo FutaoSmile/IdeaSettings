@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add Sales Report Service" />
       <item value="face Liveness" />
       <item value="bump" />
       <item value="Methods should not call same-class methods with incompatible &quot;@Transactional&quot; values" />
@@ -50,12 +51,11 @@
       <item value="&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; When actions are enclosed in tasks (such as * {@link FutureTask}) either explicitly or via methods such as * {@code submit}, these task objects catch and maintain * computational exceptions, and so they do not cause abrupt * termination, and the internal exceptions are &lt;em&gt;not&lt;/em&gt; * passed to this method. If you would like to trap both kinds of * failures in this method, you can further probe for such cases, * as in this sample subclass that prints either the direct cause * or the underlying exception if a task has been aborted:" />
       <item value="选择" />
       <item value="reason Type" />
-      <item value="上班时长" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="913" />
-        <entry key="ENGLISH" value="914" />
+        <entry key="CHINESE" value="914" />
+        <entry key="ENGLISH" value="915" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

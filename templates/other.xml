@@ -17,5 +17,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="main" value="public static void main(String[] args){&#10;  $END$&#10;}" description="main方法" toReformat="true" toShortenFQNames="true" />
+  <template name="main" value="public static void main(String[] args){&#10;  $END$&#10;}" description="main方法" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>

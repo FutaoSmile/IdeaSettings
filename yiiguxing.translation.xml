@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Override" />
       <item value="关联查询" />
       <item value="关联" />
       <item value="Executor" />
@@ -50,12 +51,11 @@
       <item value="corresponding" />
       <item value="pile Photo List" />
       <item value="地堆照片" />
-      <item value="推广" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="918" />
-        <entry key="ENGLISH" value="918" />
+        <entry key="ENGLISH" value="919" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

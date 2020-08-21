@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="长期" />
+      <item value="短期" />
       <item value="smilecoder" />
       <item value="TIDYING" />
       <item value="Override" />
@@ -49,13 +51,11 @@
       <item value="Human readable name of the repository." />
       <item value="触发" />
       <item value="The number of keys, possibly zero, * whose ready-operation sets were updated" />
-      <item value="performs" />
-      <item value="corresponding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="920" />
-        <entry key="ENGLISH" value="921" />
+        <entry key="CHINESE" value="922" />
+        <entry key="ENGLISH" value="922" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

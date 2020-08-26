@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="待审核" />
+      <item value="NOT YET" />
+      <item value="NOT YEAT" />
+      <item value="还未" />
+      <item value="reject Reason" />
+      <item value="reject Reasoon" />
+      <item value="audit" />
+      <item value="audio Status" />
       <item value="List Dict Regions Service" />
       <item value="长期" />
       <item value="短期" />
@@ -43,19 +51,11 @@
       <item value="* @deprecated As of 2.6 deprecated without replacement. Please use the try-with-resources statement or handle * suppressed exceptions manually." />
       <item value="close Quietly" />
       <item value="unconditionally" />
-      <item value="* Interface used to indicate that a bean should &lt;em&gt;run&lt;/em&gt; when it is contained within * a {@link SpringApplication}. Multiple {@link CommandLineRunner} beans can be defined * within the same application context and can be ordered using the {@link Ordered} * interface or {@link Order @Order} annotation. * &lt;p&gt; * If you need access to {@link ApplicationArguments} instead of the raw String array * consider using {@link ApplicationRunner}." />
-      <item value="* Interface used to indicate that a bean should &lt;em&gt;run&lt;/em&gt; when it is contained within * a {@link SpringApplication}. Multiple {@link ApplicationRunner} beans can be defined * within the same application context and can be ordered using the {@link Ordered} * interface or {@link Order @Order} annotation." />
-      <item value="命中" />
-      <item value="hint" />
-      <item value="PREFIX" />
-      <item value="Human" />
-      <item value="Human readable name of the repository." />
-      <item value="触发" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="922" />
-        <entry key="ENGLISH" value="923" />
+        <entry key="CHINESE" value="929" />
+        <entry key="ENGLISH" value="929" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

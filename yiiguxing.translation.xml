@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="primary Key" />
       <item value="待审核" />
       <item value="NOT YET" />
       <item value="NOT YEAT" />
@@ -50,12 +51,11 @@
       <item value="Constants" />
       <item value="* @deprecated As of 2.6 deprecated without replacement. Please use the try-with-resources statement or handle * suppressed exceptions manually." />
       <item value="close Quietly" />
-      <item value="unconditionally" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="929" />
-        <entry key="ENGLISH" value="929" />
+        <entry key="ENGLISH" value="930" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

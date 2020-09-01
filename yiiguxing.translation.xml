@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="place Holder" />
       <item value="Period" />
       <item value="a {@code Duration} based on this duration with the specified duration added, not null" />
       <item value="based on this duration with the specified duration added, not null" />
@@ -50,12 +51,11 @@
       <item value="greek" />
       <item value="打招呼" />
       <item value="software" />
-      <item value="underlying" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="934" />
-        <entry key="ENGLISH" value="935" />
+        <entry key="CHINESE" value="935" />
+        <entry key="ENGLISH" value="936" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

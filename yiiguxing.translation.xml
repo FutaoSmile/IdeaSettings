@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="回车换行" />
       <item value="Unchecked generics array creation for varargs parameter" />
       <item value="Phase" />
       <item value="date Conflict Delect" />
@@ -45,7 +46,6 @@
       <item value="is Connection Pending" />
       <item value="* @return &lt;tt&gt;true&lt;/tt&gt; if a connection was established, * &lt;tt&gt;false&lt;/tt&gt; if this channel is in non-blocking mode * and the connection operation is in progress *" />
       <item value="greet" />
-      <item value="回车换行" />
       <item value="Broken pipe" />
       <item value="or a carriage return * followed immediately by a linefeed." />
       <item value="Reads a line of text. A line is considered to be terminated by any one * of a line feed ('\n'), a carriage return ('\r'), or a carriage return * followed immediately by a linefeed." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="938" />
-        <entry key="ENGLISH" value="938" />
+        <entry key="CHINESE" value="940" />
+        <entry key="ENGLISH" value="940" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

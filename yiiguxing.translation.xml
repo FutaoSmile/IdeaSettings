@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="http://microservice-user/feign/v 1/portal/user/id/{id}" />
       <item value="回车换行" />
       <item value="Unchecked generics array creation for varargs parameter" />
       <item value="Phase" />
@@ -50,7 +51,6 @@
       <item value="or a carriage return * followed immediately by a linefeed." />
       <item value="Reads a line of text. A line is considered to be terminated by any one * of a line feed ('\n'), a carriage return ('\r'), or a carriage return * followed immediately by a linefeed." />
       <item value="flush" />
-      <item value="server" />
     </histories>
     <option name="languageScores">
       <map>

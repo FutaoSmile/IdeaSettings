@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Koala" />
       <item value="List Promoter Long Schedules Service" />
       <item value="http://microservice-user/feign/v 1/portal/user/id/{id}" />
       <item value="回车换行" />
@@ -50,12 +51,11 @@
       <item value="greet" />
       <item value="Broken pipe" />
       <item value="or a carriage return * followed immediately by a linefeed." />
-      <item value="Reads a line of text. A line is considered to be terminated by any one * of a line feed ('\n'), a carriage return ('\r'), or a carriage return * followed immediately by a linefeed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="940" />
-        <entry key="ENGLISH" value="941" />
+        <entry key="CHINESE" value="941" />
+        <entry key="ENGLISH" value="942" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

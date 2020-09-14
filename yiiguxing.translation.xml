@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="date" />
       <item value="Koala" />
       <item value="List Promoter Long Schedules Service" />
       <item value="http://microservice-user/feign/v 1/portal/user/id/{id}" />
@@ -50,7 +51,6 @@
       <item value="* @return &lt;tt&gt;true&lt;/tt&gt; if a connection was established, * &lt;tt&gt;false&lt;/tt&gt; if this channel is in non-blocking mode * and the connection operation is in progress *" />
       <item value="greet" />
       <item value="Broken pipe" />
-      <item value="or a carriage return * followed immediately by a linefeed." />
     </histories>
     <option name="languageScores">
       <map>

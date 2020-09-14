@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Minutes" />
+      <item value="schedule Minutes" />
       <item value="Add Supervisor Long Schedule" />
       <item value="date" />
       <item value="Koala" />
@@ -49,13 +51,11 @@
       <item value="打卡" />
       <item value="finish Connect" />
       <item value="is Connection Pending" />
-      <item value="* @return &lt;tt&gt;true&lt;/tt&gt; if a connection was established, * &lt;tt&gt;false&lt;/tt&gt; if this channel is in non-blocking mode * and the connection operation is in progress *" />
-      <item value="greet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="942" />
-        <entry key="ENGLISH" value="943" />
+        <entry key="CHINESE" value="943" />
+        <entry key="ENGLISH" value="944" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

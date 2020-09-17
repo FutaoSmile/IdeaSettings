@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="effectively final" />
+      <item value="局部的" />
       <item value="Weight" />
       <item value="Performs this operation on the given argument." />
       <item value="Performs" />
@@ -49,13 +51,11 @@
       <item value="effectively" />
       <item value="allow" />
       <item value="performance" />
-      <item value="Paluch" />
-      <item value="Get Project Count Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="947" />
-        <entry key="ENGLISH" value="948" />
+        <entry key="CHINESE" value="949" />
+        <entry key="ENGLISH" value="949" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

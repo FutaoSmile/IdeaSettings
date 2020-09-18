@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reduce" />
+      <item value="the identity value for the accumulating function" />
+      <item value="accumulating" />
       <item value="产地" />
       <item value="effectively final" />
       <item value="局部的" />
@@ -48,14 +51,11 @@
       <item value="Add Sales Report Service" />
       <item value="face Liveness" />
       <item value="bump" />
-      <item value="Methods should not call same-class methods with incompatible &quot;@Transactional&quot; values" />
-      <item value="effectively" />
-      <item value="allow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="950" />
-        <entry key="ENGLISH" value="950" />
+        <entry key="CHINESE" value="952" />
+        <entry key="ENGLISH" value="953" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

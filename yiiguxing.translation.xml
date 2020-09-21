@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="seed" />
       <item value="日历" />
       <item value="reduce" />
       <item value="the identity value for the accumulating function" />
@@ -50,12 +51,11 @@
       <item value="Executor" />
       <item value="Instantiation of utility class 'SingletonDoubleCheck'" />
       <item value="Add Sales Report Service" />
-      <item value="face Liveness" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="953" />
-        <entry key="ENGLISH" value="953" />
+        <entry key="CHINESE" value="954" />
+        <entry key="ENGLISH" value="955" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delimiter" />
       <item value="seed" />
       <item value="日历" />
       <item value="reduce" />
@@ -50,12 +51,11 @@
       <item value="关联" />
       <item value="Executor" />
       <item value="Instantiation of utility class 'SingletonDoubleCheck'" />
-      <item value="Add Sales Report Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="954" />
-        <entry key="ENGLISH" value="955" />
+        <entry key="CHINESE" value="955" />
+        <entry key="ENGLISH" value="956" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

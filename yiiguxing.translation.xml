@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a {@code Collector} implementing the downstream reduction" />
+      <item value="a classifier function mapping input elements to keys" />
       <item value="korea" />
       <item value="Enhance" />
       <item value="质量一般" />
@@ -49,13 +51,11 @@
       <item value="audio Status" />
       <item value="List Dict Regions Service" />
       <item value="长期" />
-      <item value="短期" />
-      <item value="smilecoder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="960" />
-        <entry key="ENGLISH" value="961" />
+        <entry key="CHINESE" value="962" />
+        <entry key="ENGLISH" value="963" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="korea" />
+      <item value="Enhance" />
+      <item value="质量一般" />
+      <item value="质量优秀" />
+      <item value="优秀" />
+      <item value="质量" />
       <item value="delimiter" />
       <item value="seed" />
       <item value="日历" />
@@ -45,17 +51,11 @@
       <item value="长期" />
       <item value="短期" />
       <item value="smilecoder" />
-      <item value="TIDYING" />
-      <item value="Override" />
-      <item value="关联查询" />
-      <item value="关联" />
-      <item value="Executor" />
-      <item value="Instantiation of utility class 'SingletonDoubleCheck'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="955" />
-        <entry key="ENGLISH" value="956" />
+        <entry key="CHINESE" value="960" />
+        <entry key="ENGLISH" value="961" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

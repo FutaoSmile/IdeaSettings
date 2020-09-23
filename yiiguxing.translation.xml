@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="粘贴" />
+      <item value="past" />
       <item value="* A function that accepts two partial results and merges them. The * combiner function may fold state from one argument into the other and * return that, or may return a new result container. * * @return a function which combines two partial results into a combined * result" />
       <item value="* Perform the final transformation from the intermediate accumulation type * {@code A} to the final result type {@code R}." />
       <item value="Perform the final transformation from the intermediate accumulation type * {@code A} to the final result type {@code R}." />
@@ -49,13 +51,11 @@
       <item value="place Holder" />
       <item value="Period" />
       <item value="a {@code Duration} based on this duration with the specified duration added, not null" />
-      <item value="based on this duration with the specified duration added, not null" />
-      <item value="minus Months" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="973" />
-        <entry key="ENGLISH" value="974" />
+        <entry key="CHINESE" value="975" />
+        <entry key="ENGLISH" value="975" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

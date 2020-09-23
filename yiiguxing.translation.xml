@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Perform the final transformation from the intermediate accumulation type * {@code A} to the final result type {@code R}." />
+      <item value="Perform the final transformation from the intermediate accumulation type * {@code A} to the final result type {@code R}." />
+      <item value="Perform" />
+      <item value="partial" />
+      <item value="* A function that accepts two partial results and merges them. The * combiner function may fold state from one argument into the other and * return that, or may return a new result container." />
+      <item value="folds" />
+      <item value="the mutable accumulation type of the reduction operation (often * hidden as an implementation detail)" />
+      <item value="accumulation" />
+      <item value="mutable result container" />
+      <item value="mutable" />
       <item value="accumulator" />
       <item value="a {@code Collector} implementing the downstream reduction" />
       <item value="a classifier function mapping input elements to keys" />
@@ -41,21 +51,11 @@
       <item value="based on this duration with the specified duration added, not null" />
       <item value="minus Months" />
       <item value="Date Combine" />
-      <item value="primary Key" />
-      <item value="待审核" />
-      <item value="NOT YET" />
-      <item value="NOT YEAT" />
-      <item value="还未" />
-      <item value="reject Reason" />
-      <item value="reject Reasoon" />
-      <item value="audit" />
-      <item value="audio Status" />
-      <item value="List Dict Regions Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="963" />
-        <entry key="ENGLISH" value="964" />
+        <entry key="CHINESE" value="972" />
+        <entry key="ENGLISH" value="973" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

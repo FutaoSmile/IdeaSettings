@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="finisher" />
       <item value="* Indicates that the finisher function is the identity function and * can be elided. If set, it must be the case that an unchecked cast * from A to R will succeed." />
       <item value="elided" />
       <item value="identity function" />
@@ -50,12 +51,11 @@
       <item value="Performs" />
       <item value="Predicate" />
       <item value="Minutes" />
-      <item value="schedule Minutes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="988" />
-        <entry key="ENGLISH" value="989" />
+        <entry key="CHINESE" value="989" />
+        <entry key="ENGLISH" value="990" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

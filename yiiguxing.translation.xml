@@ -2,6 +2,14 @@
   <component name="AppStorage">
     <histories>
       <item value="* Indicates that the finisher function is the identity function and * can be elided. If set, it must be the case that an unchecked cast * from A to R will succeed." />
+      <item value="elided" />
+      <item value="identity function" />
+      <item value="intrinsic order" />
+      <item value="* Indicates that the collection operation does not commit to preserving * the encounter order of input elements. (This might be true if the * result container has no intrinsic order, such as a {@link Set}.)" />
+      <item value="collection operation" />
+      <item value="Indicates that the collection operation does not commit to preserving * the encounter order of input elements." />
+      <item value="preserving" />
+      <item value="Indicates" />
       <item value="* &lt;p&gt;If a {@code CONCURRENT} collector is not also {@code UNORDERED}, * then it should only be evaluated concurrently if applied to an * unordered data source." />
       <item value="* Indicates that this collector is &lt;em&gt;concurrent&lt;/em&gt;, meaning that * the result container can support the accumulator function being * called concurrently with the same result container from multiple * threads. * * &lt;p&gt;If a {@code CONCURRENT} collector is not also {@code UNORDERED}, * then it should only be evaluated concurrently if applied to an * unordered data source." />
       <item value="* Characteristics indicating properties of a {@code Collector}, which can * be used to optimize reduction implementations." />
@@ -43,19 +51,11 @@
       <item value="Predicate" />
       <item value="Minutes" />
       <item value="schedule Minutes" />
-      <item value="Add Supervisor Long Schedule" />
-      <item value="date" />
-      <item value="Koala" />
-      <item value="List Promoter Long Schedules Service" />
-      <item value="http://microservice-user/feign/v 1/portal/user/id/{id}" />
-      <item value="回车换行" />
-      <item value="Unchecked generics array creation for varargs parameter" />
-      <item value="Phase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="979" />
-        <entry key="ENGLISH" value="980" />
+        <entry key="CHINESE" value="988" />
+        <entry key="ENGLISH" value="989" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

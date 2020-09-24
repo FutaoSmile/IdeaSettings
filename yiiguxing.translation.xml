@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Indicates that the finisher function is the identity function and * can be elided. If set, it must be the case that an unchecked cast * from A to R will succeed." />
+      <item value="* &lt;p&gt;If a {@code CONCURRENT} collector is not also {@code UNORDERED}, * then it should only be evaluated concurrently if applied to an * unordered data source." />
+      <item value="* Indicates that this collector is &lt;em&gt;concurrent&lt;/em&gt;, meaning that * the result container can support the accumulator function being * called concurrently with the same result container from multiple * threads. * * &lt;p&gt;If a {@code CONCURRENT} collector is not also {@code UNORDERED}, * then it should only be evaluated concurrently if applied to an * unordered data source." />
+      <item value="* Characteristics indicating properties of a {@code Collector}, which can * be used to optimize reduction implementations." />
+      <item value="* Returns a {@code Set} of {@code Collector.Characteristics} indicating * the characteristics of this Collector. This set should be immutable." />
       <item value="粘贴" />
       <item value="past" />
       <item value="* A function that accepts two partial results and merges them. The * combiner function may fold state from one argument into the other and * return that, or may return a new result container. * * @return a function which combines two partial results into a combined * result" />
@@ -46,16 +51,11 @@
       <item value="回车换行" />
       <item value="Unchecked generics array creation for varargs parameter" />
       <item value="Phase" />
-      <item value="date Conflict Delect" />
-      <item value="班次名称" />
-      <item value="place Holder" />
-      <item value="Period" />
-      <item value="a {@code Duration} based on this duration with the specified duration added, not null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="975" />
-        <entry key="ENGLISH" value="975" />
+        <entry key="CHINESE" value="979" />
+        <entry key="ENGLISH" value="980" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="性能" />
       <item value="* Obtains the class objects representing the interfaces implemented * by the class or, if this object represents an interface, the interfaces * extended by that interface." />
       <item value="* Returns the internal names of the class's interfaces (see * {@link Type#getInternalName() getInternalName})." />
       <item value="继承自" />
@@ -50,11 +51,10 @@
       <item value="effectively final" />
       <item value="局部的" />
       <item value="Weight" />
-      <item value="Performs this operation on the given argument." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="991" />
+        <entry key="CHINESE" value="992" />
         <entry key="ENGLISH" value="992" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />

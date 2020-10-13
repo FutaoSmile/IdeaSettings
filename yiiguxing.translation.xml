@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="http://uniliverwage.tnbchina.com:4080/web/wage Info Show Detail/get Wage Main.action?id Card=" />
       <item value="Evict" />
       <item value="性能" />
       <item value="* Obtains the class objects representing the interfaces implemented * by the class or, if this object represents an interface, the interfaces * extended by that interface." />
@@ -50,12 +51,11 @@
       <item value="accumulating" />
       <item value="产地" />
       <item value="effectively final" />
-      <item value="局部的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="992" />
-        <entry key="ENGLISH" value="993" />
+        <entry key="CHINESE" value="993" />
+        <entry key="ENGLISH" value="994" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AtomFileIconsConfig">
     <option name="monochromeColor" value="7a1d27" />
+    <option name="accentColor" value="ff6666" />
     <option name="themedColor" value="1d1d1d" />
   </component>
 </application>

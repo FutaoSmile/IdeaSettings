@@ -1,6 +1,5 @@
 <application>
   <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
@@ -26,6 +25,9 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <multiLine>false</multiLine>
     <pattern pattern="\btodo\b.*" />
@@ -33,5 +35,8 @@
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_XML_TAGS" value="true" />
   </component>
 </application>

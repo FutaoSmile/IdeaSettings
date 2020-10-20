@@ -36,7 +36,4 @@
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_XML_TAGS" value="true" />
-  </component>
 </application>

@@ -3,7 +3,6 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
-    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
   </component>

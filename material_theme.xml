@@ -2,8 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="42a5f5" />
-    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="accentColor" value="416a9b" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="79337c38:1684b570cfd:-8000" />
     <option name="version" value="5.2.0" />
   </component>

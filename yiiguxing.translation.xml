@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="反射" />
       <item value="represented by" />
       <item value="represented" />
       <item value="分隔符" />
@@ -50,11 +51,10 @@
       <item value="accumulator" />
       <item value="a {@code Collector} implementing the downstream reduction" />
       <item value="a classifier function mapping input elements to keys" />
-      <item value="korea" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1004" />
+        <entry key="CHINESE" value="1005" />
         <entry key="ENGLISH" value="1005" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />

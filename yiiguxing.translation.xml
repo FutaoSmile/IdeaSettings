@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="完整的" />
+      <item value="complete" />
       <item value="临时的" />
       <item value="* Get the request interceptors that this accessor uses. * &lt;p&gt;The returned {@link List} is active and may be modified. Note, * however, that the interceptors will not be resorted according to their * {@linkplain AnnotationAwareOrderComparator#sort(List) order} before the * {@link ClientHttpRequestFactory} is built." />
       <item value="反射" />
@@ -49,13 +51,11 @@
       <item value="the mutable accumulation type of the reduction operation (often * hidden as an implementation detail)" />
       <item value="accumulation" />
       <item value="mutable result container" />
-      <item value="mutable" />
-      <item value="accumulator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1006" />
-        <entry key="ENGLISH" value="1006" />
+        <entry key="CHINESE" value="1007" />
+        <entry key="ENGLISH" value="1007" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

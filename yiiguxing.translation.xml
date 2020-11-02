@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="创建人" />
+      <item value="更新人" />
+      <item value="updater" />
+      <item value="creator" />
       <item value="deprecation" />
       <item value="* Set the request interceptors that this accessor should use. * &lt;p&gt;The interceptors will get immediately sorted according to their * {@linkplain AnnotationAwareOrderComparator#sort(List) order}. * @see #getRequestFactory() * @see AnnotationAwareOrderComparator */" />
       <item value="完整的" />
@@ -47,15 +51,11 @@
       <item value="* Perform the final transformation from the intermediate accumulation type * {@code A} to the final result type {@code R}." />
       <item value="Perform the final transformation from the intermediate accumulation type * {@code A} to the final result type {@code R}." />
       <item value="Perform" />
-      <item value="partial" />
-      <item value="* A function that accepts two partial results and merges them. The * combiner function may fold state from one argument into the other and * return that, or may return a new result container." />
-      <item value="folds" />
-      <item value="the mutable accumulation type of the reduction operation (often * hidden as an implementation detail)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1008" />
-        <entry key="ENGLISH" value="1009" />
+        <entry key="CHINESE" value="1012" />
+        <entry key="ENGLISH" value="1012" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

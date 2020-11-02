@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="头像" />
+      <item value="avatar" />
+      <item value="女" />
+      <item value="男" />
+      <item value="UNKNOW" />
+      <item value="gender" />
       <item value="创建人" />
       <item value="更新人" />
       <item value="updater" />
@@ -45,17 +51,11 @@
       <item value="* Indicates that this collector is &lt;em&gt;concurrent&lt;/em&gt;, meaning that * the result container can support the accumulator function being * called concurrently with the same result container from multiple * threads. * * &lt;p&gt;If a {@code CONCURRENT} collector is not also {@code UNORDERED}, * then it should only be evaluated concurrently if applied to an * unordered data source." />
       <item value="* Characteristics indicating properties of a {@code Collector}, which can * be used to optimize reduction implementations." />
       <item value="* Returns a {@code Set} of {@code Collector.Characteristics} indicating * the characteristics of this Collector. This set should be immutable." />
-      <item value="粘贴" />
-      <item value="past" />
-      <item value="* A function that accepts two partial results and merges them. The * combiner function may fold state from one argument into the other and * return that, or may return a new result container. * * @return a function which combines two partial results into a combined * result" />
-      <item value="* Perform the final transformation from the intermediate accumulation type * {@code A} to the final result type {@code R}." />
-      <item value="Perform the final transformation from the intermediate accumulation type * {@code A} to the final result type {@code R}." />
-      <item value="Perform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1012" />
-        <entry key="ENGLISH" value="1012" />
+        <entry key="CHINESE" value="1017" />
+        <entry key="ENGLISH" value="1017" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

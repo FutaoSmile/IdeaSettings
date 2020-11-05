@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="more likely" />
       <item value="* A convenience annotation that is itself annotated with * {@link ControllerAdvice @ControllerAdvice} * and {@link ResponseBody @ResponseBody}. * * &lt;p&gt;Types that carry this annotation are treated as controller advice where * {@link ExceptionHandler @ExceptionHandler} methods assume * {@link ResponseBody @ResponseBody} semantics by default. * * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; {@code @RestControllerAdvice} is processed if an appropriate * {@code HandlerMapping}-{@code HandlerAdapter} pair is configured such as the * {@code RequestMappingHandlerMapping}-{@code RequestMappingHandlerAdapter} pair * which are the default in the MVC Java config and the MVC namespace. *" />
       <item value="Return the class that declares the underlying Method or Constructor." />
       <item value="Helper class that encapsulates the specification of a method parameter, i.e. a {@link Method} * or {@link Constructor} plus a parameter index and a nested type index for a declared generic * type. Useful as a specification object to pass along." />
@@ -50,12 +51,11 @@
       <item value="* Indicates that the collection operation does not commit to preserving * the encounter order of input elements. (This might be true if the * result container has no intrinsic order, such as a {@link Set}.)" />
       <item value="collection operation" />
       <item value="Indicates that the collection operation does not commit to preserving * the encounter order of input elements." />
-      <item value="preserving" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1020" />
-        <entry key="ENGLISH" value="1021" />
+        <entry key="CHINESE" value="1021" />
+        <entry key="ENGLISH" value="1022" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

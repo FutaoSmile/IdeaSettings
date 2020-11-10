@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Called instead of {@code postHandle} and {@code afterCompletion} * when the handler is being executed concurrently. * &lt;p&gt;Implementations may use the provided request and response but should * avoid modifying them in ways that would conflict with the concurrent * execution of the handler. A typical use of this method would be to * clean up thread-local variables. * @param request the current request * @param response the current response * @param handler the handler (or {@link HandlerMethod}) that started async * execution, for type and/or instance examination * @throws Exception in case of errors */" />
       <item value="more likely" />
       <item value="* A convenience annotation that is itself annotated with * {@link ControllerAdvice @ControllerAdvice} * and {@link ResponseBody @ResponseBody}. * * &lt;p&gt;Types that carry this annotation are treated as controller advice where * {@link ExceptionHandler @ExceptionHandler} methods assume * {@link ResponseBody @ResponseBody} semantics by default. * * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; {@code @RestControllerAdvice} is processed if an appropriate * {@code HandlerMapping}-{@code HandlerAdapter} pair is configured such as the * {@code RequestMappingHandlerMapping}-{@code RequestMappingHandlerAdapter} pair * which are the default in the MVC Java config and the MVC namespace. *" />
       <item value="Return the class that declares the underlying Method or Constructor." />
@@ -50,12 +51,11 @@
       <item value="intrinsic order" />
       <item value="* Indicates that the collection operation does not commit to preserving * the encounter order of input elements. (This might be true if the * result container has no intrinsic order, such as a {@link Set}.)" />
       <item value="collection operation" />
-      <item value="Indicates that the collection operation does not commit to preserving * the encounter order of input elements." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1021" />
-        <entry key="ENGLISH" value="1022" />
+        <entry key="CHINESE" value="1022" />
+        <entry key="ENGLISH" value="1023" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

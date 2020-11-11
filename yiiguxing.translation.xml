@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Claims" />
       <item value="Duration" />
       <item value="* @return {@code true} if the execution chain should proceed with the * next interceptor or the handler itself. Else, DispatcherServlet assumes * that this interceptor has already dealt with the response itself." />
       <item value="* @param handler chosen handler to execute, for type and/or instance evaluation * @return {@code true} if the execution chain should proceed with the * next interceptor or the handler itself. Else, DispatcherServlet assumes * that this interceptor has already dealt with the response itself." />
@@ -50,7 +51,6 @@
       <item value="finisher" />
       <item value="* Indicates that the finisher function is the identity function and * can be elided. If set, it must be the case that an unchecked cast * from A to R will succeed." />
       <item value="elided" />
-      <item value="identity function" />
     </histories>
     <option name="languageScores">
       <map>

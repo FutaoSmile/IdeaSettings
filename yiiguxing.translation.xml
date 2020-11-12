@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abort Policy" />
+      <item value="Abort" />
       <item value="流水号" />
       <item value="masked" />
       <item value="primitive type" />
@@ -42,7 +44,6 @@
       <item value="load Factor" />
       <item value="has Queued Predecessors" />
       <item value="角标" />
-      <item value="Abort" />
       <item value="棋盘" />
       <item value="单价" />
       <item value="百分比" />
@@ -50,12 +51,11 @@
       <item value="http://uniliverwage.tnbchina.com:4080/web/wage Info Show Detail/get Wage Main.action?id Card=" />
       <item value="Evict" />
       <item value="性能" />
-      <item value="* Obtains the class objects representing the interfaces implemented * by the class or, if this object represents an interface, the interfaces * extended by that interface." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1030" />
-        <entry key="ENGLISH" value="1030" />
+        <entry key="CHINESE" value="1031" />
+        <entry key="ENGLISH" value="1032" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

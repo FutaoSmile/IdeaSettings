@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="流水号" />
       <item value="masked" />
       <item value="primitive type" />
       <item value="expire" />
@@ -50,11 +51,10 @@
       <item value="Evict" />
       <item value="性能" />
       <item value="* Obtains the class objects representing the interfaces implemented * by the class or, if this object represents an interface, the interfaces * extended by that interface." />
-      <item value="* Returns the internal names of the class's interfaces (see * {@link Type#getInternalName() getInternalName})." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1029" />
+        <entry key="CHINESE" value="1030" />
         <entry key="ENGLISH" value="1030" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />

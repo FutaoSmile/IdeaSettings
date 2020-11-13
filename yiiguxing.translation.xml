@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attendance" />
+      <item value="考勤" />
+      <item value="attendence" />
+      <item value="attdence" />
+      <item value="异常" />
       <item value="Extention Policy" />
       <item value="Extention" />
       <item value="Abort Policy" />
@@ -46,21 +51,16 @@
       <item value="load Factor" />
       <item value="has Queued Predecessors" />
       <item value="角标" />
-      <item value="棋盘" />
-      <item value="单价" />
-      <item value="百分比" />
-      <item value="total Amount" />
-      <item value="http://uniliverwage.tnbchina.com:4080/web/wage Info Show Detail/get Wage Main.action?id Card=" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1033" />
-        <entry key="ENGLISH" value="1034" />
+        <entry key="CHINESE" value="1035" />
+        <entry key="ENGLISH" value="1036" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="4" />
         <entry key="FINNISH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contact" />
       <item value="备注" />
       <item value="remark" />
       <item value="remarks" />
@@ -50,12 +51,11 @@
       <item value="represented" />
       <item value="分隔符" />
       <item value="冒泡排序" />
-      <item value="* The number of times this HashMap has been structurally modified * Structural modifications are those that change the number of mappings in * the HashMap or otherwise modify its internal structure (e.g., * rehash). This field is used to make iterators on Collection-views of * the HashMap fail-fast. (See ConcurrentModificationException)." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1038" />
-        <entry key="ENGLISH" value="1038" />
+        <entry key="ENGLISH" value="1039" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

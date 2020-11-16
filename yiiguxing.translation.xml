@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="History" />
       <item value="Contact" />
       <item value="备注" />
       <item value="remark" />
@@ -50,12 +51,11 @@
       <item value="represented by" />
       <item value="represented" />
       <item value="分隔符" />
-      <item value="冒泡排序" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1038" />
-        <entry key="ENGLISH" value="1039" />
+        <entry key="CHINESE" value="1039" />
+        <entry key="ENGLISH" value="1040" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

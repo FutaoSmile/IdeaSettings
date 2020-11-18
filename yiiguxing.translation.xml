@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="must Not Conflict" />
+      <item value="Conflict" />
+      <item value="free" />
+      <item value="推荐" />
+      <item value="合作过" />
       <item value="count" />
       <item value="待派单" />
       <item value="History" />
@@ -46,16 +51,11 @@
       <item value="deprecation" />
       <item value="* Set the request interceptors that this accessor should use. * &lt;p&gt;The interceptors will get immediately sorted according to their * {@linkplain AnnotationAwareOrderComparator#sort(List) order}. * @see #getRequestFactory() * @see AnnotationAwareOrderComparator */" />
       <item value="完整的" />
-      <item value="complete" />
-      <item value="临时的" />
-      <item value="* Get the request interceptors that this accessor uses. * &lt;p&gt;The returned {@link List} is active and may be modified. Note, * however, that the interceptors will not be resorted according to their * {@linkplain AnnotationAwareOrderComparator#sort(List) order} before the * {@link ClientHttpRequestFactory} is built." />
-      <item value="反射" />
-      <item value="represented by" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1040" />
-        <entry key="ENGLISH" value="1040" />
+        <entry key="CHINESE" value="1044" />
+        <entry key="ENGLISH" value="1045" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

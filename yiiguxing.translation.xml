@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="最近" />
       <item value="health Check Interval" />
       <item value="the intersection of the two collections" />
       <item value="must Not Conflict" />
@@ -50,11 +51,10 @@
       <item value="更新人" />
       <item value="updater" />
       <item value="creator" />
-      <item value="deprecation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1046" />
+        <entry key="CHINESE" value="1047" />
         <entry key="ENGLISH" value="1047" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sign Out" />
+      <item value="sign In" />
       <item value="to Int Exact" />
       <item value="identity" />
       <item value="最近" />
@@ -49,13 +51,11 @@
       <item value="男" />
       <item value="UNKNOW" />
       <item value="gender" />
-      <item value="创建人" />
-      <item value="更新人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1048" />
-        <entry key="ENGLISH" value="1049" />
+        <entry key="CHINESE" value="1050" />
+        <entry key="ENGLISH" value="1051" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

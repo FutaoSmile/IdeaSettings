@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine" />
       <item value="上班" />
       <item value="上班时间" />
       <item value="封面" />
@@ -50,12 +51,11 @@
       <item value="过期" />
       <item value="Claims" />
       <item value="Duration" />
-      <item value="* @return {@code true} if the execution chain should proceed with the * next interceptor or the handler itself. Else, DispatcherServlet assumes * that this interceptor has already dealt with the response itself." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1062" />
-        <entry key="ENGLISH" value="1062" />
+        <entry key="ENGLISH" value="1063" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
@@ -76,6 +76,9 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607406899864" />
+  </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
       <app-key>
@@ -83,6 +86,5 @@
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>

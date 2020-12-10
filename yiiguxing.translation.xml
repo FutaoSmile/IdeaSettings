@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="maven 3" />
       <item value="Percent" />
       <item value="determine" />
       <item value="上班" />
@@ -50,7 +51,6 @@
       <item value="primitive type" />
       <item value="expire" />
       <item value="过期" />
-      <item value="Claims" />
     </histories>
     <option name="languageScores">
       <map>

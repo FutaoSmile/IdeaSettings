@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="来源" />
+      <item value="source" />
       <item value="sort Order" />
       <item value="maven 3" />
       <item value="Percent" />
@@ -49,13 +51,11 @@
       <item value="Abort" />
       <item value="流水号" />
       <item value="masked" />
-      <item value="primitive type" />
-      <item value="expire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1064" />
-        <entry key="ENGLISH" value="1065" />
+        <entry key="CHINESE" value="1066" />
+        <entry key="ENGLISH" value="1066" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607406899864" />
+    <option name="lastTrimTime" value="1607840936123" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">

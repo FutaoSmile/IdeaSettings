@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tenant" />
       <item value="来源" />
       <item value="source" />
       <item value="sort Order" />
@@ -50,12 +51,11 @@
       <item value="Abort Policy" />
       <item value="Abort" />
       <item value="流水号" />
-      <item value="masked" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1066" />
-        <entry key="ENGLISH" value="1066" />
+        <entry key="ENGLISH" value="1067" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

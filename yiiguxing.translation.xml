@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prohibition of table update operation" />
       <item value="最外层" />
       <item value="Out Most" />
       <item value="Tenant" />
@@ -50,12 +51,11 @@
       <item value="异常" />
       <item value="Extention Policy" />
       <item value="Extention" />
-      <item value="Abort Policy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1068" />
-        <entry key="ENGLISH" value="1068" />
+        <entry key="ENGLISH" value="1069" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

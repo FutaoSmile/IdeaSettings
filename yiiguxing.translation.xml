@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mybatis-plus.mapper-locations=classpath:mappers.xml" />
       <item value="Prohibition of table update operation" />
       <item value="最外层" />
       <item value="Out Most" />
@@ -50,7 +51,6 @@
       <item value="attdence" />
       <item value="异常" />
       <item value="Extention Policy" />
-      <item value="Extention" />
     </histories>
     <option name="languageScores">
       <map>

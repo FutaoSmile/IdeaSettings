@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auto Version Submodules" />
+      <item value="submodules" />
       <item value="occasion" />
       <item value="mybatis-plus.mapper-locations=classpath:mappers.xml" />
       <item value="Prohibition of table update operation" />
@@ -49,13 +51,11 @@
       <item value="attendance" />
       <item value="考勤" />
       <item value="attendence" />
-      <item value="attdence" />
-      <item value="异常" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1069" />
-        <entry key="ENGLISH" value="1069" />
+        <entry key="CHINESE" value="1071" />
+        <entry key="ENGLISH" value="1072" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

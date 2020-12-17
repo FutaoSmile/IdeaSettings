@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whether to automatically assign submodules the parent version. If set to false, the user will be prompted for the version of each submodules." />
       <item value="auto Version Submodules" />
       <item value="submodules" />
       <item value="occasion" />
@@ -50,12 +51,11 @@
       <item value="remarks" />
       <item value="attendance" />
       <item value="考勤" />
-      <item value="attendence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1071" />
-        <entry key="ENGLISH" value="1072" />
+        <entry key="CHINESE" value="1072" />
+        <entry key="ENGLISH" value="1073" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

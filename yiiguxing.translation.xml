@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="words" />
+      <item value="wd" />
+      <item value="已婚" />
+      <item value="married" />
+      <item value="marry" />
+      <item value="是否婚姻" />
+      <item value="婚姻状态" />
       <item value="英文名" />
       <item value="中文名" />
       <item value="BLACK LIST" />
@@ -44,18 +51,11 @@
       <item value="to Int Exact" />
       <item value="identity" />
       <item value="最近" />
-      <item value="health Check Interval" />
-      <item value="the intersection of the two collections" />
-      <item value="must Not Conflict" />
-      <item value="Conflict" />
-      <item value="free" />
-      <item value="推荐" />
-      <item value="合作过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1079" />
-        <entry key="ENGLISH" value="1079" />
+        <entry key="CHINESE" value="1084" />
+        <entry key="ENGLISH" value="1085" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

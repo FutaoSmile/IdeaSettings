@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="avatar" />
+      <item value="gender" />
       <item value="disambiguation" />
       <item value="唯一性校验" />
       <item value="Whether to automatically assign submodules the parent version. If set to false, the user will be prompted for the version of each submodules." />
@@ -49,13 +51,11 @@
       <item value="History" />
       <item value="Contact" />
       <item value="备注" />
-      <item value="remark" />
-      <item value="remarks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1073" />
-        <entry key="ENGLISH" value="1074" />
+        <entry key="CHINESE" value="1075" />
+        <entry key="ENGLISH" value="1075" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="4" />
         <entry key="ITALIAN" value="2" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>

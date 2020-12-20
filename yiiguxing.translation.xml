@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="705" />
+    <option name="newTranslationDialogY" value="457" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="edu Background" />
+      <item value="行业" />
+      <item value="职业" />
+      <item value="educational background" />
+      <item value="学历" />
+      <item value="毕业" />
+      <item value="grad Date" />
       <item value="words" />
       <item value="wd" />
       <item value="已婚" />
@@ -44,18 +54,11 @@
       <item value="完成" />
       <item value="正常" />
       <item value="Thing" />
-      <item value="evicting" />
-      <item value="sub File Ext Name" />
-      <item value="sign Out" />
-      <item value="sign In" />
-      <item value="to Int Exact" />
-      <item value="identity" />
-      <item value="最近" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1084" />
-        <entry key="ENGLISH" value="1085" />
+        <entry key="CHINESE" value="1089" />
+        <entry key="ENGLISH" value="1090" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
@@ -63,7 +66,7 @@
         <entry key="FRENCH" value="5" />
         <entry key="FINNISH" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="CROATIAN" value="1" />
+        <entry key="CROATIAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="3" />

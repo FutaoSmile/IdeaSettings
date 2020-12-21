@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="user Count" />
       <item value="edu Background" />
       <item value="行业" />
       <item value="职业" />
@@ -53,12 +54,11 @@
       <item value="source Type" />
       <item value="完成" />
       <item value="正常" />
-      <item value="Thing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1089" />
-        <entry key="ENGLISH" value="1090" />
+        <entry key="CHINESE" value="1090" />
+        <entry key="ENGLISH" value="1091" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

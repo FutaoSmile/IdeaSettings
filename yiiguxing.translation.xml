@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="存在" />
+      <item value="EXIT" />
       <item value="caculate" />
       <item value="nano-of-second altered." />
       <item value="运算符" />
@@ -52,13 +54,11 @@
       <item value="disambiguation" />
       <item value="唯一性校验" />
       <item value="Whether to automatically assign submodules the parent version. If set to false, the user will be prompted for the version of each submodules." />
-      <item value="auto Version Submodules" />
-      <item value="submodules" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1110" />
-        <entry key="ENGLISH" value="1111" />
+        <entry key="CHINESE" value="1112" />
+        <entry key="ENGLISH" value="1112" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

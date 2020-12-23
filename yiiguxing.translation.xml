@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="运算符" />
+      <item value="operator" />
+      <item value="Filter Condition Parser" />
+      <item value="解析器" />
       <item value="筛选条件" />
       <item value="调度时间" />
       <item value="上次" />
@@ -50,15 +54,11 @@
       <item value="submodules" />
       <item value="occasion" />
       <item value="mybatis-plus.mapper-locations=classpath:mappers.xml" />
-      <item value="Prohibition of table update operation" />
-      <item value="最外层" />
-      <item value="Out Most" />
-      <item value="Tenant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1105" />
-        <entry key="ENGLISH" value="1105" />
+        <entry key="CHINESE" value="1108" />
+        <entry key="ENGLISH" value="1108" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

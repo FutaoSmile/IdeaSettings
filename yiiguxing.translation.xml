@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="筛选条件" />
       <item value="调度时间" />
       <item value="上次" />
       <item value="下次" />
@@ -53,12 +54,11 @@
       <item value="最外层" />
       <item value="Out Most" />
       <item value="Tenant" />
-      <item value="来源" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1104" />
-        <entry key="ENGLISH" value="1104" />
+        <entry key="CHINESE" value="1105" />
+        <entry key="ENGLISH" value="1105" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

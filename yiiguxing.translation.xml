@@ -4,6 +4,18 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="处理中" />
+      <item value="PROCESSING" />
+      <item value="operating" />
+      <item value="operating Status" />
+      <item value="运行状态" />
+      <item value="WEEKLY" />
+      <item value="MONTHLY" />
+      <item value="DAILY" />
+      <item value="频率" />
+      <item value="手动" />
+      <item value="更新方式" />
+      <item value="remark" />
       <item value="ad intention customer" />
       <item value="user Count" />
       <item value="edu Background" />
@@ -42,23 +54,11 @@
       <item value="source" />
       <item value="sort Order" />
       <item value="maven 3" />
-      <item value="Percent" />
-      <item value="determine" />
-      <item value="上班" />
-      <item value="上班时间" />
-      <item value="封面" />
-      <item value="cover" />
-      <item value="* Basic global error {@link Controller @Controller}, rendering {@link ErrorAttributes}. * More specific errors can be handled either using Spring MVC abstractions (e.g. * {@code @ExceptionHandler}) or by adding servlet * {@link AbstractServletWebServerFactory#setErrorPages server error pages}. *" />
-      <item value="invitees" />
-      <item value="邀请者" />
-      <item value="资源类型" />
-      <item value="source Type" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1091" />
-        <entry key="ENGLISH" value="1092" />
+        <entry key="CHINESE" value="1101" />
+        <entry key="ENGLISH" value="1101" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

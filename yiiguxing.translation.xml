@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="nano-of-second altered." />
       <item value="运算符" />
       <item value="operator" />
       <item value="Filter Condition Parser" />
@@ -53,12 +54,11 @@
       <item value="auto Version Submodules" />
       <item value="submodules" />
       <item value="occasion" />
-      <item value="mybatis-plus.mapper-locations=classpath:mappers.xml" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1108" />
-        <entry key="ENGLISH" value="1108" />
+        <entry key="ENGLISH" value="1109" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />

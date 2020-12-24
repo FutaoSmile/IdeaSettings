@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="存在待分派的门店" />
       <item value="@param source the object on which the event initially occurred or with which the event is associated (never {@code null})" />
       <item value="存在" />
       <item value="EXIT" />
@@ -53,11 +54,10 @@
       <item value="avatar" />
       <item value="gender" />
       <item value="disambiguation" />
-      <item value="唯一性校验" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1112" />
+        <entry key="CHINESE" value="1113" />
         <entry key="ENGLISH" value="1113" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />

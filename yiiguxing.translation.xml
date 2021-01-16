@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="work Area" />
+      <item value="live District" />
+      <item value="work District" />
       <item value="逗号" />
       <item value="create Temp File" />
       <item value="Forces any content in the buffer to be written to the client. A call to this method automatically commits the response, meaning the status code and headers will be written." />
@@ -51,14 +54,11 @@
       <item value="职业" />
       <item value="educational background" />
       <item value="学历" />
-      <item value="毕业" />
-      <item value="grad Date" />
-      <item value="words" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1122" />
-        <entry key="ENGLISH" value="1122" />
+        <entry key="CHINESE" value="1124" />
+        <entry key="ENGLISH" value="1125" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609296329175" />
+    <option name="lastTrimTime" value="1610769461541" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -88,6 +88,5 @@
         <option name="appId" value="20190917000334998" />
       </app-key>
     </option>
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>

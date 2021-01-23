@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="计算" />
       <item value="work Area" />
       <item value="live District" />
       <item value="work District" />
@@ -53,11 +54,10 @@
       <item value="行业" />
       <item value="职业" />
       <item value="educational background" />
-      <item value="学历" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1124" />
+        <entry key="CHINESE" value="1125" />
         <entry key="ENGLISH" value="1125" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610769461541" />
+    <option name="lastTrimTime" value="1611389162047" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">

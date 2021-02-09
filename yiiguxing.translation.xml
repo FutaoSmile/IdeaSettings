@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="小定" />
       <item value="待收货" />
       <item value="已发货" />
       <item value="已支付" />
@@ -53,12 +54,11 @@
       <item value="MONTHLY" />
       <item value="DAILY" />
       <item value="频率" />
-      <item value="手动" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1132" />
-        <entry key="ENGLISH" value="1132" />
+        <entry key="CHINESE" value="1133" />
+        <entry key="ENGLISH" value="1133" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="4" />

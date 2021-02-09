@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="正式的" />
+      <item value="queue" />
+      <item value="order" />
       <item value="存在待分派的门店" />
       <item value="@param source the object on which the event initially occurred or with which the event is associated (never {@code null})" />
       <item value="存在" />
@@ -51,14 +54,11 @@
       <item value="BLACK LIST" />
       <item value="女" />
       <item value="男" />
-      <item value="avatar" />
-      <item value="gender" />
-      <item value="disambiguation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1113" />
-        <entry key="ENGLISH" value="1113" />
+        <entry key="CHINESE" value="1115" />
+        <entry key="ENGLISH" value="1115" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608365894184" />
+    <option name="lastTrimTime" value="1612853707110" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -88,6 +88,5 @@
         <option name="appId" value="20190917000334998" />
       </app-key>
     </option>
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>

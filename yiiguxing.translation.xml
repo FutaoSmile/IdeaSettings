@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="待收货" />
+      <item value="已发货" />
+      <item value="已支付" />
       <item value="tag Ranking" />
       <item value="排行" />
       <item value="Rank" />
@@ -51,14 +54,11 @@
       <item value="DAILY" />
       <item value="频率" />
       <item value="手动" />
-      <item value="更新方式" />
-      <item value="remark" />
-      <item value="ad intention customer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1129" />
-        <entry key="ENGLISH" value="1130" />
+        <entry key="CHINESE" value="1132" />
+        <entry key="ENGLISH" value="1132" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="4" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611921100223" />
+    <option name="lastTrimTime" value="1612851706372" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">

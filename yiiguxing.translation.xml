@@ -4,33 +4,6 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="小定" />
-      <item value="待收货" />
-      <item value="已发货" />
-      <item value="已支付" />
-      <item value="tag Ranking" />
-      <item value="排行" />
-      <item value="Rank" />
-      <item value="排行榜" />
-      <item value="tag Rank" />
-      <item value="计算" />
-      <item value="work Area" />
-      <item value="live District" />
-      <item value="work District" />
-      <item value="逗号" />
-      <item value="create Temp File" />
-      <item value="Forces any content in the buffer to be written to the client. A call to this method automatically commits the response, meaning the status code and headers will be written." />
-      <item value="触发" />
-      <item value="register From Url" />
-      <item value="注册" />
-      <item value="registion" />
-      <item value="county" />
-      <item value="县" />
-      <item value="县城" />
-      <item value="force Refreh" />
-      <item value="Comment" />
-      <item value="table Comment" />
-      <item value="is Anonymous Class" />
       <item value="存在待分派的门店" />
       <item value="@param source the object on which the event initially occurred or with which the event is associated (never {@code null})" />
       <item value="存在" />
@@ -54,16 +27,43 @@
       <item value="MONTHLY" />
       <item value="DAILY" />
       <item value="频率" />
+      <item value="手动" />
+      <item value="更新方式" />
+      <item value="remark" />
+      <item value="ad intention customer" />
+      <item value="user Count" />
+      <item value="edu Background" />
+      <item value="行业" />
+      <item value="职业" />
+      <item value="educational background" />
+      <item value="学历" />
+      <item value="毕业" />
+      <item value="grad Date" />
+      <item value="words" />
+      <item value="wd" />
+      <item value="已婚" />
+      <item value="married" />
+      <item value="marry" />
+      <item value="是否婚姻" />
+      <item value="婚姻状态" />
+      <item value="英文名" />
+      <item value="中文名" />
+      <item value="BLACK LIST" />
+      <item value="女" />
+      <item value="男" />
+      <item value="avatar" />
+      <item value="gender" />
+      <item value="disambiguation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1133" />
-        <entry key="ENGLISH" value="1133" />
+        <entry key="CHINESE" value="1113" />
+        <entry key="ENGLISH" value="1113" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
-        <entry key="GERMAN" value="4" />
+        <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="6" />
+        <entry key="FRENCH" value="5" />
         <entry key="FINNISH" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="2" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612851706372" />
+    <option name="lastTrimTime" value="1608365894184" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -88,5 +88,6 @@
         <option name="appId" value="20190917000334998" />
       </app-key>
     </option>
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>

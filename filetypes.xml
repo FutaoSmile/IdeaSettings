@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="ServiceImplTemplate" type="FTL" />
       <mapping pattern="ControllerTemplate" type="FTL" />
       <mapping ext="modeltemplate" type="FTL" />
@@ -10,8 +11,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitignored" type="PLAIN_TEXT" />
-      <mapping pattern="event.xml" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="event.xml" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="quedian" type="PLAIN_TEXT" />
       <mapping pattern="L" type="PLAIN_TEXT" />

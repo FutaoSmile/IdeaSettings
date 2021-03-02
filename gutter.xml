@@ -7,6 +7,7 @@
         <entry key="CdiDisposerMethodsClassAnnotator" value="true" />
         <entry key="CdiInjectionsClassAnnotator" value="true" />
         <entry key="ConfigurationPropertyRelatedItemLineMarkerProvider" value="true" />
+        <entry key="HelidonClassAnnotator" value="true" />
         <entry key="JspActionAnnotator" value="true" />
         <entry key="LiveBeansClassLineMarkerProvider" value="true" />
         <entry key="LiveBeansDomLineMarkerProvider" value="true" />
@@ -14,6 +15,9 @@
         <entry key="MessageHandlerLineMarkerProvider" value="true" />
         <entry key="ModelDependenciesLineMarkerProviderJava" value="true" />
         <entry key="ModelDependenciesLineMarkerProviderXml" value="true" />
+        <entry key="RSOpenInHttpClientLineMarkerProvider" value="true" />
+        <entry key="RenderedDoc" value="true" />
+        <entry key="RetrofitOpenInHttpClientLineMarkerProvider" value="true" />
         <entry key="SpringAopAnnotator" value="true" />
         <entry key="SpringAutowiredAnnotator" value="true" />
         <entry key="SpringBeanAnnotator" value="true" />
@@ -24,18 +28,40 @@
         <entry key="SpringDataRepositoryAnnotator" value="true" />
         <entry key="SpringDomAnnotator" value="true" />
         <entry key="SpringEventListenerAnnotator" value="true" />
+        <entry key="SpringMQLineMarkerProvider" value="true" />
+        <entry key="SpringMvcRequestMappingLineMarkerProvider" value="true" />
         <entry key="SpringMvcRequestMappingRelatedItemLineMarkerProvider" value="true" />
         <entry key="SpringPropertiesAnnotator" value="true" />
         <entry key="SpringSpiRegistrationAnnotator" value="true" />
         <entry key="SpringTestConfigurationAnnotator" value="true" />
+        <entry key="SwOpenInHttpClientLineMarkerProvider" value="true" />
         <entry key="WebflowRelatedItemLineMarkerProvider" value="true" />
         <entry key="com.intellij.aop.jam.AopJavaAnnotator" value="true" />
+        <entry key="com.intellij.beanValidation.providers.BvConfigLineMarkerProvider" value="true" />
+        <entry key="com.intellij.beanValidation.providers.BvConstraintLineMarkerProvider" value="true" />
+        <entry key="com.intellij.cdi.gutter.CdiAnnotationsLineMarkerProvider" value="true" />
+        <entry key="com.intellij.cdi.gutter.CdiConfigLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.ExternalAnnotationLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.InferredAnnotationsLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.InferredContractAnnotationsLineMarkerProvider" value="true" />
+        <entry key="com.intellij.codeInsight.InferredNullabilityAnnotationsLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.daemon.impl.IconLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.daemon.impl.RecursiveCallLineMarkerProvider" value="true" />
         <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
+        <entry key="com.intellij.javaee.application.JavaeeAppConfigLineMarkerProvider" value="true" />
+        <entry key="com.intellij.javaee.ejb.providers.EjbAnnotationsLineMarkerProvider" value="true" />
+        <entry key="com.intellij.javaee.ejb.providers.EjbConfigLineMarkerProvider" value="true" />
+        <entry key="com.intellij.javaee.module.view.web.WebClassesLineMarkerProvider" value="true" />
+        <entry key="com.intellij.javaee.module.view.web.WebXmlLineMarkerProvider" value="true" />
+        <entry key="com.intellij.jpa.highlighting.JpaClassLineMarkerProvider" value="true" />
+        <entry key="com.intellij.jpa.highlighting.JpaConfigLineMarkerProvider" value="true" />
         <entry key="com.intellij.lang.javascript.highlighting.JSRecursiveCallLineMarkerProvider" value="true" />
+        <entry key="com.intellij.micronaut.provider.beans.MnBeansLineMarkers" value="true" />
+        <entry key="com.intellij.micronaut.provider.beans.MnEventsLineMarkers" value="true" />
+        <entry key="com.intellij.micronaut.provider.http.MnHttpLineMarkers" value="true" />
+        <entry key="com.intellij.micronaut.provider.management.MnManagementLineMarkers" value="true" />
+        <entry key="com.intellij.micronaut.provider.mq.MnMqLineMarkerProvider" value="true" />
+        <entry key="com.intellij.micronaut.provider.websocket.MnWebSocketLineMarkers" value="true" />
         <entry key="com.intellij.sql.editor.SqlLineMarkerProvider" value="true" />
         <entry key="com.intellij.sql.editor.SqlRecursiveCallLineMakerProvider" value="true" />
         <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
@@ -62,6 +88,7 @@
         <entry key="kotlin.overriding" value="true" />
         <entry key="org.editorconfig.configmanagement.editor.EditorConfigPreviewMarkerProvider" value="true" />
         <entry key="org.jetbrains.idea.devkit.navigation.ExtensionDeclarationRelatedItemLineMarkerProvider" value="true" />
+        <entry key="org.jetbrains.idea.devkit.references.DevKitRelatedPropertiesProvider" value="true" />
       </map>
     </option>
   </component>

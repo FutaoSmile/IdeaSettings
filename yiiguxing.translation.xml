@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="compact" />
       <item value="正式的" />
       <item value="queue" />
       <item value="order" />
@@ -53,12 +54,11 @@
       <item value="中文名" />
       <item value="BLACK LIST" />
       <item value="女" />
-      <item value="男" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1115" />
-        <entry key="ENGLISH" value="1115" />
+        <entry key="ENGLISH" value="1116" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612853707110" />
+    <option name="lastTrimTime" value="1614759519120" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">

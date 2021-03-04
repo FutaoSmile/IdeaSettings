@@ -1,0 +1,9 @@
+<application>
+  <component name="Zoolytic">
+    <option name="clusters">
+      <list>
+        <option value="localhost:2181" />
+      </list>
+    </option>
+  </component>
+</application>

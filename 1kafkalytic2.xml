@@ -1,0 +1,22 @@
+<application>
+  <component name="Kafkalytic">
+    <option name="clusters">
+      <map>
+        <entry key="localhost:9092">
+          <value>
+            <map>
+              <entry key="bootstrap.servers" value="localhost:9092" />
+              <entry key="name" value="localhost:9092" />
+              <entry key="request.timeout.ms" value="5000" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="config">
+      <map>
+        <entry key="progress_tip" value="shown" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,14 @@
+<application>
+  <component name="RestfulSetting">
+    <option name="appSetting">
+      <Settings>
+        <option name="properties">
+          <map>
+            <entry key="扫描lib包里面的Service接口" value="false" />
+            <entry key="是否默认展开Service树状图" value="false" />
+          </map>
+        </option>
+      </Settings>
+    </option>
+  </component>
+</application>

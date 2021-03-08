@@ -30,9 +30,13 @@
           <option name="url" value="git@gitee.com:FutaoSmile/maozzi-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.baoflag.com/bf-cms/cms-b-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/src/backend/fun" />
+    <option name="cloneParentDir" value="$USER_HOME$/src/work/baoflag/cms" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

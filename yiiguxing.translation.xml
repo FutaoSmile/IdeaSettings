@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="不可为空" />
       <item value="summer" />
       <item value="compact" />
       <item value="正式的" />
@@ -53,11 +54,10 @@
       <item value="婚姻状态" />
       <item value="英文名" />
       <item value="中文名" />
-      <item value="BLACK LIST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1115" />
+        <entry key="CHINESE" value="1116" />
         <entry key="ENGLISH" value="1116" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />

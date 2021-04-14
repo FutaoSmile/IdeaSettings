@@ -18,6 +18,10 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="Tool.GotoRequestService">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />

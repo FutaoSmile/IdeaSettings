@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="No acks - {@code autoAck=true} in {@code Channel.basicConsume()}." />
+      <item value="Auto - the container will issue the acknack based on whether the listener returns normally, or throws an exception." />
+      <item value="&lt;p&gt;&lt;em&gt;Do not confuse with RabbitMQ {@code autoAck} which is represented by {@link NONE} here&lt;em&gt;." />
+      <item value="Acknowledge Mode" />
       <item value="sort Order" />
       <item value="head Img" />
       <item value="已下架" />
@@ -50,10 +54,6 @@
       <item value="educational background" />
       <item value="学历" />
       <item value="毕业" />
-      <item value="grad Date" />
-      <item value="words" />
-      <item value="wd" />
-      <item value="已婚" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615299440901" />
+    <option name="lastTrimTime" value="1618386789413" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">

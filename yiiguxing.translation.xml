@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ktor-base" />
+      <item value="cloudinward" />
       <item value="No acks - {@code autoAck=true} in {@code Channel.basicConsume()}." />
       <item value="Auto - the container will issue the acknack based on whether the listener returns normally, or throws an exception." />
       <item value="&lt;p&gt;&lt;em&gt;Do not confuse with RabbitMQ {@code autoAck} which is represented by {@link NONE} here&lt;em&gt;." />
@@ -52,8 +54,6 @@
       <item value="行业" />
       <item value="职业" />
       <item value="educational background" />
-      <item value="学历" />
-      <item value="毕业" />
     </histories>
     <option name="languageScores">
       <map>

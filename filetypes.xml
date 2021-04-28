@@ -7,11 +7,12 @@
       <mapping pattern="developers" type="Groovy" />
       <mapping pattern="profiles" type="Groovy" />
       <mapping pattern="" type="JAVA" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitignored" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="event.xml" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="quedian" type="PLAIN_TEXT" />
       <mapping pattern="L" type="PLAIN_TEXT" />

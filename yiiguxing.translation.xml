@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ENTER PAGE" />
       <item value="昨天" />
       <item value="private long yestoday" />
       <item value="referer" />
@@ -53,12 +54,11 @@
       <item value="更新方式" />
       <item value="remark" />
       <item value="ad intention customer" />
-      <item value="user Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1121" />
-        <entry key="ENGLISH" value="1122" />
+        <entry key="CHINESE" value="1122" />
+        <entry key="ENGLISH" value="1123" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="4" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618386789413" />
+    <option name="lastTrimTime" value="1622620480573" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">

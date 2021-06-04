@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Digit" />
       <item value="is Numeric" />
       <item value="ENTER PAGE" />
       <item value="昨天" />
@@ -53,12 +54,11 @@
       <item value="频率" />
       <item value="手动" />
       <item value="更新方式" />
-      <item value="remark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1122" />
-        <entry key="ENGLISH" value="1123" />
+        <entry key="CHINESE" value="1123" />
+        <entry key="ENGLISH" value="1124" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="4" />

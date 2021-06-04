@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Numeric" />
       <item value="ENTER PAGE" />
       <item value="昨天" />
       <item value="private long yestoday" />
@@ -53,7 +54,6 @@
       <item value="手动" />
       <item value="更新方式" />
       <item value="remark" />
-      <item value="ad intention customer" />
     </histories>
     <option name="languageScores">
       <map>

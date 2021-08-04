@@ -3,6 +3,8 @@
     <option name="clusters">
       <list>
         <option value="localhost:2181" />
+        <option value="localhost:2182" />
+        <option value="localhost:2183" />
       </list>
     </option>
   </component>

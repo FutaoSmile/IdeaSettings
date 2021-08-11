@@ -18,11 +18,4 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="js.debugger.webconsole" value="false" />
   </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
-      </map>
-    </option>
-  </component>
 </application>

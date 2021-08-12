@@ -3,44 +3,8 @@
     <keyboard-shortcut first-keystroke="ctrl meta u" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
-  <action id="Arrangement.Alias.Rule.Add">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
-  <action id="Arrangement.Rule.Add">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
-  <action id="Console.TableResult.AddRow" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="meta t" />
-  </action>
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
-  </action>
-  <action id="FileChooser.NewFolder" />
-  <action id="Generate">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
-  <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="meta o" />
-    <keyboard-shortcut first-keystroke="meta n" />
-  </action>
-  <action id="NewClass">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
-  <action id="NewElement">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
-  <action id="PopupMenu-selectNext">
-    <keyboard-shortcut first-keystroke="down" />
-  </action>
-  <action id="ServiceView.AddService">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
-  <action id="Tree-selectNext">
-    <keyboard-shortcut first-keystroke="down" />
-  </action>
-  <action id="Uml.NewElement">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Vcs.UpdateProject" />
 </keymap>

@@ -3,6 +3,7 @@
     <option name="settings">
       <map>
         <entry key="compiler.automake.allow.when.app.running" value="true" />
+        <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>
   </component>

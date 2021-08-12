@@ -1,4 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Arrangement.Alias.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -6,6 +10,9 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Console.TableResult.AddRow" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
@@ -35,4 +42,5 @@
   <action id="Uml.NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>

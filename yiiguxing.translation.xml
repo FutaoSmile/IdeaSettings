@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="457" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Atomic" />
       <item value="关联的" />
       <item value="分隔符" />
       <item value="Digit" />
@@ -53,12 +54,11 @@
       <item value="WEEKLY" />
       <item value="MONTHLY" />
       <item value="DAILY" />
-      <item value="频率" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1125" />
-        <entry key="ENGLISH" value="1125" />
+        <entry key="ENGLISH" value="1126" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="4" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627480459205" />
+    <option name="lastTrimTime" value="1628735648287" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
